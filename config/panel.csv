@@ -1,0 +1,15 @@
+company,board,source_type,dept_id,dept_name,url
+Anthropic,anthropic,greenhouse_dept,4002061008,AI Research & Engineering,https://boards-api.greenhouse.io/v1/boards/anthropic/departments/4002061008
+Anthropic,anthropic,greenhouse_dept,4079949008,Applied AI,https://boards-api.greenhouse.io/v1/boards/anthropic/departments/4079949008
+Databricks,databricks,greenhouse_dept,4001015002,Engineering,https://boards-api.greenhouse.io/v1/boards/databricks/departments/4001015002
+Figma,figma,greenhouse_dept,4016250004,Engineering,https://boards-api.greenhouse.io/v1/boards/figma/departments/4016250004
+Cloudflare,cloudflare,greenhouse_dept,29067,Engineering,https://boards-api.greenhouse.io/v1/boards/cloudflare/departments/29067
+Cloudflare,cloudflare,greenhouse_dept,39629,Emerging Technology and Incubation,https://boards-api.greenhouse.io/v1/boards/cloudflare/departments/39629
+GitLab,gitlab,greenhouse_dept,4011044002,Engineering,https://boards-api.greenhouse.io/v1/boards/gitlab/departments/4011044002
+GitLab,gitlab,greenhouse_dept,4115238002,AI Engineering,https://boards-api.greenhouse.io/v1/boards/gitlab/departments/4115238002
+GitLab,gitlab,greenhouse_dept,4115236002,AI,https://boards-api.greenhouse.io/v1/boards/gitlab/departments/4115236002
+GitLab,gitlab,greenhouse_dept,4135580002,Architecture Engineering,https://boards-api.greenhouse.io/v1/boards/gitlab/departments/4135580002
+GitLab,gitlab,greenhouse_dept,4034706002,DevOps Engineering,https://boards-api.greenhouse.io/v1/boards/gitlab/departments/4034706002
+GitLab,gitlab,greenhouse_dept,4115237002,Core DevOps,https://boards-api.greenhouse.io/v1/boards/gitlab/departments/4115237002
+GitLab,gitlab,greenhouse_dept,4115239002,Data Engineering,https://boards-api.greenhouse.io/v1/boards/gitlab/departments/4115239002
+Discord,discord,greenhouse_board,,All jobs,https://boards-api.greenhouse.io/v1/boards/discord/jobs?content=false

@@ -1,0 +1,2 @@
+run_date,indeed_ok,sources_ok,sources_failed,sources_truncated,total_jobs,engineering_jobs,notes
+2026-10-17,1,14,0,0,359,317,first run (manual)
