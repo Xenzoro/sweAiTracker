@@ -1,0 +1,361 @@
+date,company,department,title,location,is_us,category,seniority,is_engineering,ai_in_title,fetch_status
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Knowledge Team","Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Staff+ Research Scientist, Multi-Agent","San Francisco, CA | New York City, NY | Seattle, WA",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,Performance Engineer,"San Francisco, CA | New York City, NY | Seattle, WA",1,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Staff Research Engineer, Discovery Team","San Francisco, CA",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"[Expression of Interest] Research Engineer / Scientist, Alignment - London","London, UK",0,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Machine Learning (Reinforcement Learning)","San Francisco, CA | New York City, NY",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Production Model Post-Training","San Francisco, CA | New York City, NY | Seattle, WA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer/Research Scientist, Pre-training","Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer / Research Scientist, Alignment","San Francisco, CA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Discovery","San Francisco, CA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,TPU Kernel Engineer,"San Francisco, CA | New York City, NY | Seattle, WA",1,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Engineering Manager, GPU (ML Accelerator)","San Francisco, CA | New York City, NY | Seattle, WA",1,ai_ml,management,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Performance Engineer, GPU","San Francisco, CA | New York City, NY | Seattle, WA",1,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Software Engineer, ML Networking","San Francisco, CA | New York City, NY | Seattle, WA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Pretraining Scaling","San Francisco, CA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Pretraining Scaling - London","London, UK",0,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"ML/Research Engineer, Safeguards","San Francisco, CA | New York City, NY",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer / Research Scientist, Tokens","New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, RL Engineering","San Francisco, CA | New York City, NY | Seattle, WA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,Pre-training Data Infrastructure Engineer,"San Francisco, CA",1,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Scientist, Interpretability","San Francisco, CA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Interpretability","San Francisco, CA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"[Expression of Interest] Research Manager, Interpretability","San Francisco, CA",1,eng_management,management,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Software Engineer, Research Tools","San Francisco, CA; San Francisco, CA | New York City, NY | Seattle, WA",1,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Cybersecurity RL (Reinforcement Learning)","San Francisco, CA | New York City, NY",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Visual Knowledge Work","New York City, NY; San Francisco, CA; Seattle, WA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Production Model Post-Training","Zürich, CH",0,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Machine Learning (Reinforcement Learning)","London, UK",0,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Pretraining","London, UK",0,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Anthropic Fellows Program, AI Safety & Security","London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",1,non_engineering,staff_plus,0,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Anthropic Fellows Program, ML Systems & Reinforcement Learning","London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",1,non_engineering,staff_plus,0,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)","London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",1,non_engineering,staff_plus,0,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Full-Stack Software Engineer, Reinforcement Learning","San Francisco, CA | New York City, NY",1,fullstack,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Machine Learning (RL Velocity)","London, UK",0,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Machine Learning (RL Velocity)","Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Post-Training Model Evaluations","San Francisco, CA | Seattle, WA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Engineering Manager, Research Productivity","San Francisco, CA | New York City, NY",1,eng_management,management,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Performance Engineer, Inference Systems","San Francisco, CA | New York City, NY | Seattle, WA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Chip Design RL (Reinforcement Learning)","San Francisco, CA | New York City, NY",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Data Operations Manager, Human Data","San Francisco, CA | New York City, NY",1,non_engineering,management,0,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Product Engineer, Computer Use","San Francisco, CA | New York City, NY | Seattle, WA",1,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Scientist, Life Sciences","San Francisco, CA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Code RL (Reinforcement Learning)","San Francisco, CA | New York City, NY",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, RL Scaling Science","London, UK",0,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Life Sciences","San Francisco, CA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Software Engineer, Research Infrastructure","San Francisco, CA | New York City, NY",1,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer, Computer Use","San Francisco, CA | New York City, NY | Seattle, WA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Scientist, Life Sciences (Experimental Biology)","San Francisco, CA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Engineering Manager, Research Data Platform","San Francisco, CA | New York City, NY",1,platform_infra,management,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Scientist, Life Sciences (Computational)","San Francisco, CA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Life Sciences Operator, Lead","New York City, NY",1,non_engineering,senior,0,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Machine Learning Infrastructure Engineer, Safeguards Research","San Francisco, CA | New York City, NY",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Staff Software Engineer, Environments Infrastructure","San Francisco, CA | New York City, NY",1,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Staff Software Engineer, Code RL","San Francisco, CA | New York City, NY | Seattle, WA",1,general_swe,staff_plus,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Engineering Manager, Search","San Francisco, CA | New York City, NY",1,eng_management,management,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Scientist, Life Sciences (Chemistry)","San Francisco, CA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Product Manager, Claude Science","San Francisco, CA | New York City, NY | Seattle, WA",1,non_engineering,management,0,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Staff+ Research Engineer, RL Data Platform","San Francisco, CA | New York City, NY",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Performance Engineer, Inference Engine","San Francisco, CA | New York City, NY",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Software Engineer, Tokens and Prompt Structures","San Francisco, CA | New York City, NY",1,prompt_engineering,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Operations, Reinforcement Learning","San Francisco, CA",1,non_engineering,mid_or_unspecified,0,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Staff Software Engineer, Search","San Francisco, CA | New York City, NY",1,general_swe,staff_plus,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer / Performance Engineer, RL Distributed Systems","San Francisco, CA | New York City, NY | Seattle, WA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Research Engineer / Research Scientist, RL Frontiers","San Francisco, CA | New York City, NY | Seattle, WA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Software Engineer, Sandboxing","San Francisco, CA | New York City, NY",1,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,"Staff Research Engineer, Multi-Agent Scaling","San Francisco, CA | New York City, NY | Seattle, WA",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,AI Research & Engineering,Conceptual Reasoning Fellow,"Remote-Friendly, United States; San Francisco, CA",1,non_engineering,staff_plus,0,0,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Architect, Industries","New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,Technical Deployment Lead,"Austin, TX; Boston, MA; New York City, NY; San Francisco, CA; Seattle, WA",1,non_engineering,senior,0,0,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Engineer, Beneficial Deployments (Life Sciences)","San Francisco, CA | New York City, NY",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Engineer, Enterprise Tech","San Francisco, CA | New York City, NY | Seattle, WA",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,Applied AI Architect,"Tokyo, Japan",0,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Manager, Forward Deployed Engineering","New York City, NY",1,eng_management,management,1,0,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Technical Evangelist, Startup Ecosystem","San Francisco, CA",1,non_engineering,mid_or_unspecified,0,0,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Architect, Commercial","San Francisco, CA | New York City, NY",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Manager of Applied AI Architecture, Enterprise Tech (Cyber)","New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA",1,ai_ml,management,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Architect, Digital Natives Business","Munich, Germany",0,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,Applied AI Security Architect,"London, UK",0,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,Applied AI Architect,"Madrid, Spain",0,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Manager, Applied AI Engineering, Beneficial Deployments (Life Sciences)","San Francisco, CA | New York City, NY",1,ai_ml,management,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Architect, Digital Natives Business","London, UK",0,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Architect, Partnerships","San Francisco, CA | New York City, NY",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,Forward Deployed Engineer,"New York City, NY; San Francisco, CA; Seattle, WA",1,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Architect, Enterprise Tech","San Francisco, CA | New York City, NY | Seattle, WA",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Manager, Forward Deployed Engineering","London, UK",0,eng_management,management,1,0,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Architect, Cyber","San Francisco, CA | New York City, NY",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Manager, Applied AI Architect, Enterprise Tech","San Francisco, CA | New York City, NY",1,ai_ml,management,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,Applied AI Architect,"Seoul, South Korea",0,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,Applied AI Architect,Singapore,0,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,Applied AI Architect,"Bangalore, India",0,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Architect, Partnerships","Bangalore, India",0,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Architect, Industries","London, UK",0,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Architect, Industries","Milan, Italy",0,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Architect, Industries","Munich, Germany",0,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Architect, Partnerships","Paris, France",0,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Strategist, EMEA","London, UK",0,non_engineering,mid_or_unspecified,0,0,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Engineer, Enterprise","Munich, Germany",0,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,Applied AI Engineer,"Tokyo, Japan",0,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI, Research Engineer","San Francisco, CA | New York City, NY",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Manager of Applied AI Architecture, Commercial","San Francisco, CA | New York City, NY",1,ai_ml,management,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Architect, Public Sector (National Security)","Washington, DC",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Manager Applied AI Architecture, Healthcare & Life Sciences","New York City, NY; San Francisco, CA | New York City, NY",1,ai_ml,management,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Manager Applied AI Architecture, Financial Services","New York City, NY; San Francisco, CA | New York City, NY",1,ai_ml,management,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Manager, Technical Deployment (Financial Services)","New York City, NY",1,eng_management,management,1,0,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Pre-Sales Program Lead, Forward Deployed Engineering","San Francisco, CA | New York City, NY",1,non_engineering,senior,0,0,COMPLETE
+2026-10-19,Anthropic,Applied AI,Forward Deployed Engineer,"Munich, Germany",0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Anthropic,Applied AI,Forward Deployed Engineer,"Paris, France",0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Anthropic,Applied AI,Technical Deployment Lead,"London, UK",0,non_engineering,senior,0,0,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Architect, Startups","San Francisco, CA | New York City, NY",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Anthropic,Applied AI,"Applied AI Architect, Strategic Enterprise Tech","San Francisco, CA | New York City, NY | Seattle, WA",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,Senior Software Engineer - Backend,"Bellevue, Washington",1,backend,senior,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,"Senior Manager, Infrastructure Data Science","Mountain View, California",1,platform_infra,management,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,"Senior Manager, Infrastructure Data Science","San Francisco, California",1,platform_infra,management,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Senior Staff Software Engineer - App and Partner Ecosystem,"Seattle, Washington",1,general_swe,staff_plus,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Senior Software Engineer - Partner Ecosystem,"Bengaluru, India",0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,"Sr. Manager, Engineering - Search","Mountain View, California",1,eng_management,management,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Senior Engineering Manager for Self-Serve (Learning),"Mountain View, California",1,eng_management,management,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Senior Engineering Manager for Workspace Platform,"San Francisco, California",1,platform_infra,management,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,"Manager, Engineering - AI/BI","Vancouver, Canada",0,ai_ml,management,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,Sr. Engineering Manager - Notebook Dataplane,"San Francisco, California",1,eng_management,management,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Sr Software Engineer-Networking,"Bellevue, Washington",1,platform_infra,senior,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Sr Software Engineer-Networking,"Mountain View, California",1,platform_infra,senior,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,"Staff Software Engineer, Model Serving","San Francisco, California",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,"Senior Software Engineer, Model Serving","San Francisco, California",1,ai_ml,senior,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,"Staff Software Engineer, Foundational Model Serving","San Francisco, California",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,Sr. Staff Software Engineer - Money Team,"Bellevue, Washington",1,general_swe,staff_plus,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Staff Backend Software Engineer- (AI Platform),"San Francisco, California",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,Staff Software Engineer - Backend,"London, United Kingdom",0,backend,staff_plus,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Sr. Software Engineer- Backend,"New York City, New York",1,backend,senior,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Senior Staff Software Engineer - Unity Catalog Runtime Enforcement,"Berlin, Germany",0,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Senior Staff Software Engineer - Unity Catalog Runtime Enforcement,"Amsterdam, Netherlands",0,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Senior Staff Software Engineer - Unity Catalog Runtime Enforcement,"London, United Kingdom",0,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Senior Staff Software Engineer - Unity Catalog Runtime Enforcement,"Zürich, Switzerland",0,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Senior Staff Software Engineer - Unity Catalog Runtime Enforcement,"Aarhus, Denmark",0,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Sr. Engineering Manager - Customer Experience Intelligence (CXI),"Mountain View, California; San Francisco, California",1,eng_management,management,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Principal Data Scientist,"Mountain View, California; San Francisco, California",1,data,staff_plus,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Staff Backend Software Engineer,New York,1,backend,staff_plus,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Engineering Manager - Databricks SQL Control Plane,"Mountain View, California",1,eng_management,management,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Sr. Executive Assistant,"San Francisco, California",1,non_engineering,senior,0,0,COMPLETE
+2026-10-19,Databricks,Engineering,Sr. Engineering Manager - Agentic Service Platform,"Mountain View, California",1,ai_ml,management,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,Staff Software Engineer- Public Sector,Virginia,1,general_swe,staff_plus,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Staff Production Engineer- Public Sector,Virginia,1,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Sr Staff Production Engineer- Public Sector,Virginia,1,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Senior Staff Applied AI Engineer - Context Retrieval,"Mountain View, California; San Francisco, California",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,Senior Designated Support Engineer,Japan,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,"Sr. Manager, Engineering Configuration Platform Team","Bellevue, Washington",1,platform_infra,management,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,"Sr. Staff Software Engineer — Observability, Insights & Governance","Mountain View, California; San Francisco, California",1,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,"Sr. Staff Software Engineer — Observability, Insights & Governance","Bellevue, Washington; Seattle, Washington",1,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,"Staff Software Engineer, AI Search","Mountain View, California",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,"Staff Software Engineer, AI Runtime","Mountain View, California; San Francisco, California",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,"Senior Software Engineer, AI Runtime","Mountain View, California; San Francisco, California",1,ai_ml,senior,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,"Senior Manager, Global Premier Support","Sydney, Australia",0,eng_management,management,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,"Engineering Manager, Serverless Compute Platform","Bellevue, Washington",1,platform_infra,management,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,"Staff Machine Learning Engineer, CustomerLake (ML/LLM)","New York City, New York",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,Sr Software Engineer- CXI,"Mountain View, California; San Francisco, California",1,general_swe,senior,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,"Staff Software Engineer, Agentic Applications","Mountain View, California",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,"Staff Software Engineer, AI Native Web Platform","Mountain View, California",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,"Senior Software Engineer, AI Native Web Platform","Mountain View, California",1,ai_ml,senior,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,"Staff Software Engineer, Foundation Model Inference","San Francisco, California",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,Staff Software Engineer- Foundation Model Inference,"San Francisco, California",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,Tech Lead Manager - Lakebase,"London, United Kingdom",0,eng_management,management,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,"Engineering Manager, CustomerLake Profile Agents","New York City, New York",1,ai_ml,management,1,1,COMPLETE
+2026-10-19,Databricks,Engineering,"Senior Fullstack Software Engineer - Enterprise Configuration & Administration, CustomerLake","New York City, New York",1,fullstack,senior,1,0,COMPLETE
+2026-10-19,Databricks,Engineering,Product Operations Manager,Costa Rica,0,non_engineering,management,0,0,COMPLETE
+2026-10-19,Databricks,Engineering,"Executive Assistant, R&D","Belgrade, Serbia",0,non_engineering,mid_or_unspecified,0,0,COMPLETE
+2026-10-19,Figma,Engineering,Software Engineer - Machine Learning,"San Francisco, CA • New York, NY • United States",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Figma,Engineering,Data Engineer,"San Francisco, CA • New York, NY • United States",1,data,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Figma,Engineering,Software Engineer - Data Infrastructure,"San Francisco, CA • New York, NY • United States",1,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Figma,Engineering,"Software Engineer - AI Product (London, United Kingdom)","London, England",0,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Figma,Engineering,Software Engineer - AI Product,"San Francisco, CA • New York, NY • United States",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Figma,Engineering,Software Engineer - Graphics & Media,"San Francisco, CA • New York, NY • United States",1,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Figma,Engineering,Software Engineer - C++,"San Francisco, CA • New York, NY • United States",1,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Figma,Engineering,Software Engineer - Distributed Systems,"San Francisco, CA • New York, NY • United States",1,backend,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Figma,Engineering,Software Engineer - Growth & Monetization,"San Francisco, CA • New York, NY • United States",1,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Figma,Engineering,Software Engineer - AI Platforms,"San Francisco, CA • New York, NY • United States",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Figma,Engineering,Software Engineer - Full Stack,"San Francisco, CA • New York, NY • United States",1,fullstack,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Figma,Engineering,AI Applied Scientist,"San Francisco, CA • New York, NY • United States",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Figma,Engineering,"Manager, Software Engineering - Billing","San Francisco, CA • New York, NY • United States",1,eng_management,management,1,0,COMPLETE
+2026-10-19,Figma,Engineering,"Manager, Software Engineering - Interaction Design","San Francisco, CA • New York, NY • United States",1,eng_management,management,1,0,COMPLETE
+2026-10-19,Figma,Engineering,"Software Engineer - Production Engineering (London, United Kingdom)","London, England",0,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Figma,Engineering,Software Engineer - Developer Experience,"San Francisco, CA • New York, NY • United States",1,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Figma,Engineering,"Manager, Software Engineering - Observability","San Francisco, CA • New York, NY • United States",1,platform_infra,management,1,0,COMPLETE
+2026-10-19,Figma,Engineering,Security Engineer,"San Francisco, CA • New York, NY • United States",1,security,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Figma,Engineering,"Manager, Software Engineering - DevEx AI Tools","San Francisco, CA • New York, NY • United States",1,ai_ml,management,1,1,COMPLETE
+2026-10-19,Figma,Engineering,Technical Program Manager - Data,"San Francisco, CA • New York, NY • United States",1,non_engineering,management,0,0,COMPLETE
+2026-10-19,Figma,Engineering,"Manager, Software Engineering - Growth Platform","San Francisco, CA • New York, NY • United States",1,platform_infra,management,1,0,COMPLETE
+2026-10-19,Figma,Engineering,"Data Scientist, Finance","San Francisco, CA • New York, NY • United States",1,non_engineering,mid_or_unspecified,0,0,COMPLETE
+2026-10-19,Figma,Engineering,Technical Program Manager - Infrastructure,"San Francisco, CA • New York, NY • United States",1,non_engineering,management,0,0,COMPLETE
+2026-10-19,Figma,Engineering,"Manager, Software Engineering - AI Product (London, United Kingdom)","London, England",0,ai_ml,management,1,1,COMPLETE
+2026-10-19,Figma,Engineering,Software Engineer - Mobile Web,"San Francisco, CA • New York, NY • United States",1,frontend,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Figma,Engineering,Software Engineer - Traffic,"San Francisco, CA • New York, NY • United States",1,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Figma,Engineering,"Director, Data Science","San Francisco, CA • New York, NY • United States",1,data,management,1,0,COMPLETE
+2026-10-19,Figma,Engineering,"Manager, Software Engineering - Data Platform","San Francisco, CA • New York, NY • United States",1,platform_infra,management,1,0,COMPLETE
+2026-10-19,Figma,Engineering,Software Engineer - Application Platform,"San Francisco, CA • New York, NY • United States",1,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Figma,Engineering,Forward Deployed Engineer,"San Francisco, CA • New York, NY • United States",1,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Staff/Principal Software Engineer - Security Platform,Distributed,0,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Software Engineer, Deploy at Scale",Hybrid,0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Software Engineer, Network Performance & Reliability (Argo)",Hybrid,0,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Senior Software Engineer, Network Performance & Reliability",Hybrid,0,platform_infra,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)",Hybrid,0,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Senior Software Engineer - Egress (Go/Rust),Hybrid,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Senior Software Engineer - Network Platforms,Hybrid,0,platform_infra,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Senior Software Engineer - Network Connectivity (Go/Rust),Hybrid,0,platform_infra,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Software Engineer, AI Agents",In-Office,0,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,Cloudflare,Engineering,Senior Network Engineer,Hybrid,0,platform_infra,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Senior Systems Engineer,In-Office,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Senior Distributed Systems Engineer,In-Office,0,backend,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Systems Engineer,Hybrid,0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Senior Systems Engineer, Cloudflare Tunnel",Hybrid,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Senior Systems Engineer,Hybrid,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Systems Engineer, Product Platform Tools","Austin, TX, United States",1,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Software Engineer, Spectrum",Hybrid,0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Principal Software Engineer, Data",Hybrid,0,data,staff_plus,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Senior Systems Engineer, Identity & Access Management",Hybrid,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Senior Software Engineer - Fintech,Hybrid,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Software Engineer, Network Firewall",Hybrid,0,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Principal Systems Engineer, DevTools",Hybrid,0,general_swe,staff_plus,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Systems Engineer, SSL/TLS Team",Hybrid,0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Senior Software Engineer - Quicksilver - Distributed Key Value,Hybrid,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Systems Engineer, Network Automation","Lisbon, Portugal",0,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Senior Engineering Manager,Hybrid,0,eng_management,management,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Senior Director of Engineering, Billing Platform",Hybrid,0,platform_infra,management,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Software Engineer, FL",Hybrid,0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Software Engineer, Rulesets",Hybrid,0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Software Engineer, Security Rules",Hybrid,0,security,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Senior Distributed Systems Engineer - Cache,Hybrid,0,backend,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Senior System Engineer,Hybrid,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Senior Software Engineer - Addressing Team,Hybrid,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Senior Software Engineer, Network On-Ramps",Hybrid,0,platform_infra,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Software Engineer - Platforms & Productivity,Hybrid,0,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Principal Data Scientist, Detection",Hybrid,0,data,staff_plus,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Senior Software Engineer, Deploy at Scale",Hybrid,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Senior Software Engineer, Security Rules",Hybrid,0,security,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Senior Engineering Manager, Observability",Hybrid,0,platform_infra,management,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Senior Software Engineer, Internal Fraud Platform",Hybrid,0,platform_infra,entry,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Systems Engineer, Network Protocols & Distributed Systems",Hybrid,0,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Software Engineer, CDN Configuration Group",Hybrid,0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Senior Engineering Director, Security Products",In-Office,0,security,management,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Software Engineer - Egress (Go/Rust),Hybrid,0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Systems Engineer,Hybrid,0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Researcher Web Security, Detection",Hybrid,0,security,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,"Systems Engineer, MCP Portals",Hybrid,0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,System Engineer - Network Systems,Hybrid,0,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Software Engineer,Hybrid,0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Engineering,Senior Supply Chain Program Manager,Hybrid,0,non_engineering,management,0,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Senior Software Engineer, Durable Objects (DO)",In-Office,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Senior Software Engineer, Workers Runtime",In-Office,0,platform_infra,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,Senior Design Engineer,Hybrid,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Senior Systems Engineer, Pipelines",In-Office,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Senior Software Engineer, R2 Metadata",Hybrid,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Software Engineer, Workers Deploy & Config",In-Office,0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Senior Systems Engineer, AI Gateway",In-Office,0,ai_ml,senior,1,1,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Senior Software Engineer, Storage Infrastructure",In-Office,0,platform_infra,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Engineering Manager - Workers Runtime, Edge Team",Hybrid,0,platform_infra,management,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Senior Systems Engineer, Workers AI",In-Office,0,ai_ml,senior,1,1,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Software Engineer, Realtime",Hybrid,0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Senior Software Engineer, Distributed Databases",In-Office,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,Director of Developer Events,In-Office,0,non_engineering,management,0,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"System Engineer, Cloudflare Hyperdrive",In-Office,0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Senior Systems Engineer, Cloudflare Data Platform",In-Office,0,platform_infra,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,Senior Machine Learning Engineer,Hybrid,0,ai_ml,senior,1,1,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Principal Software Engineer, Workers Deploy & Config",In-Office,0,general_swe,staff_plus,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,Deal Desk Engineer,Hybrid,0,non_engineering,mid_or_unspecified,0,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Senior Software Engineer, Cloudflare Queues",In-Office,0,general_swe,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Engineering Manager, Browser Run",Hybrid,0,eng_management,management,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,"Senior Systems Engineer, Workers Runtime",In-Office,0,platform_infra,senior,1,0,COMPLETE
+2026-10-19,Cloudflare,Emerging Technology and Incubation,VoidZero Engineer,Hybrid,0,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,GitLab,Engineering,"Senior Backend Engineer, India","Bangalore, India",0,backend,senior,1,0,COMPLETE
+2026-10-19,GitLab,Engineering,"Intermediate Backend Engineer, AMER","Remote, Canada; Remote, United States",1,backend,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,GitLab,Engineering,"Staff Backend Engineer, India","Bangalore, India",0,backend,staff_plus,1,0,COMPLETE
+2026-10-19,GitLab,Engineering,"Intermediate Backend Engineer, India","Bangalore, India",0,backend,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,GitLab,AI Engineering,"Backend Engineer (Ruby), AI Engineering: Agent Foundations","Remote, Canada; Remote, Poland; Remote, United Kingdom",0,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,GitLab,AI Engineering,"Senior Backend Engineer, AI Engineering: Chat","Remote, Canada; Remote, United Kingdom",0,ai_ml,senior,1,1,COMPLETE
+2026-10-19,GitLab,AI Engineering,"Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows","Remote, Canada; Remote, United States",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,GitLab,AI Engineering,"Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK","Remote, Canada; Remote, United States",1,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,GitLab,AI Engineering,"Backend Engineer (Python),AI Engineering: Agent Foundations","Remote, Canada; Remote, Poland; Remote, United Kingdom",0,ai_ml,mid_or_unspecified,1,1,COMPLETE
+2026-10-19,GitLab,AI Engineering,"Principal Engineer, Duo Agent Platform","Remote, Canada; Remote, Poland; Remote, United Kingdom; Remote, United States",1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,GitLab,AI,"Principal Product Manager, AI Custom Models","Remote, Canada; Remote, US",1,non_engineering,management,0,0,COMPLETE
+2026-10-19,GitLab,AI,"Principal Product Manager, AI Software Factory","Remote, Canada; Remote, United States",1,non_engineering,management,0,0,COMPLETE
+2026-10-19,GitLab,AI,"AI Transformation Owner, Product & Design","Remote, Canada; Remote, United Kingdom; Remote, United States",1,non_engineering,mid_or_unspecified,0,0,COMPLETE
+2026-10-19,GitLab,Architecture Engineering,"Engineering Manager, Tenant Scale:Git","Remote, Canada; Remote, United Kingdom; Remote, United States",1,eng_management,management,1,0,COMPLETE
+2026-10-19,GitLab,Architecture Engineering,"Senior Engineering Manager, Non-Linear Productivity","Remote, Canada; Remote, United Kingdom; Remote, US",1,eng_management,management,1,0,COMPLETE
+2026-10-19,GitLab,Architecture Engineering,Engineering Manager - Git & Gitaly Operations,"Bangalore, India",0,eng_management,management,1,0,COMPLETE
+2026-10-19,GitLab,Architecture Engineering,"Director, Engineering, Platform Operations & Productivity","Bangalore, India",0,platform_infra,management,1,0,COMPLETE
+2026-10-19,GitLab,Architecture Engineering,Engineering Manager - Nonlinear Productivity (Friction Elimination & Solutions),"Bangalore, India",0,eng_management,management,1,0,COMPLETE
+2026-10-19,GitLab,Architecture Engineering,"Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity","Remote, Canada; Remote, United States",1,architect,staff_plus,1,0,COMPLETE
+2026-10-19,GitLab,Architecture Engineering,"Senior Backend Engineer, Architecture Engineering: Nonlinear Productivity","Remote, Canada; Remote, United States",1,architect,staff_plus,1,0,COMPLETE
+2026-10-19,GitLab,Architecture Engineering,"Director of Engineering, Organizations & Cells","Bangalore, India",0,eng_management,management,1,0,COMPLETE
+2026-10-19,GitLab,DevOps Engineering,"Staff Backend Engineer (Go), Events Platform","Bangalore, India",0,non_engineering,staff_plus,0,0,COMPLETE
+2026-10-19,GitLab,DevOps Engineering,"Senior Frontend Engineer (Vue), Create:  Repository Management","Remote, United Kingdom",0,frontend,senior,1,0,COMPLETE
+2026-10-19,GitLab,DevOps Engineering,"Senior Backend Engineer (Ruby), Plan: Portfolio Experience","Remote, Canada; Remote, United States",1,backend,senior,1,0,COMPLETE
+2026-10-19,GitLab,DevOps Engineering,"Senior Backend Engineer (Ruby), Plan: Spec-Driven Development","Remote, United Kingdom",0,backend,senior,1,0,COMPLETE
+2026-10-19,GitLab,DevOps Engineering,"Senior Backend Engineer (Ruby on Rails), Plan: Planning Views","Bangalore, India",0,backend,senior,1,0,COMPLETE
+2026-10-19,GitLab,DevOps Engineering,"Senior Backend Engineer (Ruby), Plan: Spec-Driven Development","Remote, Poland",0,backend,senior,1,0,COMPLETE
+2026-10-19,GitLab,DevOps Engineering,Senior Engineering Manager - Continuous Deployment,"Bangalore, India",0,eng_management,management,1,0,COMPLETE
+2026-10-19,GitLab,Core DevOps,"Senior Product Manager, Agentic Source Code","Remote, Canada; Remote, US",1,non_engineering,management,0,0,COMPLETE
+2026-10-19,GitLab,Core DevOps,"Director of Product Management, Agentic Software Delivery","Remote, United States",1,ai_ml,management,1,1,COMPLETE
+2026-10-19,GitLab,Data Engineering,"Senior Backend Engineer, Analytics Instrumentation (Golang)","Remote, Canada; Remote, US",1,backend,senior,1,0,COMPLETE
+2026-10-19,GitLab,Data Engineering,"Engineering Manager, Data Foundations","Remote, US",1,data,management,1,0,COMPLETE
+2026-10-19,GitLab,Data Engineering,Staff Fullstack Engineer - Data Products,"Bangalore, India",0,data,staff_plus,1,0,COMPLETE
+2026-10-19,GitLab,Data Engineering,Staff Site Reliability Engineer - Monitoring and Anomaly Detection (Monetization),"Bangalore, India",0,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,GitLab,Data Engineering,Senior Backend Engineer - Platform Integrations (Monetization),"Bangalore, India",0,platform_infra,senior,1,0,COMPLETE
+2026-10-19,GitLab,Data Engineering,Senior Site Reliability Engineer - Monitoring and Anomaly Detection (Monetization),"Bangalore, India",0,platform_infra,senior,1,0,COMPLETE
+2026-10-19,GitLab,Data Engineering,Senior Backend Engineer - Platform Insights,"Bangalore, India",0,platform_infra,senior,1,0,COMPLETE
+2026-10-19,GitLab,Data Engineering,Intermediate Fullstack Engineer - Data Products,"Bangalore, India",0,data,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,GitLab,Data Engineering,Senior Fullstack Engineer - Data Products,"Bangalore, India",0,data,senior,1,0,COMPLETE
+2026-10-19,GitLab,Data Engineering,Staff Backend Engineer - Database Change Management,"Bangalore, India",0,backend,staff_plus,1,0,COMPLETE
+2026-10-19,GitLab,Data Engineering,Intermediate Backend Engineer - Database Change Management,"Bangalore, India",0,backend,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,GitLab,Data Engineering,Engineering Manager - Database Change Management,"Bangalore, India",0,eng_management,management,1,0,COMPLETE
+2026-10-19,Discord,All jobs,Commercial Policy Lead,San Francisco Bay Area,1,non_engineering,senior,0,0,COMPLETE
+2026-10-19,Discord,All jobs,Data Scientist - Client Platform,San Francisco Bay Area,1,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Engineering Manager, Machine Learning (Safety)",San Francisco Bay Area (or Remote U.S.),1,ai_ml,management,1,1,COMPLETE
+2026-10-19,Discord,All jobs,"Engineering Manager, Platform Security",Remote (West Coast),0,platform_infra,management,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Engineering Manager, Safety","San Francisco Bay Area, Greater Seattle Area, Greater Los Angeles Area (U.S.)",1,eng_management,management,1,0,COMPLETE
+2026-10-19,Discord,All jobs,Graphic Designer & Illustrator,San Francisco Bay Area,1,non_engineering,mid_or_unspecified,0,0,COMPLETE
+2026-10-19,Discord,All jobs,IT Ops Engineer,San Francisco Bay Area,1,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"IT Ops Engineer, Networking",San Francisco Bay Area,1,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Discord,All jobs,Marketing Program Manager,San Francisco Bay Area,1,non_engineering,management,0,0,COMPLETE
+2026-10-19,Discord,All jobs,Payments & Fraud Analyst,San Francisco Bay Area,1,non_engineering,mid_or_unspecified,0,0,COMPLETE
+2026-10-19,Discord,All jobs,"Product Designer, Growth",San Francisco Bay Area,1,non_engineering,mid_or_unspecified,0,0,COMPLETE
+2026-10-19,Discord,All jobs,QA/DevOps Engineer,San Francisco Bay Area,1,platform_infra,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Discord,All jobs,Sales Operations Manager,San Francisco Bay Area,1,non_engineering,management,0,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Data Engineer, Ads",Remote (U.S.),1,data,senior,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Data Science Manager, Developer Platform",San Francisco Bay Area,1,platform_infra,management,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Data Scientist, Causal Inference + Experimentation",San Francisco Bay Area,1,ai_ml,senior,1,1,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Full-Stack Software Engineer, Ads",San Francisco Bay Area,1,fullstack,senior,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Full-Stack Software Engineer, Developer Success",San Francisco Bay Area,1,fullstack,senior,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Full-Stack Software Engineer, Growth",San Francisco Bay Area,1,fullstack,senior,1,0,COMPLETE
+2026-10-19,Discord,All jobs,Senior Platform Security Engineer,San Francisco Bay Area,1,platform_infra,senior,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Product Designer, Consumer Revenue",San Francisco Bay Area,1,non_engineering,senior,0,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Product Designer, Design Systems",San Francisco Bay Area,1,non_engineering,senior,0,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Product Designer, Developer Success",San Francisco Bay Area,1,non_engineering,senior,0,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Product Design Manager, Growth",San Francisco Bay Area,1,non_engineering,management,0,0,COMPLETE
+2026-10-19,Discord,All jobs,Senior Salesforce Technical Lead,San Francisco Bay Area,1,non_engineering,senior,0,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Software Engineer, Ads",San Francisco Bay Area,1,general_swe,senior,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Software Engineer, Application Security",Remote (West Coast),0,security,senior,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Software Engineer, Consumer Revenue",San Francisco Bay Area,1,general_swe,senior,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Software Engineer, Data Platform",San Francisco Bay Area,1,platform_infra,senior,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Software Engineer, Engagement",San Francisco Bay Area,1,general_swe,senior,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Software Engineer, Growth",San Francisco Bay Area,1,general_swe,senior,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Software Engineer, Machine Learning (Safety)",San Francisco Bay Area,1,ai_ml,senior,1,1,COMPLETE
+2026-10-19,Discord,All jobs,Senior Software Engineer - Safety Experience,San Francisco Bay Area,1,general_swe,senior,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Software Engineer, Safety Processing",San Francisco Bay Area or Los Angeles Area,1,general_swe,senior,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Senior Staff Program Manager, Creator Partnerships",San Francisco Bay Area,1,non_engineering,management,0,0,COMPLETE
+2026-10-19,Discord,All jobs,Senior Stock Administrator,San Francisco Bay Area or Remote (U.S.),1,non_engineering,senior,0,0,COMPLETE
+2026-10-19,Discord,All jobs,"Software Engineer, Consumer Revenue",San Francisco Bay Area,1,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Software Engineer, Distributed Systems",San Francisco Bay Area,1,backend,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Software Engineer, Notifications",San Francisco Bay Area,1,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Software Engineer, Safety Processing",San Francisco Bay Area or Remote (U.S.),1,general_swe,mid_or_unspecified,1,0,COMPLETE
+2026-10-19,Discord,All jobs,Staff Data Engineer - Data Infrastructure,San Francisco Bay Area,1,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Staff Data Scientist, Causal Inference & Experimentation",San Francisco Bay Area,1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Discord,All jobs,Staff Software Engineer - Consumer Revenue,Remote,0,general_swe,staff_plus,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Staff Software Engineer, Data Platform","San Francisco, CA",1,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Staff Software Engineer, Enterprise Platform",San Francisco Bay Area,1,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Staff Software Engineer, Experimentation Platform",Remote (U.S.),1,platform_infra,staff_plus,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Staff Software Engineer, Machine Learning (Consumer Revenue)",San Francisco Bay Area or Remote (U.S.),1,ai_ml,staff_plus,1,1,COMPLETE
+2026-10-19,Discord,All jobs,"Staff Software Engineer, Safety Experience",San Francisco Bay Area,1,general_swe,staff_plus,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Staff Software Engineer, Safety Processing",San Francisco Bay Area or Los Angeles Area,1,general_swe,staff_plus,1,0,COMPLETE
+2026-10-19,Discord,All jobs,"Staff Technical Program Manager, Security + IT",San Francisco Bay Area,1,non_engineering,management,0,0,COMPLETE
+2026-10-19,Discord,All jobs,Strategic Finance,San Francisco Bay Area,1,non_engineering,mid_or_unspecified,0,0,COMPLETE
