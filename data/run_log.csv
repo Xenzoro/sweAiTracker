@@ -2,3 +2,4 @@ run_date,indeed_ok,sources_ok,sources_failed,sources_truncated,total_jobs,engine
 2026-10-17,1,14,0,0,359,317,first run (manual)
 2026-10-18,1,14,0,0,360,318,scheduled run; indeed latest 2026-10-09
 2026-10-19,1,14,0,0,360,318,scheduled run; indeed latest 2026-10-09
+2026-10-20,1,14,0,0,360,318,scheduled run; indeed latest 2026-10-09
