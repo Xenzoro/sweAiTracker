@@ -4,4 +4,4 @@ run_date,indeed_ok,sources_ok,sources_failed,sources_truncated,total_jobs,engine
 2026-10-19,1,14,0,0,360,318,scheduled run; indeed latest 2026-10-09
 2026-10-20,1,14,0,0,360,318,scheduled run; indeed latest 2026-10-09
 2026-10-21,1,14,0,0,360,318,scheduled run; indeed latest 2026-10-09
-2026-10-22,1,0,14,0,0,0,scheduled run; all 14 board fetches failed (WebFetch permission prompt timed out unattended); indeed latest 2026-10-16
+2026-10-22,1,14,0,0,360,318,scheduled rerun; replaces earlier failed run (all 14 board fetches had failed); indeed pulled in earlier run (latest 2026-10-16)
