@@ -4885,6 +4885,20 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-10-08,US,77.58,new postings,Data & Analytics
 2026-10-09,US,64.25,total postings,Data & Analytics
 2026-10-09,US,79.07,new postings,Data & Analytics
+2026-10-10,US,64.31,total postings,Data & Analytics
+2026-10-10,US,80.36,new postings,Data & Analytics
+2026-10-11,US,64.26,total postings,Data & Analytics
+2026-10-11,US,81.38,new postings,Data & Analytics
+2026-10-12,US,64.41,total postings,Data & Analytics
+2026-10-12,US,83.64,new postings,Data & Analytics
+2026-10-13,US,64.24,total postings,Data & Analytics
+2026-10-13,US,81.75,new postings,Data & Analytics
+2026-10-14,US,63.94,total postings,Data & Analytics
+2026-10-14,US,80.34,new postings,Data & Analytics
+2026-10-15,US,63.76,total postings,Data & Analytics
+2026-10-15,US,78.89,new postings,Data & Analytics
+2026-10-16,US,63.63,total postings,Data & Analytics
+2026-10-16,US,77.96,new postings,Data & Analytics
 2020-02-01,US,100.0,total postings,Scientific Research & Development
 2020-02-01,US,100.0,new postings,Scientific Research & Development
 2020-02-02,US,100.0,total postings,Scientific Research & Development
@@ -9771,6 +9785,20 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-10-08,US,88.99,new postings,Scientific Research & Development
 2026-10-09,US,83.78,total postings,Scientific Research & Development
 2026-10-09,US,88.63,new postings,Scientific Research & Development
+2026-10-10,US,83.87,total postings,Scientific Research & Development
+2026-10-10,US,88.95,new postings,Scientific Research & Development
+2026-10-11,US,83.8,total postings,Scientific Research & Development
+2026-10-11,US,88.63,new postings,Scientific Research & Development
+2026-10-12,US,83.85,total postings,Scientific Research & Development
+2026-10-12,US,88.9,new postings,Scientific Research & Development
+2026-10-13,US,83.8,total postings,Scientific Research & Development
+2026-10-13,US,88.77,new postings,Scientific Research & Development
+2026-10-14,US,83.8,total postings,Scientific Research & Development
+2026-10-14,US,88.92,new postings,Scientific Research & Development
+2026-10-15,US,83.83,total postings,Scientific Research & Development
+2026-10-15,US,89.07,new postings,Scientific Research & Development
+2026-10-16,US,83.93,total postings,Scientific Research & Development
+2026-10-16,US,89.08,new postings,Scientific Research & Development
 2020-02-01,US,100.0,total postings,"IT Infrastructure, Operations & Support"
 2020-02-01,US,100.0,new postings,"IT Infrastructure, Operations & Support"
 2020-02-02,US,99.91,total postings,"IT Infrastructure, Operations & Support"
@@ -14657,6 +14685,20 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-10-08,US,72.86,new postings,"IT Infrastructure, Operations & Support"
 2026-10-09,US,69.79,total postings,"IT Infrastructure, Operations & Support"
 2026-10-09,US,71.38,new postings,"IT Infrastructure, Operations & Support"
+2026-10-10,US,69.45,total postings,"IT Infrastructure, Operations & Support"
+2026-10-10,US,69.9,new postings,"IT Infrastructure, Operations & Support"
+2026-10-11,US,69.07,total postings,"IT Infrastructure, Operations & Support"
+2026-10-11,US,68.57,new postings,"IT Infrastructure, Operations & Support"
+2026-10-12,US,68.86,total postings,"IT Infrastructure, Operations & Support"
+2026-10-12,US,67.88,new postings,"IT Infrastructure, Operations & Support"
+2026-10-13,US,68.63,total postings,"IT Infrastructure, Operations & Support"
+2026-10-13,US,67.14,new postings,"IT Infrastructure, Operations & Support"
+2026-10-14,US,68.46,total postings,"IT Infrastructure, Operations & Support"
+2026-10-14,US,66.86,new postings,"IT Infrastructure, Operations & Support"
+2026-10-15,US,68.49,total postings,"IT Infrastructure, Operations & Support"
+2026-10-15,US,66.64,new postings,"IT Infrastructure, Operations & Support"
+2026-10-16,US,68.48,total postings,"IT Infrastructure, Operations & Support"
+2026-10-16,US,67.42,new postings,"IT Infrastructure, Operations & Support"
 2020-02-01,US,100.0,total postings,IT Systems & Solutions
 2020-02-01,US,100.0,new postings,IT Systems & Solutions
 2020-02-02,US,99.61,total postings,IT Systems & Solutions
@@ -19543,6 +19585,20 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-10-08,US,82.34,new postings,IT Systems & Solutions
 2026-10-09,US,76.96,total postings,IT Systems & Solutions
 2026-10-09,US,80.98,new postings,IT Systems & Solutions
+2026-10-10,US,77.07,total postings,IT Systems & Solutions
+2026-10-10,US,79.98,new postings,IT Systems & Solutions
+2026-10-11,US,77.07,total postings,IT Systems & Solutions
+2026-10-11,US,79.03,new postings,IT Systems & Solutions
+2026-10-12,US,77.22,total postings,IT Systems & Solutions
+2026-10-12,US,79.17,new postings,IT Systems & Solutions
+2026-10-13,US,77.29,total postings,IT Systems & Solutions
+2026-10-13,US,79.18,new postings,IT Systems & Solutions
+2026-10-14,US,77.36,total postings,IT Systems & Solutions
+2026-10-14,US,79.4,new postings,IT Systems & Solutions
+2026-10-15,US,77.6,total postings,IT Systems & Solutions
+2026-10-15,US,80.38,new postings,IT Systems & Solutions
+2026-10-16,US,77.56,total postings,IT Systems & Solutions
+2026-10-16,US,80.34,new postings,IT Systems & Solutions
 2020-02-01,US,100.0,total postings,Software Development
 2020-02-01,US,100.0,new postings,Software Development
 2020-02-02,US,99.84,total postings,Software Development
@@ -24429,3 +24485,17 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-10-08,US,82.18,new postings,Software Development
 2026-10-09,US,78.1,total postings,Software Development
 2026-10-09,US,81.55,new postings,Software Development
+2026-10-10,US,78.09,total postings,Software Development
+2026-10-10,US,80.3,new postings,Software Development
+2026-10-11,US,77.93,total postings,Software Development
+2026-10-11,US,79.14,new postings,Software Development
+2026-10-12,US,78.04,total postings,Software Development
+2026-10-12,US,78.87,new postings,Software Development
+2026-10-13,US,78.12,total postings,Software Development
+2026-10-13,US,78.28,new postings,Software Development
+2026-10-14,US,78.38,total postings,Software Development
+2026-10-14,US,78.34,new postings,Software Development
+2026-10-15,US,78.66,total postings,Software Development
+2026-10-15,US,79.08,new postings,Software Development
+2026-10-16,US,78.86,total postings,Software Development
+2026-10-16,US,79.92,new postings,Software Development
