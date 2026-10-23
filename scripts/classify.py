@@ -1,4 +1,5 @@
-"""Classify job titles collected from company job boards and update the summary.
+"""(Old pipeline, used Oct 2026 until the GitHub Actions collector replaced it.)
+Classify job titles collected from company job boards and update the summary.
 
 Input: a raw text file of lines 'title | location' for ONE panel source.
 Usage: python scripts/classify.py RAW_FILE DATE COMPANY "DEPT NAME" STATUS
@@ -11,46 +12,8 @@ import pandas as pd
 raw, date, company, dept, status = sys.argv[1:6]
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-US_STATES = ['alabama','alaska','arizona','arkansas','california','colorado','connecticut','delaware','florida','georgia','hawaii','idaho','illinois','indiana','iowa','kansas','kentucky','louisiana','maine','maryland','massachusetts','michigan','minnesota','mississippi','missouri','montana','nebraska','nevada','new hampshire','new jersey','new mexico','new york','north carolina','north dakota','ohio','oklahoma','oregon','pennsylvania','rhode island','south carolina','south dakota','tennessee','texas','utah','vermont','virginia','washington','west virginia','wisconsin','wyoming','district of columbia']
-US_HINTS = ['united states','usa','u.s.','us remote','remote, us','remote - us','remote (us','san francisco','new york','seattle','austin','boston','chicago','denver','los angeles','mountain view','bellevue','sunnyvale','palo alto','atlanta','miami','washington dc','washington, dc','sf bay','bay area','nyc']
-
-def has(t, words): return any(re.search(w, t) for w in words)
-
-def is_us(loc):
-    l = ' ' + loc.lower() + ' '
-    if any(h in l for h in US_HINTS): return 1
-    if re.search(r',\s*(ca|ny|wa|tx|ma|co|il|ga|fl|or|va|nc|ut|az|dc)\b', l): return 1
-    if any(re.search(r'\b' + s + r'\b', l) for s in US_STATES):
-        if 'british columbia' in l: return 0
-        return 1
-    return 0
-
-NON_ENG = [r'product manager', r'program manager', r'product design', r'designer', r'analyst', r'\bsales\b', r'finance', r'marketing', r'operations manager', r'administrator', r'policy', r'recruit', r'executive assistant', r'strategist', r'evangelist', r'operator', r'research operations', r'events', r'transformation owner', r'\bfellow', r'program lead', r'deal desk', r'supply chain', r'stock admin']
-
-def category(title):
-    t = title.lower()
-    if has(t, NON_ENG): return 'non_engineering'
-    if 'prompt' in t: return 'prompt_engineering'
-    if has(t, [r'\bai\b', r'\bml\b', r'machine learning', r'\bllm', r'genai', r'generative', r'applied ai', r'model serving', r'inference', r'foundation model', r'research (engineer|scientist)', r'\bagent']): return 'ai_ml'
-    if has(t, [r'architect']): return 'architect'
-    if has(t, [r'site reliability', r'\bsre\b', r'devops', r'platform', r'infrastructure', r'\bcloud\b', r'production engineer', r'kernel', r'network', r'runtime', r'compute', r'observability']): return 'platform_infra'
-    if has(t, [r'security', r'red team']): return 'security'
-    if has(t, [r'data engineer', r'data scien', r'analytics engineer', r'\bdata\b']): return 'data'
-    if has(t, [r'full ?-?stack']): return 'fullstack'
-    if has(t, [r'front ?-?end', r'\bui\b', r'\bweb\b']): return 'frontend'
-    if has(t, [r'back ?-?end', r'\bapi\b', r'distributed systems', r'server']): return 'backend'
-    if has(t, [r'\bios\b', r'android', r'mobile']): return 'mobile'
-    if has(t, [r'manager', r'director', r'head of', r'\bvp\b', r'tech lead manager']): return 'eng_management'
-    if has(t, [r'software engineer', r'developer', r'engineer']): return 'general_swe'
-    return 'non_engineering'
-
-def seniority(title):
-    t = title.lower()
-    if has(t, [r'intern', r'new grad', r'early career', r'junior', r'associate']): return 'entry'
-    if has(t, [r'manager', r'director', r'head of', r'\bvp\b']): return 'management'
-    if has(t, [r'principal', r'distinguished', r'staff', r'architect', r'fellow']): return 'staff_plus'
-    if has(t, [r'senior', r'\bsr\.?\b', r'lead']): return 'senior'
-    return 'mid_or_unspecified'
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import is_us, category, seniority  # noqa: E402
 
 rows = []
 for line in open(raw, encoding='utf-8'):

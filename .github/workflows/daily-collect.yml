@@ -1,0 +1,39 @@
+name: Daily collection
+
+on:
+  schedule:
+    - cron: '23 14 * * *'   # 14:23 UTC = 7:23am Pacific (6:23am after Nov 2)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pandas requests
+      - name: Collect
+        id: collect
+        run: python scripts/run_daily.py
+        continue-on-error: true
+      - name: Commit and push
+        run: |
+          git config user.name "sweAiTracker bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -m "Daily collection $(TZ=America/Los_Angeles date +%F)"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 10; done
+      - name: Fail if a collector failed
+        if: steps.collect.outcome == 'failure'
+        run: exit 1
