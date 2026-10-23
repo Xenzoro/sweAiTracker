@@ -45,6 +45,9 @@ notes = (f"actions v2 ({b.get('companies_ok', 0)} company boards); new_eng={b.ge
          f"hn={'ok' if hn_ok else 'FAILED'}; bls={('skipped' if 'skipped' in str(bls_out) else 'ok') if bls_ok else 'FAILED'}; "
          f"boards={'ok' if b_ok else 'FAILED'}; failed companies: {', '.join(failed_cos) or 'none'}")
 log = os.path.join(ROOT, 'data', 'run_log.csv')
+if os.path.exists(log):  # a re-run on the same day replaces that day's earlier Actions row
+    keep = [r for r in csv.reader(open(log)) if not (r and r[0] == DATE and len(r) > 7 and r[7].startswith('actions v2'))]
+    with open(log, 'w', newline='') as f: csv.writer(f).writerows(keep)
 new = not os.path.exists(log)
 with open(log, 'a', newline='') as f:
     w = csv.writer(f)
