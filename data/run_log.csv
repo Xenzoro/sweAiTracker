@@ -6,4 +6,4 @@ run_date,indeed_ok,sources_ok,sources_failed,sources_truncated,total_jobs,engine
 2026-10-21,1,14,0,0,360,318,scheduled run; indeed latest 2026-10-09
 2026-10-22,1,14,0,0,360,318,scheduled rerun; replaces earlier failed run (all 14 board fetches had failed); indeed pulled in earlier run (latest 2026-10-16)
 2026-10-23,1,14,0,0,360,318,scheduled run; indeed latest 2026-10-16
-2026-10-23,1,43,2,0,10249,5252,"actions v2 (43 company boards); new_eng=0; closed_eng=0; ai_title_share=16.1; ai_coding_tools_share=20.2; hn=ok; bls=ok; boards=ok; failed companies: Plaid, Webflow"
+2026-10-23,1,45,0,0,10399,5312,actions v2 (45 company boards); new_eng=0; closed_eng=0; ai_title_share=16.1; ai_coding_tools_share=20.2; hn=ok; bls=ok; boards=ok; failed companies: none

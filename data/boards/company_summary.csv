@@ -29,6 +29,7 @@ date,company,open_eng,new_eng,closed_eng,ai_title_share,ai_coding_tools_share,ll
 2026-10-23,Palantir,191,0,0,1.6,4.2,28.3
 2026-10-23,Perplexity,61,0,0,37.7,3.3,67.2
 2026-10-23,Pinterest,82,0,0,36.6,25.6,31.7
+2026-10-23,Plaid,52,0,0,19.2,11.5,19.2
 2026-10-23,Ramp,60,0,0,8.3,18.3,31.7
 2026-10-23,Reddit,101,0,0,29.7,17.8,36.6
 2026-10-23,Replit,30,0,0,13.3,53.3,100.0
@@ -41,3 +42,4 @@ date,company,open_eng,new_eng,closed_eng,ai_title_share,ai_coding_tools_share,ll
 2026-10-23,Stripe,249,0,0,8.4,14.1,22.1
 2026-10-23,Twilio,61,0,0,9.8,18.0,34.4
 2026-10-23,Vercel,49,0,0,8.2,14.3,100.0
+2026-10-23,Webflow,8,0,0,12.5,50.0,100.0
