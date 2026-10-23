@@ -38,7 +38,7 @@ OCC = {'151252': 'Software developers', '151253': 'Software QA analysts & tester
 OEWS = {}
 for code, name in OCC.items():
     for dt, what in [('01', 'employment'), ('04', 'annual mean wage'), ('13', 'annual median wage')]:
-        OEWS[f'OEUN000000000000{code}{dt}'] = (f'{name}: {what}', 'oews')
+        OEWS[f'OEUN0000000000000{code}{dt}'] = (f'{name}: {what}', 'oews')
 
 end = int(run_date[:4])
 rows, missing = [], []

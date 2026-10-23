@@ -68,7 +68,8 @@ TEXT_FLAGS = {
     # any AI / ML mention at all
     'mentions_ai_any': [r'\bai\b', r'artificial intelligence', r'machine learning', r'\bml\b', r'\bllms?\b', r'generative', r'\bgen ?ai\b', r'copilot', r'chatgpt', r'\bclaude\b'],
     # system design / architecture emphasis (research question 3)
-    'mentions_system_design': [r'system design', r'systems design', r'architect\w*', r'distributed systems', r'design (and|&) (build|implement)\w* (scalable|large-scale)', r'scalab\w+', r'technical design'],
+    'mentions_system_design': [r'system design', r'systems design', r'(software|system|systems|technical|platform|service|application) architecture', r'architectural (decisions|design|direction|vision)',
+                               r'design(ing)? (and (build|implement)\w* )?(scalable|large[- ]scale|distributed|complex) (systems|services|architectures?)', r'technical design', r'design (docs|documents|reviews)'],
     # hands-on coding emphasis
     'mentions_hands_on_coding': [r'hands[- ]on (coding|code|engineering|development)', r'write (high[- ]quality |clean |production[- ]?(quality |grade )?)?code', r'writing (high[- ]quality |clean |production[- ]?(quality |grade )?)?code'],
 }
