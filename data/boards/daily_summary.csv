@@ -1,2 +1,3 @@
 date,baseline,companies_ok,companies_failed,open_jobs,open_eng,open_eng_us,new_eng,closed_eng,ai_title_share,desc_ai_coding_tools_share,desc_llm_genai_share,desc_ai_any_share,desc_system_design_share,desc_hands_on_coding_share,staff_plus_share,entry_share,new_eng_ai_title_share,new_eng_ai_coding_tools_share,us_eng_with_salary,us_eng_median_salary_mid
-2026-10-23,1,45,0,10416,5328,3018,0,0,16.1,20.2,39.4,87.2,29.5,9.4,25.3,4.7,,,2710,238390
+2026-10-23,1,45,0,10416,5329,3017,0,0,16.1,20.2,39.4,87.2,29.5,9.4,25.3,4.7,,,2710,238500
+2026-10-24,0,45,0,10416,5335,3015,41,35,16.1,20.1,39.3,87.2,29.5,9.3,25.3,4.6,17.1,17.1,2711,238500
