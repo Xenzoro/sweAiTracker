@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '23 14 * * *'   # 14:23 UTC = 7:23am Pacific (6:23am after Nov 2)
   workflow_dispatch:
+    inputs:
+      only:
+        description: 'Run only one step (bls), or leave as all'
+        type: choice
+        options: [all, bls]
+        default: all
 
 permissions:
   contents: write
@@ -24,7 +30,8 @@ jobs:
       - run: pip install pandas requests
       - name: Collect
         id: collect
-        run: python scripts/run_daily.py
+        run: |
+          if [ "${{ inputs.only }}" = "bls" ]; then python scripts/run_daily.py --only bls; else python scripts/run_daily.py; fi
         continue-on-error: true
       - name: Commit and push
         run: |
