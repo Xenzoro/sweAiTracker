@@ -31,6 +31,11 @@ jobs:
       - name: Collect
         id: collect
         run: |
+          # GitHub often starts scheduled runs hours late; if today was already collected
+          # (for example by a manual run), skip so today's new/closed counts are not overwritten.
+          if [ "${{ github.event_name }}" = "schedule" ] && grep -q "^$(TZ=America/Los_Angeles date +%F),.*actions v2.*boards=ok" data/run_log.csv; then
+            echo "today already collected; skipping scheduled run"; exit 0
+          fi
           if [ "${{ inputs.only }}" = "bls" ]; then python scripts/run_daily.py --only bls; else python scripts/run_daily.py; fi
         continue-on-error: true
       - name: Commit and push
