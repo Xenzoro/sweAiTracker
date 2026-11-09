@@ -114,8 +114,9 @@ CES5000000001,Employment: information sector (thousands),ces,2026,M04,2026-04-01
 CES5000000001,Employment: information sector (thousands),ces,2026,M05,2026-05-01,2782.0
 CES5000000001,Employment: information sector (thousands),ces,2026,M06,2026-06-01,2763.0
 CES5000000001,Employment: information sector (thousands),ces,2026,M07,2026-07-01,2767.0
-CES5000000001,Employment: information sector (thousands),ces,2026,M08,2026-08-01,2749.0
-CES5000000001,Employment: information sector (thousands),ces,2026,M09,2026-09-01,2739.0
+CES5000000001,Employment: information sector (thousands),ces,2026,M08,2026-08-01,2746.0
+CES5000000001,Employment: information sector (thousands),ces,2026,M09,2026-09-01,2735.0
+CES5000000001,Employment: information sector (thousands),ces,2026,M10,2026-10-01,2734.0
 CES5051320001,Employment: software publishers (thousands),ces,2017,M01,2017-01-01,370.8
 CES5051320001,Employment: software publishers (thousands),ces,2017,M02,2017-02-01,372.5
 CES5051320001,Employment: software publishers (thousands),ces,2017,M03,2017-03-01,373.0
@@ -231,7 +232,8 @@ CES5051320001,Employment: software publishers (thousands),ces,2026,M04,2026-04-0
 CES5051320001,Employment: software publishers (thousands),ces,2026,M05,2026-05-01,659.6
 CES5051320001,Employment: software publishers (thousands),ces,2026,M06,2026-06-01,658.6
 CES5051320001,Employment: software publishers (thousands),ces,2026,M07,2026-07-01,657.2
-CES5051320001,Employment: software publishers (thousands),ces,2026,M08,2026-08-01,652.9
+CES5051320001,Employment: software publishers (thousands),ces,2026,M08,2026-08-01,654.4
+CES5051320001,Employment: software publishers (thousands),ces,2026,M09,2026-09-01,653.8
 CES6054150001,Employment: computer systems design & related services (thousands),ces,2017,M01,2017-01-01,2036.1
 CES6054150001,Employment: computer systems design & related services (thousands),ces,2017,M02,2017-02-01,2040.1
 CES6054150001,Employment: computer systems design & related services (thousands),ces,2017,M03,2017-03-01,2038.0
@@ -347,8 +349,9 @@ CES6054150001,Employment: computer systems design & related services (thousands)
 CES6054150001,Employment: computer systems design & related services (thousands),ces,2026,M05,2026-05-01,2370.0
 CES6054150001,Employment: computer systems design & related services (thousands),ces,2026,M06,2026-06-01,2368.3
 CES6054150001,Employment: computer systems design & related services (thousands),ces,2026,M07,2026-07-01,2362.0
-CES6054150001,Employment: computer systems design & related services (thousands),ces,2026,M08,2026-08-01,2359.8
-CES6054150001,Employment: computer systems design & related services (thousands),ces,2026,M09,2026-09-01,2355.4
+CES6054150001,Employment: computer systems design & related services (thousands),ces,2026,M08,2026-08-01,2357.6
+CES6054150001,Employment: computer systems design & related services (thousands),ces,2026,M09,2026-09-01,2350.9
+CES6054150001,Employment: computer systems design & related services (thousands),ces,2026,M10,2026-10-01,2354.1
 CES6054151101,Employment: custom computer programming services (thousands),ces,2017,M01,2017-01-01,879.7
 CES6054151101,Employment: custom computer programming services (thousands),ces,2017,M02,2017-02-01,882.3
 CES6054151101,Employment: custom computer programming services (thousands),ces,2017,M03,2017-03-01,881.3
@@ -464,7 +467,8 @@ CES6054151101,Employment: custom computer programming services (thousands),ces,2
 CES6054151101,Employment: custom computer programming services (thousands),ces,2026,M05,2026-05-01,1062.9
 CES6054151101,Employment: custom computer programming services (thousands),ces,2026,M06,2026-06-01,1061.4
 CES6054151101,Employment: custom computer programming services (thousands),ces,2026,M07,2026-07-01,1059.4
-CES6054151101,Employment: custom computer programming services (thousands),ces,2026,M08,2026-08-01,1058.3
+CES6054151101,Employment: custom computer programming services (thousands),ces,2026,M08,2026-08-01,1058.4
+CES6054151101,Employment: custom computer programming services (thousands),ces,2026,M09,2026-09-01,1058.0
 JTS000000000000000JOL,Job openings: total nonfarm (thousands),jolts,2017,M01,2017-01-01,5617.0
 JTS000000000000000JOL,Job openings: total nonfarm (thousands),jolts,2017,M02,2017-02-01,5923.0
 JTS000000000000000JOL,Job openings: total nonfarm (thousands),jolts,2017,M03,2017-03-01,5811.0
@@ -580,7 +584,8 @@ JTS000000000000000JOL,Job openings: total nonfarm (thousands),jolts,2026,M04,202
 JTS000000000000000JOL,Job openings: total nonfarm (thousands),jolts,2026,M05,2026-05-01,7537.0
 JTS000000000000000JOL,Job openings: total nonfarm (thousands),jolts,2026,M06,2026-06-01,7182.0
 JTS000000000000000JOL,Job openings: total nonfarm (thousands),jolts,2026,M07,2026-07-01,7335.0
-JTS000000000000000JOL,Job openings: total nonfarm (thousands),jolts,2026,M08,2026-08-01,7079.0
+JTS000000000000000JOL,Job openings: total nonfarm (thousands),jolts,2026,M08,2026-08-01,7190.0
+JTS000000000000000JOL,Job openings: total nonfarm (thousands),jolts,2026,M09,2026-09-01,7523.0
 JTS510000000000000HIL,Hires: information sector (thousands),jolts,2017,M01,2017-01-01,89.0
 JTS510000000000000HIL,Hires: information sector (thousands),jolts,2017,M02,2017-02-01,82.0
 JTS510000000000000HIL,Hires: information sector (thousands),jolts,2017,M03,2017-03-01,77.0
@@ -696,7 +701,8 @@ JTS510000000000000HIL,Hires: information sector (thousands),jolts,2026,M04,2026-
 JTS510000000000000HIL,Hires: information sector (thousands),jolts,2026,M05,2026-05-01,79.0
 JTS510000000000000HIL,Hires: information sector (thousands),jolts,2026,M06,2026-06-01,73.0
 JTS510000000000000HIL,Hires: information sector (thousands),jolts,2026,M07,2026-07-01,62.0
-JTS510000000000000HIL,Hires: information sector (thousands),jolts,2026,M08,2026-08-01,44.0
+JTS510000000000000HIL,Hires: information sector (thousands),jolts,2026,M08,2026-08-01,70.0
+JTS510000000000000HIL,Hires: information sector (thousands),jolts,2026,M09,2026-09-01,94.0
 JTS510000000000000JOL,Job openings: information sector (thousands),jolts,2017,M01,2017-01-01,88.0
 JTS510000000000000JOL,Job openings: information sector (thousands),jolts,2017,M02,2017-02-01,70.0
 JTS510000000000000JOL,Job openings: information sector (thousands),jolts,2017,M03,2017-03-01,86.0
@@ -812,7 +818,8 @@ JTS510000000000000JOL,Job openings: information sector (thousands),jolts,2026,M0
 JTS510000000000000JOL,Job openings: information sector (thousands),jolts,2026,M05,2026-05-01,72.0
 JTS510000000000000JOL,Job openings: information sector (thousands),jolts,2026,M06,2026-06-01,89.0
 JTS510000000000000JOL,Job openings: information sector (thousands),jolts,2026,M07,2026-07-01,78.0
-JTS510000000000000JOL,Job openings: information sector (thousands),jolts,2026,M08,2026-08-01,123.0
+JTS510000000000000JOL,Job openings: information sector (thousands),jolts,2026,M08,2026-08-01,91.0
+JTS510000000000000JOL,Job openings: information sector (thousands),jolts,2026,M09,2026-09-01,116.0
 JTS510000000000000LDL,Layoffs & discharges: information sector (thousands),jolts,2017,M01,2017-01-01,26.0
 JTS510000000000000LDL,Layoffs & discharges: information sector (thousands),jolts,2017,M02,2017-02-01,25.0
 JTS510000000000000LDL,Layoffs & discharges: information sector (thousands),jolts,2017,M03,2017-03-01,31.0
@@ -928,7 +935,8 @@ JTS510000000000000LDL,Layoffs & discharges: information sector (thousands),jolts
 JTS510000000000000LDL,Layoffs & discharges: information sector (thousands),jolts,2026,M05,2026-05-01,44.0
 JTS510000000000000LDL,Layoffs & discharges: information sector (thousands),jolts,2026,M06,2026-06-01,54.0
 JTS510000000000000LDL,Layoffs & discharges: information sector (thousands),jolts,2026,M07,2026-07-01,38.0
-JTS510000000000000LDL,Layoffs & discharges: information sector (thousands),jolts,2026,M08,2026-08-01,28.0
+JTS510000000000000LDL,Layoffs & discharges: information sector (thousands),jolts,2026,M08,2026-08-01,42.0
+JTS510000000000000LDL,Layoffs & discharges: information sector (thousands),jolts,2026,M09,2026-09-01,46.0
 JTS540099000000000JOL,Job openings: professional & business services (thousands),jolts,2017,M01,2017-01-01,984.0
 JTS540099000000000JOL,Job openings: professional & business services (thousands),jolts,2017,M02,2017-02-01,986.0
 JTS540099000000000JOL,Job openings: professional & business services (thousands),jolts,2017,M03,2017-03-01,1009.0
@@ -1044,7 +1052,8 @@ JTS540099000000000JOL,Job openings: professional & business services (thousands)
 JTS540099000000000JOL,Job openings: professional & business services (thousands),jolts,2026,M05,2026-05-01,1375.0
 JTS540099000000000JOL,Job openings: professional & business services (thousands),jolts,2026,M06,2026-06-01,1203.0
 JTS540099000000000JOL,Job openings: professional & business services (thousands),jolts,2026,M07,2026-07-01,1305.0
-JTS540099000000000JOL,Job openings: professional & business services (thousands),jolts,2026,M08,2026-08-01,1186.0
+JTS540099000000000JOL,Job openings: professional & business services (thousands),jolts,2026,M08,2026-08-01,1204.0
+JTS540099000000000JOL,Job openings: professional & business services (thousands),jolts,2026,M09,2026-09-01,1310.0
 OEUN000000000000015121101,Computer systems analysts: employment,oews,2025,A01,2025-01-01,519530.0
 OEUN000000000000015121104,Computer systems analysts: annual mean wage,oews,2025,A01,2025-01-01,114610.0
 OEUN000000000000015121113,Computer systems analysts: annual median wage,oews,2025,A01,2025-01-01,105850.0
