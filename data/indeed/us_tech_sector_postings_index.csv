@@ -4941,6 +4941,20 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-11-05,US,71.07,new postings,Data & Analytics
 2026-11-06,US,62.09,total postings,Data & Analytics
 2026-11-06,US,70.62,new postings,Data & Analytics
+2026-11-07,US,62.01,total postings,Data & Analytics
+2026-11-07,US,70.51,new postings,Data & Analytics
+2026-11-08,US,61.77,total postings,Data & Analytics
+2026-11-08,US,69.66,new postings,Data & Analytics
+2026-11-09,US,61.65,total postings,Data & Analytics
+2026-11-09,US,69.3,new postings,Data & Analytics
+2026-11-10,US,61.66,total postings,Data & Analytics
+2026-11-10,US,68.87,new postings,Data & Analytics
+2026-11-11,US,61.74,total postings,Data & Analytics
+2026-11-11,US,68.73,new postings,Data & Analytics
+2026-11-12,US,61.78,total postings,Data & Analytics
+2026-11-12,US,68.59,new postings,Data & Analytics
+2026-11-13,US,61.84,total postings,Data & Analytics
+2026-11-13,US,68.11,new postings,Data & Analytics
 2020-02-01,US,100.0,total postings,Scientific Research & Development
 2020-02-01,US,100.0,new postings,Scientific Research & Development
 2020-02-02,US,100.0,total postings,Scientific Research & Development
@@ -9883,6 +9897,20 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-11-05,US,87.1,new postings,Scientific Research & Development
 2026-11-06,US,84.58,total postings,Scientific Research & Development
 2026-11-06,US,87.03,new postings,Scientific Research & Development
+2026-11-07,US,84.76,total postings,Scientific Research & Development
+2026-11-07,US,87.49,new postings,Scientific Research & Development
+2026-11-08,US,84.91,total postings,Scientific Research & Development
+2026-11-08,US,88.37,new postings,Scientific Research & Development
+2026-11-09,US,84.87,total postings,Scientific Research & Development
+2026-11-09,US,88.88,new postings,Scientific Research & Development
+2026-11-10,US,85.16,total postings,Scientific Research & Development
+2026-11-10,US,89.32,new postings,Scientific Research & Development
+2026-11-11,US,85.32,total postings,Scientific Research & Development
+2026-11-11,US,90.23,new postings,Scientific Research & Development
+2026-11-12,US,85.53,total postings,Scientific Research & Development
+2026-11-12,US,90.91,new postings,Scientific Research & Development
+2026-11-13,US,85.52,total postings,Scientific Research & Development
+2026-11-13,US,90.4,new postings,Scientific Research & Development
 2020-02-01,US,100.0,total postings,"IT Infrastructure, Operations & Support"
 2020-02-01,US,100.0,new postings,"IT Infrastructure, Operations & Support"
 2020-02-02,US,99.91,total postings,"IT Infrastructure, Operations & Support"
@@ -11422,28 +11450,28 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-03-10,US,156.12,total postings,"IT Infrastructure, Operations & Support"
 2022-03-10,US,172.34,new postings,"IT Infrastructure, Operations & Support"
 2022-03-11,US,156.28,total postings,"IT Infrastructure, Operations & Support"
-2022-03-11,US,172.36,new postings,"IT Infrastructure, Operations & Support"
+2022-03-11,US,172.35,new postings,"IT Infrastructure, Operations & Support"
 2022-03-12,US,156.6,total postings,"IT Infrastructure, Operations & Support"
-2022-03-12,US,172.13,new postings,"IT Infrastructure, Operations & Support"
+2022-03-12,US,172.12,new postings,"IT Infrastructure, Operations & Support"
 2022-03-13,US,156.66,total postings,"IT Infrastructure, Operations & Support"
-2022-03-13,US,172.15,new postings,"IT Infrastructure, Operations & Support"
+2022-03-13,US,172.14,new postings,"IT Infrastructure, Operations & Support"
 2022-03-14,US,156.66,total postings,"IT Infrastructure, Operations & Support"
-2022-03-14,US,172.25,new postings,"IT Infrastructure, Operations & Support"
+2022-03-14,US,172.24,new postings,"IT Infrastructure, Operations & Support"
 2022-03-15,US,156.55,total postings,"IT Infrastructure, Operations & Support"
-2022-03-15,US,171.33,new postings,"IT Infrastructure, Operations & Support"
+2022-03-15,US,171.31,new postings,"IT Infrastructure, Operations & Support"
 2022-03-16,US,156.51,total postings,"IT Infrastructure, Operations & Support"
-2022-03-16,US,170.14,new postings,"IT Infrastructure, Operations & Support"
+2022-03-16,US,170.12,new postings,"IT Infrastructure, Operations & Support"
 2022-03-17,US,156.45,total postings,"IT Infrastructure, Operations & Support"
-2022-03-17,US,169.43,new postings,"IT Infrastructure, Operations & Support"
+2022-03-17,US,169.42,new postings,"IT Infrastructure, Operations & Support"
 2022-03-18,US,156.45,total postings,"IT Infrastructure, Operations & Support"
-2022-03-18,US,168.27,new postings,"IT Infrastructure, Operations & Support"
+2022-03-18,US,168.26,new postings,"IT Infrastructure, Operations & Support"
 2022-03-19,US,156.24,total postings,"IT Infrastructure, Operations & Support"
-2022-03-19,US,167.2,new postings,"IT Infrastructure, Operations & Support"
-2022-03-20,US,156.23,total postings,"IT Infrastructure, Operations & Support"
-2022-03-20,US,166.16,new postings,"IT Infrastructure, Operations & Support"
+2022-03-19,US,167.19,new postings,"IT Infrastructure, Operations & Support"
+2022-03-20,US,156.22,total postings,"IT Infrastructure, Operations & Support"
+2022-03-20,US,166.15,new postings,"IT Infrastructure, Operations & Support"
 2022-03-21,US,156.15,total postings,"IT Infrastructure, Operations & Support"
-2022-03-21,US,164.81,new postings,"IT Infrastructure, Operations & Support"
-2022-03-22,US,156.39,total postings,"IT Infrastructure, Operations & Support"
+2022-03-21,US,164.8,new postings,"IT Infrastructure, Operations & Support"
+2022-03-22,US,156.38,total postings,"IT Infrastructure, Operations & Support"
 2022-03-22,US,165.27,new postings,"IT Infrastructure, Operations & Support"
 2022-03-23,US,156.43,total postings,"IT Infrastructure, Operations & Support"
 2022-03-23,US,165.26,new postings,"IT Infrastructure, Operations & Support"
@@ -11451,49 +11479,49 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-03-24,US,166.29,new postings,"IT Infrastructure, Operations & Support"
 2022-03-25,US,156.87,total postings,"IT Infrastructure, Operations & Support"
 2022-03-25,US,167.16,new postings,"IT Infrastructure, Operations & Support"
-2022-03-26,US,157.12,total postings,"IT Infrastructure, Operations & Support"
+2022-03-26,US,157.11,total postings,"IT Infrastructure, Operations & Support"
 2022-03-26,US,168.61,new postings,"IT Infrastructure, Operations & Support"
 2022-03-27,US,157.4,total postings,"IT Infrastructure, Operations & Support"
 2022-03-27,US,170.24,new postings,"IT Infrastructure, Operations & Support"
 2022-03-28,US,157.64,total postings,"IT Infrastructure, Operations & Support"
 2022-03-28,US,172.22,new postings,"IT Infrastructure, Operations & Support"
-2022-03-29,US,157.66,total postings,"IT Infrastructure, Operations & Support"
+2022-03-29,US,157.65,total postings,"IT Infrastructure, Operations & Support"
 2022-03-29,US,171.69,new postings,"IT Infrastructure, Operations & Support"
 2022-03-30,US,157.95,total postings,"IT Infrastructure, Operations & Support"
 2022-03-30,US,171.35,new postings,"IT Infrastructure, Operations & Support"
-2022-03-31,US,157.86,total postings,"IT Infrastructure, Operations & Support"
-2022-03-31,US,170.02,new postings,"IT Infrastructure, Operations & Support"
+2022-03-31,US,157.85,total postings,"IT Infrastructure, Operations & Support"
+2022-03-31,US,170.01,new postings,"IT Infrastructure, Operations & Support"
 2022-04-01,US,157.86,total postings,"IT Infrastructure, Operations & Support"
-2022-04-01,US,170.11,new postings,"IT Infrastructure, Operations & Support"
+2022-04-01,US,170.1,new postings,"IT Infrastructure, Operations & Support"
 2022-04-02,US,157.95,total postings,"IT Infrastructure, Operations & Support"
-2022-04-02,US,170.47,new postings,"IT Infrastructure, Operations & Support"
+2022-04-02,US,170.46,new postings,"IT Infrastructure, Operations & Support"
 2022-04-03,US,158.08,total postings,"IT Infrastructure, Operations & Support"
-2022-04-03,US,170.96,new postings,"IT Infrastructure, Operations & Support"
+2022-04-03,US,170.95,new postings,"IT Infrastructure, Operations & Support"
 2022-04-04,US,158.22,total postings,"IT Infrastructure, Operations & Support"
 2022-04-04,US,170.87,new postings,"IT Infrastructure, Operations & Support"
-2022-04-05,US,158.49,total postings,"IT Infrastructure, Operations & Support"
+2022-04-05,US,158.48,total postings,"IT Infrastructure, Operations & Support"
 2022-04-05,US,172.87,new postings,"IT Infrastructure, Operations & Support"
 2022-04-06,US,158.57,total postings,"IT Infrastructure, Operations & Support"
-2022-04-06,US,174.45,new postings,"IT Infrastructure, Operations & Support"
-2022-04-07,US,158.75,total postings,"IT Infrastructure, Operations & Support"
-2022-04-07,US,177.14,new postings,"IT Infrastructure, Operations & Support"
+2022-04-06,US,174.44,new postings,"IT Infrastructure, Operations & Support"
+2022-04-07,US,158.74,total postings,"IT Infrastructure, Operations & Support"
+2022-04-07,US,177.13,new postings,"IT Infrastructure, Operations & Support"
 2022-04-08,US,158.96,total postings,"IT Infrastructure, Operations & Support"
 2022-04-08,US,179.02,new postings,"IT Infrastructure, Operations & Support"
-2022-04-09,US,158.75,total postings,"IT Infrastructure, Operations & Support"
+2022-04-09,US,158.74,total postings,"IT Infrastructure, Operations & Support"
 2022-04-09,US,178.22,new postings,"IT Infrastructure, Operations & Support"
 2022-04-10,US,158.31,total postings,"IT Infrastructure, Operations & Support"
 2022-04-10,US,177.33,new postings,"IT Infrastructure, Operations & Support"
-2022-04-11,US,157.84,total postings,"IT Infrastructure, Operations & Support"
+2022-04-11,US,157.83,total postings,"IT Infrastructure, Operations & Support"
 2022-04-11,US,176.21,new postings,"IT Infrastructure, Operations & Support"
-2022-04-12,US,157.44,total postings,"IT Infrastructure, Operations & Support"
+2022-04-12,US,157.43,total postings,"IT Infrastructure, Operations & Support"
 2022-04-12,US,174.2,new postings,"IT Infrastructure, Operations & Support"
 2022-04-13,US,157.02,total postings,"IT Infrastructure, Operations & Support"
 2022-04-13,US,172.49,new postings,"IT Infrastructure, Operations & Support"
-2022-04-14,US,156.55,total postings,"IT Infrastructure, Operations & Support"
+2022-04-14,US,156.54,total postings,"IT Infrastructure, Operations & Support"
 2022-04-14,US,168.91,new postings,"IT Infrastructure, Operations & Support"
-2022-04-15,US,156.11,total postings,"IT Infrastructure, Operations & Support"
+2022-04-15,US,156.1,total postings,"IT Infrastructure, Operations & Support"
 2022-04-15,US,165.29,new postings,"IT Infrastructure, Operations & Support"
-2022-04-16,US,156.1,total postings,"IT Infrastructure, Operations & Support"
+2022-04-16,US,156.09,total postings,"IT Infrastructure, Operations & Support"
 2022-04-16,US,163.28,new postings,"IT Infrastructure, Operations & Support"
 2022-04-17,US,156.29,total postings,"IT Infrastructure, Operations & Support"
 2022-04-17,US,161.68,new postings,"IT Infrastructure, Operations & Support"
@@ -11501,7 +11529,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-04-18,US,160.4,new postings,"IT Infrastructure, Operations & Support"
 2022-04-19,US,156.7,total postings,"IT Infrastructure, Operations & Support"
 2022-04-19,US,159.51,new postings,"IT Infrastructure, Operations & Support"
-2022-04-20,US,156.88,total postings,"IT Infrastructure, Operations & Support"
+2022-04-20,US,156.87,total postings,"IT Infrastructure, Operations & Support"
 2022-04-20,US,158.51,new postings,"IT Infrastructure, Operations & Support"
 2022-04-21,US,157.13,total postings,"IT Infrastructure, Operations & Support"
 2022-04-21,US,158.47,new postings,"IT Infrastructure, Operations & Support"
@@ -11513,9 +11541,9 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-04-24,US,157.79,new postings,"IT Infrastructure, Operations & Support"
 2022-04-25,US,157.65,total postings,"IT Infrastructure, Operations & Support"
 2022-04-25,US,157.96,new postings,"IT Infrastructure, Operations & Support"
-2022-04-26,US,157.62,total postings,"IT Infrastructure, Operations & Support"
+2022-04-26,US,157.61,total postings,"IT Infrastructure, Operations & Support"
 2022-04-26,US,158.29,new postings,"IT Infrastructure, Operations & Support"
-2022-04-27,US,156.96,total postings,"IT Infrastructure, Operations & Support"
+2022-04-27,US,156.95,total postings,"IT Infrastructure, Operations & Support"
 2022-04-27,US,158.92,new postings,"IT Infrastructure, Operations & Support"
 2022-04-28,US,156.88,total postings,"IT Infrastructure, Operations & Support"
 2022-04-28,US,160.45,new postings,"IT Infrastructure, Operations & Support"
@@ -11539,11 +11567,11 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-05-07,US,165.64,new postings,"IT Infrastructure, Operations & Support"
 2022-05-08,US,157.26,total postings,"IT Infrastructure, Operations & Support"
 2022-05-08,US,165.6,new postings,"IT Infrastructure, Operations & Support"
-2022-05-09,US,157.6,total postings,"IT Infrastructure, Operations & Support"
+2022-05-09,US,157.59,total postings,"IT Infrastructure, Operations & Support"
 2022-05-09,US,165.74,new postings,"IT Infrastructure, Operations & Support"
 2022-05-10,US,157.8,total postings,"IT Infrastructure, Operations & Support"
 2022-05-10,US,165.9,new postings,"IT Infrastructure, Operations & Support"
-2022-05-11,US,157.8,total postings,"IT Infrastructure, Operations & Support"
+2022-05-11,US,157.79,total postings,"IT Infrastructure, Operations & Support"
 2022-05-11,US,164.02,new postings,"IT Infrastructure, Operations & Support"
 2022-05-12,US,157.91,total postings,"IT Infrastructure, Operations & Support"
 2022-05-12,US,163.27,new postings,"IT Infrastructure, Operations & Support"
@@ -11555,23 +11583,23 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-05-15,US,166.71,new postings,"IT Infrastructure, Operations & Support"
 2022-05-16,US,158.84,total postings,"IT Infrastructure, Operations & Support"
 2022-05-16,US,167.99,new postings,"IT Infrastructure, Operations & Support"
-2022-05-17,US,158.63,total postings,"IT Infrastructure, Operations & Support"
+2022-05-17,US,158.62,total postings,"IT Infrastructure, Operations & Support"
 2022-05-17,US,167.86,new postings,"IT Infrastructure, Operations & Support"
 2022-05-18,US,158.91,total postings,"IT Infrastructure, Operations & Support"
 2022-05-18,US,169.81,new postings,"IT Infrastructure, Operations & Support"
 2022-05-19,US,159.07,total postings,"IT Infrastructure, Operations & Support"
 2022-05-19,US,169.67,new postings,"IT Infrastructure, Operations & Support"
-2022-05-20,US,159.19,total postings,"IT Infrastructure, Operations & Support"
+2022-05-20,US,159.18,total postings,"IT Infrastructure, Operations & Support"
 2022-05-20,US,168.2,new postings,"IT Infrastructure, Operations & Support"
-2022-05-21,US,158.74,total postings,"IT Infrastructure, Operations & Support"
+2022-05-21,US,158.73,total postings,"IT Infrastructure, Operations & Support"
 2022-05-21,US,165.63,new postings,"IT Infrastructure, Operations & Support"
 2022-05-22,US,158.72,total postings,"IT Infrastructure, Operations & Support"
 2022-05-22,US,163.99,new postings,"IT Infrastructure, Operations & Support"
-2022-05-23,US,158.54,total postings,"IT Infrastructure, Operations & Support"
+2022-05-23,US,158.53,total postings,"IT Infrastructure, Operations & Support"
 2022-05-23,US,162.5,new postings,"IT Infrastructure, Operations & Support"
-2022-05-24,US,158.64,total postings,"IT Infrastructure, Operations & Support"
+2022-05-24,US,158.63,total postings,"IT Infrastructure, Operations & Support"
 2022-05-24,US,162.31,new postings,"IT Infrastructure, Operations & Support"
-2022-05-25,US,158.54,total postings,"IT Infrastructure, Operations & Support"
+2022-05-25,US,158.53,total postings,"IT Infrastructure, Operations & Support"
 2022-05-25,US,162.75,new postings,"IT Infrastructure, Operations & Support"
 2022-05-26,US,158.37,total postings,"IT Infrastructure, Operations & Support"
 2022-05-26,US,162.84,new postings,"IT Infrastructure, Operations & Support"
@@ -11591,21 +11619,21 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-06-02,US,158.63,new postings,"IT Infrastructure, Operations & Support"
 2022-06-03,US,157.68,total postings,"IT Infrastructure, Operations & Support"
 2022-06-03,US,156.48,new postings,"IT Infrastructure, Operations & Support"
-2022-06-04,US,157.71,total postings,"IT Infrastructure, Operations & Support"
+2022-06-04,US,157.7,total postings,"IT Infrastructure, Operations & Support"
 2022-06-04,US,155.6,new postings,"IT Infrastructure, Operations & Support"
 2022-06-05,US,157.88,total postings,"IT Infrastructure, Operations & Support"
 2022-06-05,US,154.35,new postings,"IT Infrastructure, Operations & Support"
 2022-06-06,US,157.86,total postings,"IT Infrastructure, Operations & Support"
 2022-06-06,US,150.77,new postings,"IT Infrastructure, Operations & Support"
-2022-06-07,US,158.21,total postings,"IT Infrastructure, Operations & Support"
+2022-06-07,US,158.2,total postings,"IT Infrastructure, Operations & Support"
 2022-06-07,US,154.07,new postings,"IT Infrastructure, Operations & Support"
 2022-06-08,US,158.62,total postings,"IT Infrastructure, Operations & Support"
 2022-06-08,US,160.72,new postings,"IT Infrastructure, Operations & Support"
-2022-06-09,US,158.95,total postings,"IT Infrastructure, Operations & Support"
+2022-06-09,US,158.94,total postings,"IT Infrastructure, Operations & Support"
 2022-06-09,US,165.59,new postings,"IT Infrastructure, Operations & Support"
 2022-06-10,US,159.16,total postings,"IT Infrastructure, Operations & Support"
 2022-06-10,US,168.7,new postings,"IT Infrastructure, Operations & Support"
-2022-06-11,US,159.25,total postings,"IT Infrastructure, Operations & Support"
+2022-06-11,US,159.24,total postings,"IT Infrastructure, Operations & Support"
 2022-06-11,US,170.98,new postings,"IT Infrastructure, Operations & Support"
 2022-06-12,US,159.2,total postings,"IT Infrastructure, Operations & Support"
 2022-06-12,US,172.99,new postings,"IT Infrastructure, Operations & Support"
@@ -11617,13 +11645,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-06-15,US,170.64,new postings,"IT Infrastructure, Operations & Support"
 2022-06-16,US,159.05,total postings,"IT Infrastructure, Operations & Support"
 2022-06-16,US,167.56,new postings,"IT Infrastructure, Operations & Support"
-2022-06-17,US,158.94,total postings,"IT Infrastructure, Operations & Support"
+2022-06-17,US,158.93,total postings,"IT Infrastructure, Operations & Support"
 2022-06-17,US,166.18,new postings,"IT Infrastructure, Operations & Support"
-2022-06-18,US,158.73,total postings,"IT Infrastructure, Operations & Support"
+2022-06-18,US,158.72,total postings,"IT Infrastructure, Operations & Support"
 2022-06-18,US,165.23,new postings,"IT Infrastructure, Operations & Support"
 2022-06-19,US,158.51,total postings,"IT Infrastructure, Operations & Support"
 2022-06-19,US,164.28,new postings,"IT Infrastructure, Operations & Support"
-2022-06-20,US,158.27,total postings,"IT Infrastructure, Operations & Support"
+2022-06-20,US,158.26,total postings,"IT Infrastructure, Operations & Support"
 2022-06-20,US,163.52,new postings,"IT Infrastructure, Operations & Support"
 2022-06-21,US,157.96,total postings,"IT Infrastructure, Operations & Support"
 2022-06-21,US,161.37,new postings,"IT Infrastructure, Operations & Support"
@@ -11631,7 +11659,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-06-22,US,161.25,new postings,"IT Infrastructure, Operations & Support"
 2022-06-23,US,157.71,total postings,"IT Infrastructure, Operations & Support"
 2022-06-23,US,159.67,new postings,"IT Infrastructure, Operations & Support"
-2022-06-24,US,157.39,total postings,"IT Infrastructure, Operations & Support"
+2022-06-24,US,157.38,total postings,"IT Infrastructure, Operations & Support"
 2022-06-24,US,157.53,new postings,"IT Infrastructure, Operations & Support"
 2022-06-25,US,157.01,total postings,"IT Infrastructure, Operations & Support"
 2022-06-25,US,154.41,new postings,"IT Infrastructure, Operations & Support"
@@ -11641,7 +11669,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-06-27,US,148.24,new postings,"IT Infrastructure, Operations & Support"
 2022-06-28,US,156.13,total postings,"IT Infrastructure, Operations & Support"
 2022-06-28,US,147.24,new postings,"IT Infrastructure, Operations & Support"
-2022-06-29,US,156.0,total postings,"IT Infrastructure, Operations & Support"
+2022-06-29,US,155.99,total postings,"IT Infrastructure, Operations & Support"
 2022-06-29,US,146.54,new postings,"IT Infrastructure, Operations & Support"
 2022-06-30,US,155.94,total postings,"IT Infrastructure, Operations & Support"
 2022-06-30,US,147.12,new postings,"IT Infrastructure, Operations & Support"
@@ -11651,7 +11679,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-07-02,US,149.19,new postings,"IT Infrastructure, Operations & Support"
 2022-07-03,US,156.25,total postings,"IT Infrastructure, Operations & Support"
 2022-07-03,US,150.08,new postings,"IT Infrastructure, Operations & Support"
-2022-07-04,US,156.28,total postings,"IT Infrastructure, Operations & Support"
+2022-07-04,US,156.27,total postings,"IT Infrastructure, Operations & Support"
 2022-07-04,US,151.51,new postings,"IT Infrastructure, Operations & Support"
 2022-07-05,US,156.48,total postings,"IT Infrastructure, Operations & Support"
 2022-07-05,US,151.04,new postings,"IT Infrastructure, Operations & Support"
@@ -11661,7 +11689,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-07-07,US,148.85,new postings,"IT Infrastructure, Operations & Support"
 2022-07-08,US,155.42,total postings,"IT Infrastructure, Operations & Support"
 2022-07-08,US,148.05,new postings,"IT Infrastructure, Operations & Support"
-2022-07-09,US,154.77,total postings,"IT Infrastructure, Operations & Support"
+2022-07-09,US,154.76,total postings,"IT Infrastructure, Operations & Support"
 2022-07-09,US,147.88,new postings,"IT Infrastructure, Operations & Support"
 2022-07-10,US,154.32,total postings,"IT Infrastructure, Operations & Support"
 2022-07-10,US,147.53,new postings,"IT Infrastructure, Operations & Support"
@@ -11685,7 +11713,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-07-19,US,154.52,new postings,"IT Infrastructure, Operations & Support"
 2022-07-20,US,152.83,total postings,"IT Infrastructure, Operations & Support"
 2022-07-20,US,154.38,new postings,"IT Infrastructure, Operations & Support"
-2022-07-21,US,152.69,total postings,"IT Infrastructure, Operations & Support"
+2022-07-21,US,152.68,total postings,"IT Infrastructure, Operations & Support"
 2022-07-21,US,153.99,new postings,"IT Infrastructure, Operations & Support"
 2022-07-22,US,152.78,total postings,"IT Infrastructure, Operations & Support"
 2022-07-22,US,154.86,new postings,"IT Infrastructure, Operations & Support"
@@ -11760,34 +11788,34 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-08-26,US,147.87,total postings,"IT Infrastructure, Operations & Support"
 2022-08-26,US,161.08,new postings,"IT Infrastructure, Operations & Support"
 2022-08-27,US,147.74,total postings,"IT Infrastructure, Operations & Support"
-2022-08-27,US,158.66,new postings,"IT Infrastructure, Operations & Support"
+2022-08-27,US,158.65,new postings,"IT Infrastructure, Operations & Support"
 2022-08-28,US,147.61,total postings,"IT Infrastructure, Operations & Support"
 2022-08-28,US,156.57,new postings,"IT Infrastructure, Operations & Support"
 2022-08-29,US,147.3,total postings,"IT Infrastructure, Operations & Support"
-2022-08-29,US,154.82,new postings,"IT Infrastructure, Operations & Support"
+2022-08-29,US,154.81,new postings,"IT Infrastructure, Operations & Support"
 2022-08-30,US,147.19,total postings,"IT Infrastructure, Operations & Support"
-2022-08-30,US,153.86,new postings,"IT Infrastructure, Operations & Support"
+2022-08-30,US,153.84,new postings,"IT Infrastructure, Operations & Support"
 2022-08-31,US,146.86,total postings,"IT Infrastructure, Operations & Support"
-2022-08-31,US,153.09,new postings,"IT Infrastructure, Operations & Support"
+2022-08-31,US,153.07,new postings,"IT Infrastructure, Operations & Support"
 2022-09-01,US,146.47,total postings,"IT Infrastructure, Operations & Support"
-2022-09-01,US,151.61,new postings,"IT Infrastructure, Operations & Support"
+2022-09-01,US,151.59,new postings,"IT Infrastructure, Operations & Support"
 2022-09-02,US,146.22,total postings,"IT Infrastructure, Operations & Support"
-2022-09-02,US,151.37,new postings,"IT Infrastructure, Operations & Support"
+2022-09-02,US,151.35,new postings,"IT Infrastructure, Operations & Support"
 2022-09-03,US,146.1,total postings,"IT Infrastructure, Operations & Support"
-2022-09-03,US,153.48,new postings,"IT Infrastructure, Operations & Support"
+2022-09-03,US,153.47,new postings,"IT Infrastructure, Operations & Support"
 2022-09-04,US,146.1,total postings,"IT Infrastructure, Operations & Support"
-2022-09-04,US,155.59,new postings,"IT Infrastructure, Operations & Support"
+2022-09-04,US,155.58,new postings,"IT Infrastructure, Operations & Support"
 2022-09-05,US,146.03,total postings,"IT Infrastructure, Operations & Support"
-2022-09-05,US,158.16,new postings,"IT Infrastructure, Operations & Support"
+2022-09-05,US,158.15,new postings,"IT Infrastructure, Operations & Support"
 2022-09-06,US,145.83,total postings,"IT Infrastructure, Operations & Support"
 2022-09-06,US,157.38,new postings,"IT Infrastructure, Operations & Support"
 2022-09-07,US,145.63,total postings,"IT Infrastructure, Operations & Support"
 2022-09-07,US,155.92,new postings,"IT Infrastructure, Operations & Support"
-2022-09-08,US,145.37,total postings,"IT Infrastructure, Operations & Support"
+2022-09-08,US,145.36,total postings,"IT Infrastructure, Operations & Support"
 2022-09-08,US,155.28,new postings,"IT Infrastructure, Operations & Support"
 2022-09-09,US,145.09,total postings,"IT Infrastructure, Operations & Support"
 2022-09-09,US,154.5,new postings,"IT Infrastructure, Operations & Support"
-2022-09-10,US,144.77,total postings,"IT Infrastructure, Operations & Support"
+2022-09-10,US,144.76,total postings,"IT Infrastructure, Operations & Support"
 2022-09-10,US,150.27,new postings,"IT Infrastructure, Operations & Support"
 2022-09-11,US,144.17,total postings,"IT Infrastructure, Operations & Support"
 2022-09-11,US,146.93,new postings,"IT Infrastructure, Operations & Support"
@@ -11805,7 +11833,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-09-17,US,151.99,new postings,"IT Infrastructure, Operations & Support"
 2022-09-18,US,142.5,total postings,"IT Infrastructure, Operations & Support"
 2022-09-18,US,153.31,new postings,"IT Infrastructure, Operations & Support"
-2022-09-19,US,142.12,total postings,"IT Infrastructure, Operations & Support"
+2022-09-19,US,142.11,total postings,"IT Infrastructure, Operations & Support"
 2022-09-19,US,155.35,new postings,"IT Infrastructure, Operations & Support"
 2022-09-20,US,141.68,total postings,"IT Infrastructure, Operations & Support"
 2022-09-20,US,154.5,new postings,"IT Infrastructure, Operations & Support"
@@ -11819,7 +11847,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-09-24,US,148.29,new postings,"IT Infrastructure, Operations & Support"
 2022-09-25,US,140.39,total postings,"IT Infrastructure, Operations & Support"
 2022-09-25,US,147.53,new postings,"IT Infrastructure, Operations & Support"
-2022-09-26,US,140.33,total postings,"IT Infrastructure, Operations & Support"
+2022-09-26,US,140.32,total postings,"IT Infrastructure, Operations & Support"
 2022-09-26,US,147.04,new postings,"IT Infrastructure, Operations & Support"
 2022-09-27,US,140.39,total postings,"IT Infrastructure, Operations & Support"
 2022-09-27,US,147.02,new postings,"IT Infrastructure, Operations & Support"
@@ -11833,7 +11861,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-10-01,US,149.06,new postings,"IT Infrastructure, Operations & Support"
 2022-10-02,US,140.17,total postings,"IT Infrastructure, Operations & Support"
 2022-10-02,US,149.69,new postings,"IT Infrastructure, Operations & Support"
-2022-10-03,US,140.16,total postings,"IT Infrastructure, Operations & Support"
+2022-10-03,US,140.15,total postings,"IT Infrastructure, Operations & Support"
 2022-10-03,US,150.23,new postings,"IT Infrastructure, Operations & Support"
 2022-10-04,US,139.97,total postings,"IT Infrastructure, Operations & Support"
 2022-10-04,US,150.91,new postings,"IT Infrastructure, Operations & Support"
@@ -11841,27 +11869,27 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-10-05,US,152.19,new postings,"IT Infrastructure, Operations & Support"
 2022-10-06,US,139.82,total postings,"IT Infrastructure, Operations & Support"
 2022-10-06,US,153.32,new postings,"IT Infrastructure, Operations & Support"
-2022-10-07,US,139.45,total postings,"IT Infrastructure, Operations & Support"
+2022-10-07,US,139.44,total postings,"IT Infrastructure, Operations & Support"
 2022-10-07,US,153.34,new postings,"IT Infrastructure, Operations & Support"
-2022-10-08,US,139.11,total postings,"IT Infrastructure, Operations & Support"
-2022-10-08,US,153.24,new postings,"IT Infrastructure, Operations & Support"
-2022-10-09,US,138.69,total postings,"IT Infrastructure, Operations & Support"
-2022-10-09,US,152.84,new postings,"IT Infrastructure, Operations & Support"
-2022-10-10,US,138.28,total postings,"IT Infrastructure, Operations & Support"
-2022-10-10,US,152.73,new postings,"IT Infrastructure, Operations & Support"
+2022-10-08,US,139.1,total postings,"IT Infrastructure, Operations & Support"
+2022-10-08,US,153.23,new postings,"IT Infrastructure, Operations & Support"
+2022-10-09,US,138.68,total postings,"IT Infrastructure, Operations & Support"
+2022-10-09,US,152.83,new postings,"IT Infrastructure, Operations & Support"
+2022-10-10,US,138.27,total postings,"IT Infrastructure, Operations & Support"
+2022-10-10,US,152.71,new postings,"IT Infrastructure, Operations & Support"
 2022-10-11,US,137.97,total postings,"IT Infrastructure, Operations & Support"
-2022-10-11,US,151.99,new postings,"IT Infrastructure, Operations & Support"
+2022-10-11,US,151.97,new postings,"IT Infrastructure, Operations & Support"
 2022-10-12,US,137.53,total postings,"IT Infrastructure, Operations & Support"
-2022-10-12,US,149.26,new postings,"IT Infrastructure, Operations & Support"
+2022-10-12,US,149.24,new postings,"IT Infrastructure, Operations & Support"
 2022-10-13,US,137.29,total postings,"IT Infrastructure, Operations & Support"
-2022-10-13,US,147.01,new postings,"IT Infrastructure, Operations & Support"
+2022-10-13,US,146.99,new postings,"IT Infrastructure, Operations & Support"
 2022-10-14,US,137.3,total postings,"IT Infrastructure, Operations & Support"
-2022-10-14,US,145.44,new postings,"IT Infrastructure, Operations & Support"
-2022-10-15,US,137.32,total postings,"IT Infrastructure, Operations & Support"
-2022-10-15,US,145.18,new postings,"IT Infrastructure, Operations & Support"
-2022-10-16,US,137.52,total postings,"IT Infrastructure, Operations & Support"
-2022-10-16,US,145.22,new postings,"IT Infrastructure, Operations & Support"
-2022-10-17,US,137.54,total postings,"IT Infrastructure, Operations & Support"
+2022-10-14,US,145.43,new postings,"IT Infrastructure, Operations & Support"
+2022-10-15,US,137.31,total postings,"IT Infrastructure, Operations & Support"
+2022-10-15,US,145.17,new postings,"IT Infrastructure, Operations & Support"
+2022-10-16,US,137.51,total postings,"IT Infrastructure, Operations & Support"
+2022-10-16,US,145.21,new postings,"IT Infrastructure, Operations & Support"
+2022-10-17,US,137.53,total postings,"IT Infrastructure, Operations & Support"
 2022-10-17,US,145.04,new postings,"IT Infrastructure, Operations & Support"
 2022-10-18,US,137.58,total postings,"IT Infrastructure, Operations & Support"
 2022-10-18,US,145.22,new postings,"IT Infrastructure, Operations & Support"
@@ -11869,7 +11897,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-10-19,US,146.31,new postings,"IT Infrastructure, Operations & Support"
 2022-10-20,US,137.54,total postings,"IT Infrastructure, Operations & Support"
 2022-10-20,US,147.53,new postings,"IT Infrastructure, Operations & Support"
-2022-10-21,US,137.39,total postings,"IT Infrastructure, Operations & Support"
+2022-10-21,US,137.38,total postings,"IT Infrastructure, Operations & Support"
 2022-10-21,US,148.77,new postings,"IT Infrastructure, Operations & Support"
 2022-10-22,US,136.87,total postings,"IT Infrastructure, Operations & Support"
 2022-10-22,US,148.0,new postings,"IT Infrastructure, Operations & Support"
@@ -11877,7 +11905,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-10-23,US,147.45,new postings,"IT Infrastructure, Operations & Support"
 2022-10-24,US,136.4,total postings,"IT Infrastructure, Operations & Support"
 2022-10-24,US,146.68,new postings,"IT Infrastructure, Operations & Support"
-2022-10-25,US,136.16,total postings,"IT Infrastructure, Operations & Support"
+2022-10-25,US,136.15,total postings,"IT Infrastructure, Operations & Support"
 2022-10-25,US,145.52,new postings,"IT Infrastructure, Operations & Support"
 2022-10-26,US,135.86,total postings,"IT Infrastructure, Operations & Support"
 2022-10-26,US,144.12,new postings,"IT Infrastructure, Operations & Support"
@@ -11885,7 +11913,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-10-27,US,142.59,new postings,"IT Infrastructure, Operations & Support"
 2022-10-28,US,135.35,total postings,"IT Infrastructure, Operations & Support"
 2022-10-28,US,141.16,new postings,"IT Infrastructure, Operations & Support"
-2022-10-29,US,135.45,total postings,"IT Infrastructure, Operations & Support"
+2022-10-29,US,135.44,total postings,"IT Infrastructure, Operations & Support"
 2022-10-29,US,140.93,new postings,"IT Infrastructure, Operations & Support"
 2022-10-30,US,135.23,total postings,"IT Infrastructure, Operations & Support"
 2022-10-30,US,140.44,new postings,"IT Infrastructure, Operations & Support"
@@ -11901,7 +11929,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-11-04,US,142.21,new postings,"IT Infrastructure, Operations & Support"
 2022-11-05,US,134.09,total postings,"IT Infrastructure, Operations & Support"
 2022-11-05,US,142.29,new postings,"IT Infrastructure, Operations & Support"
-2022-11-06,US,134.01,total postings,"IT Infrastructure, Operations & Support"
+2022-11-06,US,134.0,total postings,"IT Infrastructure, Operations & Support"
 2022-11-06,US,142.37,new postings,"IT Infrastructure, Operations & Support"
 2022-11-07,US,133.9,total postings,"IT Infrastructure, Operations & Support"
 2022-11-07,US,142.39,new postings,"IT Infrastructure, Operations & Support"
@@ -11917,9 +11945,9 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-11-12,US,143.43,new postings,"IT Infrastructure, Operations & Support"
 2022-11-13,US,133.33,total postings,"IT Infrastructure, Operations & Support"
 2022-11-13,US,143.66,new postings,"IT Infrastructure, Operations & Support"
-2022-11-14,US,133.14,total postings,"IT Infrastructure, Operations & Support"
+2022-11-14,US,133.13,total postings,"IT Infrastructure, Operations & Support"
 2022-11-14,US,143.37,new postings,"IT Infrastructure, Operations & Support"
-2022-11-15,US,132.98,total postings,"IT Infrastructure, Operations & Support"
+2022-11-15,US,132.97,total postings,"IT Infrastructure, Operations & Support"
 2022-11-15,US,143.18,new postings,"IT Infrastructure, Operations & Support"
 2022-11-16,US,132.85,total postings,"IT Infrastructure, Operations & Support"
 2022-11-16,US,142.6,new postings,"IT Infrastructure, Operations & Support"
@@ -11929,27 +11957,27 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-11-18,US,140.95,new postings,"IT Infrastructure, Operations & Support"
 2022-11-19,US,132.5,total postings,"IT Infrastructure, Operations & Support"
 2022-11-19,US,140.16,new postings,"IT Infrastructure, Operations & Support"
-2022-11-20,US,132.62,total postings,"IT Infrastructure, Operations & Support"
+2022-11-20,US,132.61,total postings,"IT Infrastructure, Operations & Support"
 2022-11-20,US,139.86,new postings,"IT Infrastructure, Operations & Support"
 2022-11-21,US,132.61,total postings,"IT Infrastructure, Operations & Support"
 2022-11-21,US,139.67,new postings,"IT Infrastructure, Operations & Support"
 2022-11-22,US,132.51,total postings,"IT Infrastructure, Operations & Support"
 2022-11-22,US,139.56,new postings,"IT Infrastructure, Operations & Support"
-2022-11-23,US,132.41,total postings,"IT Infrastructure, Operations & Support"
+2022-11-23,US,132.4,total postings,"IT Infrastructure, Operations & Support"
 2022-11-23,US,139.4,new postings,"IT Infrastructure, Operations & Support"
 2022-11-24,US,132.21,total postings,"IT Infrastructure, Operations & Support"
 2022-11-24,US,138.55,new postings,"IT Infrastructure, Operations & Support"
 2022-11-25,US,132.09,total postings,"IT Infrastructure, Operations & Support"
 2022-11-25,US,135.15,new postings,"IT Infrastructure, Operations & Support"
-2022-11-26,US,131.97,total postings,"IT Infrastructure, Operations & Support"
+2022-11-26,US,131.96,total postings,"IT Infrastructure, Operations & Support"
 2022-11-26,US,128.7,new postings,"IT Infrastructure, Operations & Support"
 2022-11-27,US,131.69,total postings,"IT Infrastructure, Operations & Support"
 2022-11-27,US,125.99,new postings,"IT Infrastructure, Operations & Support"
 2022-11-28,US,131.57,total postings,"IT Infrastructure, Operations & Support"
 2022-11-28,US,124.31,new postings,"IT Infrastructure, Operations & Support"
-2022-11-29,US,131.52,total postings,"IT Infrastructure, Operations & Support"
+2022-11-29,US,131.51,total postings,"IT Infrastructure, Operations & Support"
 2022-11-29,US,122.42,new postings,"IT Infrastructure, Operations & Support"
-2022-11-30,US,131.42,total postings,"IT Infrastructure, Operations & Support"
+2022-11-30,US,131.41,total postings,"IT Infrastructure, Operations & Support"
 2022-11-30,US,121.68,new postings,"IT Infrastructure, Operations & Support"
 2022-12-01,US,131.33,total postings,"IT Infrastructure, Operations & Support"
 2022-12-01,US,121.99,new postings,"IT Infrastructure, Operations & Support"
@@ -11959,17 +11987,17 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-12-03,US,137.14,new postings,"IT Infrastructure, Operations & Support"
 2022-12-04,US,130.62,total postings,"IT Infrastructure, Operations & Support"
 2022-12-04,US,139.27,new postings,"IT Infrastructure, Operations & Support"
-2022-12-05,US,130.37,total postings,"IT Infrastructure, Operations & Support"
+2022-12-05,US,130.36,total postings,"IT Infrastructure, Operations & Support"
 2022-12-05,US,140.54,new postings,"IT Infrastructure, Operations & Support"
 2022-12-06,US,129.88,total postings,"IT Infrastructure, Operations & Support"
 2022-12-06,US,142.04,new postings,"IT Infrastructure, Operations & Support"
-2022-12-07,US,129.39,total postings,"IT Infrastructure, Operations & Support"
+2022-12-07,US,129.38,total postings,"IT Infrastructure, Operations & Support"
 2022-12-07,US,142.76,new postings,"IT Infrastructure, Operations & Support"
 2022-12-08,US,128.86,total postings,"IT Infrastructure, Operations & Support"
 2022-12-08,US,142.91,new postings,"IT Infrastructure, Operations & Support"
-2022-12-09,US,128.45,total postings,"IT Infrastructure, Operations & Support"
+2022-12-09,US,128.44,total postings,"IT Infrastructure, Operations & Support"
 2022-12-09,US,140.96,new postings,"IT Infrastructure, Operations & Support"
-2022-12-10,US,128.23,total postings,"IT Infrastructure, Operations & Support"
+2022-12-10,US,128.22,total postings,"IT Infrastructure, Operations & Support"
 2022-12-10,US,136.27,new postings,"IT Infrastructure, Operations & Support"
 2022-12-11,US,128.14,total postings,"IT Infrastructure, Operations & Support"
 2022-12-11,US,135.67,new postings,"IT Infrastructure, Operations & Support"
@@ -11981,19 +12009,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-12-14,US,134.73,new postings,"IT Infrastructure, Operations & Support"
 2022-12-15,US,128.41,total postings,"IT Infrastructure, Operations & Support"
 2022-12-15,US,134.09,new postings,"IT Infrastructure, Operations & Support"
-2022-12-16,US,128.47,total postings,"IT Infrastructure, Operations & Support"
+2022-12-16,US,128.46,total postings,"IT Infrastructure, Operations & Support"
 2022-12-16,US,133.44,new postings,"IT Infrastructure, Operations & Support"
 2022-12-17,US,128.29,total postings,"IT Infrastructure, Operations & Support"
 2022-12-17,US,133.1,new postings,"IT Infrastructure, Operations & Support"
-2022-12-18,US,128.1,total postings,"IT Infrastructure, Operations & Support"
+2022-12-18,US,128.09,total postings,"IT Infrastructure, Operations & Support"
 2022-12-18,US,132.57,new postings,"IT Infrastructure, Operations & Support"
 2022-12-19,US,127.88,total postings,"IT Infrastructure, Operations & Support"
 2022-12-19,US,131.66,new postings,"IT Infrastructure, Operations & Support"
-2022-12-20,US,127.62,total postings,"IT Infrastructure, Operations & Support"
+2022-12-20,US,127.61,total postings,"IT Infrastructure, Operations & Support"
 2022-12-20,US,130.31,new postings,"IT Infrastructure, Operations & Support"
-2022-12-21,US,127.3,total postings,"IT Infrastructure, Operations & Support"
+2022-12-21,US,127.29,total postings,"IT Infrastructure, Operations & Support"
 2022-12-21,US,129.66,new postings,"IT Infrastructure, Operations & Support"
-2022-12-22,US,127.14,total postings,"IT Infrastructure, Operations & Support"
+2022-12-22,US,127.13,total postings,"IT Infrastructure, Operations & Support"
 2022-12-22,US,129.3,new postings,"IT Infrastructure, Operations & Support"
 2022-12-23,US,126.99,total postings,"IT Infrastructure, Operations & Support"
 2022-12-23,US,128.2,new postings,"IT Infrastructure, Operations & Support"
@@ -12003,11 +12031,11 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-12-25,US,126.46,new postings,"IT Infrastructure, Operations & Support"
 2022-12-26,US,126.82,total postings,"IT Infrastructure, Operations & Support"
 2022-12-26,US,127.35,new postings,"IT Infrastructure, Operations & Support"
-2022-12-27,US,126.84,total postings,"IT Infrastructure, Operations & Support"
+2022-12-27,US,126.83,total postings,"IT Infrastructure, Operations & Support"
 2022-12-27,US,127.76,new postings,"IT Infrastructure, Operations & Support"
 2022-12-28,US,126.71,total postings,"IT Infrastructure, Operations & Support"
 2022-12-28,US,126.7,new postings,"IT Infrastructure, Operations & Support"
-2022-12-29,US,126.51,total postings,"IT Infrastructure, Operations & Support"
+2022-12-29,US,126.5,total postings,"IT Infrastructure, Operations & Support"
 2022-12-29,US,124.7,new postings,"IT Infrastructure, Operations & Support"
 2022-12-30,US,126.28,total postings,"IT Infrastructure, Operations & Support"
 2022-12-30,US,122.75,new postings,"IT Infrastructure, Operations & Support"
@@ -12019,9 +12047,9 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-01-02,US,115.97,new postings,"IT Infrastructure, Operations & Support"
 2023-01-03,US,125.05,total postings,"IT Infrastructure, Operations & Support"
 2023-01-03,US,112.27,new postings,"IT Infrastructure, Operations & Support"
-2023-01-04,US,124.55,total postings,"IT Infrastructure, Operations & Support"
+2023-01-04,US,124.54,total postings,"IT Infrastructure, Operations & Support"
 2023-01-04,US,110.6,new postings,"IT Infrastructure, Operations & Support"
-2023-01-05,US,124.16,total postings,"IT Infrastructure, Operations & Support"
+2023-01-05,US,124.15,total postings,"IT Infrastructure, Operations & Support"
 2023-01-05,US,111.65,new postings,"IT Infrastructure, Operations & Support"
 2023-01-06,US,123.82,total postings,"IT Infrastructure, Operations & Support"
 2023-01-06,US,115.26,new postings,"IT Infrastructure, Operations & Support"
@@ -12035,7 +12063,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-01-10,US,126.33,new postings,"IT Infrastructure, Operations & Support"
 2023-01-11,US,122.8,total postings,"IT Infrastructure, Operations & Support"
 2023-01-11,US,129.36,new postings,"IT Infrastructure, Operations & Support"
-2023-01-12,US,122.79,total postings,"IT Infrastructure, Operations & Support"
+2023-01-12,US,122.78,total postings,"IT Infrastructure, Operations & Support"
 2023-01-12,US,130.48,new postings,"IT Infrastructure, Operations & Support"
 2023-01-13,US,122.81,total postings,"IT Infrastructure, Operations & Support"
 2023-01-13,US,129.67,new postings,"IT Infrastructure, Operations & Support"
@@ -12051,7 +12079,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-01-18,US,130.52,new postings,"IT Infrastructure, Operations & Support"
 2023-01-19,US,122.08,total postings,"IT Infrastructure, Operations & Support"
 2023-01-19,US,130.26,new postings,"IT Infrastructure, Operations & Support"
-2023-01-20,US,121.85,total postings,"IT Infrastructure, Operations & Support"
+2023-01-20,US,121.84,total postings,"IT Infrastructure, Operations & Support"
 2023-01-20,US,130.15,new postings,"IT Infrastructure, Operations & Support"
 2023-01-21,US,121.64,total postings,"IT Infrastructure, Operations & Support"
 2023-01-21,US,130.3,new postings,"IT Infrastructure, Operations & Support"
@@ -12059,9 +12087,9 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-01-22,US,128.98,new postings,"IT Infrastructure, Operations & Support"
 2023-01-23,US,121.04,total postings,"IT Infrastructure, Operations & Support"
 2023-01-23,US,127.33,new postings,"IT Infrastructure, Operations & Support"
-2023-01-24,US,120.75,total postings,"IT Infrastructure, Operations & Support"
+2023-01-24,US,120.74,total postings,"IT Infrastructure, Operations & Support"
 2023-01-24,US,128.44,new postings,"IT Infrastructure, Operations & Support"
-2023-01-25,US,120.41,total postings,"IT Infrastructure, Operations & Support"
+2023-01-25,US,120.4,total postings,"IT Infrastructure, Operations & Support"
 2023-01-25,US,128.62,new postings,"IT Infrastructure, Operations & Support"
 2023-01-26,US,120.09,total postings,"IT Infrastructure, Operations & Support"
 2023-01-26,US,128.92,new postings,"IT Infrastructure, Operations & Support"
@@ -12087,13 +12115,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-02-05,US,122.53,new postings,"IT Infrastructure, Operations & Support"
 2023-02-06,US,117.42,total postings,"IT Infrastructure, Operations & Support"
 2023-02-06,US,121.57,new postings,"IT Infrastructure, Operations & Support"
-2023-02-07,US,117.19,total postings,"IT Infrastructure, Operations & Support"
+2023-02-07,US,117.18,total postings,"IT Infrastructure, Operations & Support"
 2023-02-07,US,121.21,new postings,"IT Infrastructure, Operations & Support"
 2023-02-08,US,116.67,total postings,"IT Infrastructure, Operations & Support"
 2023-02-08,US,120.63,new postings,"IT Infrastructure, Operations & Support"
 2023-02-09,US,116.29,total postings,"IT Infrastructure, Operations & Support"
 2023-02-09,US,120.46,new postings,"IT Infrastructure, Operations & Support"
-2023-02-10,US,115.96,total postings,"IT Infrastructure, Operations & Support"
+2023-02-10,US,115.95,total postings,"IT Infrastructure, Operations & Support"
 2023-02-10,US,120.6,new postings,"IT Infrastructure, Operations & Support"
 2023-02-11,US,115.69,total postings,"IT Infrastructure, Operations & Support"
 2023-02-11,US,120.45,new postings,"IT Infrastructure, Operations & Support"
@@ -12101,17 +12129,17 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-02-12,US,120.95,new postings,"IT Infrastructure, Operations & Support"
 2023-02-13,US,115.08,total postings,"IT Infrastructure, Operations & Support"
 2023-02-13,US,121.03,new postings,"IT Infrastructure, Operations & Support"
-2023-02-14,US,114.69,total postings,"IT Infrastructure, Operations & Support"
+2023-02-14,US,114.68,total postings,"IT Infrastructure, Operations & Support"
 2023-02-14,US,120.95,new postings,"IT Infrastructure, Operations & Support"
 2023-02-15,US,114.73,total postings,"IT Infrastructure, Operations & Support"
 2023-02-15,US,122.22,new postings,"IT Infrastructure, Operations & Support"
-2023-02-16,US,114.66,total postings,"IT Infrastructure, Operations & Support"
+2023-02-16,US,114.65,total postings,"IT Infrastructure, Operations & Support"
 2023-02-16,US,123.39,new postings,"IT Infrastructure, Operations & Support"
 2023-02-17,US,114.52,total postings,"IT Infrastructure, Operations & Support"
 2023-02-17,US,123.68,new postings,"IT Infrastructure, Operations & Support"
 2023-02-18,US,113.95,total postings,"IT Infrastructure, Operations & Support"
 2023-02-18,US,124.15,new postings,"IT Infrastructure, Operations & Support"
-2023-02-19,US,113.74,total postings,"IT Infrastructure, Operations & Support"
+2023-02-19,US,113.73,total postings,"IT Infrastructure, Operations & Support"
 2023-02-19,US,124.57,new postings,"IT Infrastructure, Operations & Support"
 2023-02-20,US,113.52,total postings,"IT Infrastructure, Operations & Support"
 2023-02-20,US,125.68,new postings,"IT Infrastructure, Operations & Support"
@@ -12125,11 +12153,11 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-02-24,US,120.69,new postings,"IT Infrastructure, Operations & Support"
 2023-02-25,US,112.84,total postings,"IT Infrastructure, Operations & Support"
 2023-02-25,US,119.06,new postings,"IT Infrastructure, Operations & Support"
-2023-02-26,US,112.61,total postings,"IT Infrastructure, Operations & Support"
+2023-02-26,US,112.6,total postings,"IT Infrastructure, Operations & Support"
 2023-02-26,US,117.15,new postings,"IT Infrastructure, Operations & Support"
 2023-02-27,US,112.36,total postings,"IT Infrastructure, Operations & Support"
 2023-02-27,US,114.77,new postings,"IT Infrastructure, Operations & Support"
-2023-02-28,US,112.03,total postings,"IT Infrastructure, Operations & Support"
+2023-02-28,US,112.02,total postings,"IT Infrastructure, Operations & Support"
 2023-02-28,US,114.48,new postings,"IT Infrastructure, Operations & Support"
 2023-03-01,US,111.32,total postings,"IT Infrastructure, Operations & Support"
 2023-03-01,US,114.79,new postings,"IT Infrastructure, Operations & Support"
@@ -12167,7 +12195,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-03-17,US,122.57,new postings,"IT Infrastructure, Operations & Support"
 2023-03-18,US,112.41,total postings,"IT Infrastructure, Operations & Support"
 2023-03-18,US,122.67,new postings,"IT Infrastructure, Operations & Support"
-2023-03-19,US,112.41,total postings,"IT Infrastructure, Operations & Support"
+2023-03-19,US,112.4,total postings,"IT Infrastructure, Operations & Support"
 2023-03-19,US,122.49,new postings,"IT Infrastructure, Operations & Support"
 2023-03-20,US,112.53,total postings,"IT Infrastructure, Operations & Support"
 2023-03-20,US,122.9,new postings,"IT Infrastructure, Operations & Support"
@@ -12177,21 +12205,21 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-03-22,US,123.93,new postings,"IT Infrastructure, Operations & Support"
 2023-03-23,US,112.51,total postings,"IT Infrastructure, Operations & Support"
 2023-03-23,US,124.16,new postings,"IT Infrastructure, Operations & Support"
-2023-03-24,US,112.43,total postings,"IT Infrastructure, Operations & Support"
+2023-03-24,US,112.42,total postings,"IT Infrastructure, Operations & Support"
 2023-03-24,US,123.43,new postings,"IT Infrastructure, Operations & Support"
 2023-03-25,US,112.25,total postings,"IT Infrastructure, Operations & Support"
 2023-03-25,US,122.91,new postings,"IT Infrastructure, Operations & Support"
-2023-03-26,US,112.06,total postings,"IT Infrastructure, Operations & Support"
+2023-03-26,US,112.05,total postings,"IT Infrastructure, Operations & Support"
 2023-03-26,US,122.67,new postings,"IT Infrastructure, Operations & Support"
 2023-03-27,US,111.82,total postings,"IT Infrastructure, Operations & Support"
 2023-03-27,US,122.4,new postings,"IT Infrastructure, Operations & Support"
 2023-03-28,US,111.6,total postings,"IT Infrastructure, Operations & Support"
 2023-03-28,US,121.72,new postings,"IT Infrastructure, Operations & Support"
-2023-03-29,US,111.36,total postings,"IT Infrastructure, Operations & Support"
+2023-03-29,US,111.35,total postings,"IT Infrastructure, Operations & Support"
 2023-03-29,US,121.27,new postings,"IT Infrastructure, Operations & Support"
 2023-03-30,US,111.27,total postings,"IT Infrastructure, Operations & Support"
 2023-03-30,US,121.68,new postings,"IT Infrastructure, Operations & Support"
-2023-03-31,US,111.07,total postings,"IT Infrastructure, Operations & Support"
+2023-03-31,US,111.06,total postings,"IT Infrastructure, Operations & Support"
 2023-03-31,US,121.8,new postings,"IT Infrastructure, Operations & Support"
 2023-04-01,US,110.95,total postings,"IT Infrastructure, Operations & Support"
 2023-04-01,US,121.69,new postings,"IT Infrastructure, Operations & Support"
@@ -12205,9 +12233,9 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-04-05,US,121.57,new postings,"IT Infrastructure, Operations & Support"
 2023-04-06,US,110.74,total postings,"IT Infrastructure, Operations & Support"
 2023-04-06,US,121.42,new postings,"IT Infrastructure, Operations & Support"
-2023-04-07,US,110.8,total postings,"IT Infrastructure, Operations & Support"
+2023-04-07,US,110.79,total postings,"IT Infrastructure, Operations & Support"
 2023-04-07,US,121.89,new postings,"IT Infrastructure, Operations & Support"
-2023-04-08,US,110.88,total postings,"IT Infrastructure, Operations & Support"
+2023-04-08,US,110.87,total postings,"IT Infrastructure, Operations & Support"
 2023-04-08,US,122.05,new postings,"IT Infrastructure, Operations & Support"
 2023-04-09,US,110.89,total postings,"IT Infrastructure, Operations & Support"
 2023-04-09,US,121.75,new postings,"IT Infrastructure, Operations & Support"
@@ -12217,13 +12245,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-04-11,US,120.9,new postings,"IT Infrastructure, Operations & Support"
 2023-04-12,US,111.22,total postings,"IT Infrastructure, Operations & Support"
 2023-04-12,US,119.28,new postings,"IT Infrastructure, Operations & Support"
-2023-04-13,US,111.21,total postings,"IT Infrastructure, Operations & Support"
+2023-04-13,US,111.2,total postings,"IT Infrastructure, Operations & Support"
 2023-04-13,US,118.03,new postings,"IT Infrastructure, Operations & Support"
 2023-04-14,US,111.15,total postings,"IT Infrastructure, Operations & Support"
 2023-04-14,US,116.95,new postings,"IT Infrastructure, Operations & Support"
 2023-04-15,US,110.84,total postings,"IT Infrastructure, Operations & Support"
 2023-04-15,US,116.5,new postings,"IT Infrastructure, Operations & Support"
-2023-04-16,US,110.81,total postings,"IT Infrastructure, Operations & Support"
+2023-04-16,US,110.8,total postings,"IT Infrastructure, Operations & Support"
 2023-04-16,US,116.6,new postings,"IT Infrastructure, Operations & Support"
 2023-04-17,US,110.78,total postings,"IT Infrastructure, Operations & Support"
 2023-04-17,US,116.89,new postings,"IT Infrastructure, Operations & Support"
@@ -12239,15 +12267,15 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-04-22,US,122.19,new postings,"IT Infrastructure, Operations & Support"
 2023-04-23,US,110.68,total postings,"IT Infrastructure, Operations & Support"
 2023-04-23,US,122.45,new postings,"IT Infrastructure, Operations & Support"
-2023-04-24,US,110.62,total postings,"IT Infrastructure, Operations & Support"
+2023-04-24,US,110.61,total postings,"IT Infrastructure, Operations & Support"
 2023-04-24,US,122.4,new postings,"IT Infrastructure, Operations & Support"
 2023-04-25,US,110.49,total postings,"IT Infrastructure, Operations & Support"
 2023-04-25,US,121.95,new postings,"IT Infrastructure, Operations & Support"
-2023-04-26,US,110.5,total postings,"IT Infrastructure, Operations & Support"
+2023-04-26,US,110.49,total postings,"IT Infrastructure, Operations & Support"
 2023-04-26,US,121.79,new postings,"IT Infrastructure, Operations & Support"
 2023-04-27,US,110.47,total postings,"IT Infrastructure, Operations & Support"
 2023-04-27,US,121.8,new postings,"IT Infrastructure, Operations & Support"
-2023-04-28,US,110.58,total postings,"IT Infrastructure, Operations & Support"
+2023-04-28,US,110.57,total postings,"IT Infrastructure, Operations & Support"
 2023-04-28,US,122.14,new postings,"IT Infrastructure, Operations & Support"
 2023-04-29,US,110.55,total postings,"IT Infrastructure, Operations & Support"
 2023-04-29,US,122.16,new postings,"IT Infrastructure, Operations & Support"
@@ -12255,7 +12283,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-04-30,US,122.44,new postings,"IT Infrastructure, Operations & Support"
 2023-05-01,US,110.43,total postings,"IT Infrastructure, Operations & Support"
 2023-05-01,US,122.46,new postings,"IT Infrastructure, Operations & Support"
-2023-05-02,US,110.43,total postings,"IT Infrastructure, Operations & Support"
+2023-05-02,US,110.42,total postings,"IT Infrastructure, Operations & Support"
 2023-05-02,US,123.16,new postings,"IT Infrastructure, Operations & Support"
 2023-05-03,US,110.35,total postings,"IT Infrastructure, Operations & Support"
 2023-05-03,US,124.29,new postings,"IT Infrastructure, Operations & Support"
@@ -12331,19 +12359,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-06-07,US,110.87,new postings,"IT Infrastructure, Operations & Support"
 2023-06-08,US,101.35,total postings,"IT Infrastructure, Operations & Support"
 2023-06-08,US,112.13,new postings,"IT Infrastructure, Operations & Support"
-2023-06-09,US,101.14,total postings,"IT Infrastructure, Operations & Support"
+2023-06-09,US,101.13,total postings,"IT Infrastructure, Operations & Support"
 2023-06-09,US,112.61,new postings,"IT Infrastructure, Operations & Support"
 2023-06-10,US,100.86,total postings,"IT Infrastructure, Operations & Support"
 2023-06-10,US,112.4,new postings,"IT Infrastructure, Operations & Support"
-2023-06-11,US,100.63,total postings,"IT Infrastructure, Operations & Support"
+2023-06-11,US,100.62,total postings,"IT Infrastructure, Operations & Support"
 2023-06-11,US,112.94,new postings,"IT Infrastructure, Operations & Support"
 2023-06-12,US,100.37,total postings,"IT Infrastructure, Operations & Support"
 2023-06-12,US,114.4,new postings,"IT Infrastructure, Operations & Support"
 2023-06-13,US,100.14,total postings,"IT Infrastructure, Operations & Support"
 2023-06-13,US,113.51,new postings,"IT Infrastructure, Operations & Support"
-2023-06-14,US,99.97,total postings,"IT Infrastructure, Operations & Support"
+2023-06-14,US,99.96,total postings,"IT Infrastructure, Operations & Support"
 2023-06-14,US,112.84,new postings,"IT Infrastructure, Operations & Support"
-2023-06-15,US,99.91,total postings,"IT Infrastructure, Operations & Support"
+2023-06-15,US,99.9,total postings,"IT Infrastructure, Operations & Support"
 2023-06-15,US,112.78,new postings,"IT Infrastructure, Operations & Support"
 2023-06-16,US,99.8,total postings,"IT Infrastructure, Operations & Support"
 2023-06-16,US,112.22,new postings,"IT Infrastructure, Operations & Support"
@@ -12351,7 +12379,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-06-17,US,111.8,new postings,"IT Infrastructure, Operations & Support"
 2023-06-18,US,99.61,total postings,"IT Infrastructure, Operations & Support"
 2023-06-18,US,111.46,new postings,"IT Infrastructure, Operations & Support"
-2023-06-19,US,99.5,total postings,"IT Infrastructure, Operations & Support"
+2023-06-19,US,99.49,total postings,"IT Infrastructure, Operations & Support"
 2023-06-19,US,110.91,new postings,"IT Infrastructure, Operations & Support"
 2023-06-20,US,99.35,total postings,"IT Infrastructure, Operations & Support"
 2023-06-20,US,110.04,new postings,"IT Infrastructure, Operations & Support"
@@ -12359,7 +12387,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-06-21,US,109.34,new postings,"IT Infrastructure, Operations & Support"
 2023-06-22,US,99.1,total postings,"IT Infrastructure, Operations & Support"
 2023-06-22,US,109.4,new postings,"IT Infrastructure, Operations & Support"
-2023-06-23,US,99.0,total postings,"IT Infrastructure, Operations & Support"
+2023-06-23,US,98.99,total postings,"IT Infrastructure, Operations & Support"
 2023-06-23,US,109.85,new postings,"IT Infrastructure, Operations & Support"
 2023-06-24,US,98.9,total postings,"IT Infrastructure, Operations & Support"
 2023-06-24,US,110.5,new postings,"IT Infrastructure, Operations & Support"
@@ -12371,17 +12399,17 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-06-27,US,112.93,new postings,"IT Infrastructure, Operations & Support"
 2023-06-28,US,98.48,total postings,"IT Infrastructure, Operations & Support"
 2023-06-28,US,113.3,new postings,"IT Infrastructure, Operations & Support"
-2023-06-29,US,98.17,total postings,"IT Infrastructure, Operations & Support"
+2023-06-29,US,98.16,total postings,"IT Infrastructure, Operations & Support"
 2023-06-29,US,112.8,new postings,"IT Infrastructure, Operations & Support"
 2023-06-30,US,98.01,total postings,"IT Infrastructure, Operations & Support"
 2023-06-30,US,111.77,new postings,"IT Infrastructure, Operations & Support"
-2023-07-01,US,97.83,total postings,"IT Infrastructure, Operations & Support"
+2023-07-01,US,97.82,total postings,"IT Infrastructure, Operations & Support"
 2023-07-01,US,110.83,new postings,"IT Infrastructure, Operations & Support"
 2023-07-02,US,97.56,total postings,"IT Infrastructure, Operations & Support"
 2023-07-02,US,109.71,new postings,"IT Infrastructure, Operations & Support"
 2023-07-03,US,97.37,total postings,"IT Infrastructure, Operations & Support"
 2023-07-03,US,108.99,new postings,"IT Infrastructure, Operations & Support"
-2023-07-04,US,97.09,total postings,"IT Infrastructure, Operations & Support"
+2023-07-04,US,97.08,total postings,"IT Infrastructure, Operations & Support"
 2023-07-04,US,106.95,new postings,"IT Infrastructure, Operations & Support"
 2023-07-05,US,96.9,total postings,"IT Infrastructure, Operations & Support"
 2023-07-05,US,105.27,new postings,"IT Infrastructure, Operations & Support"
@@ -12395,17 +12423,17 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-07-09,US,104.12,new postings,"IT Infrastructure, Operations & Support"
 2023-07-10,US,96.36,total postings,"IT Infrastructure, Operations & Support"
 2023-07-10,US,103.7,new postings,"IT Infrastructure, Operations & Support"
-2023-07-11,US,96.29,total postings,"IT Infrastructure, Operations & Support"
+2023-07-11,US,96.28,total postings,"IT Infrastructure, Operations & Support"
 2023-07-11,US,104.96,new postings,"IT Infrastructure, Operations & Support"
-2023-07-12,US,96.29,total postings,"IT Infrastructure, Operations & Support"
+2023-07-12,US,96.28,total postings,"IT Infrastructure, Operations & Support"
 2023-07-12,US,107.52,new postings,"IT Infrastructure, Operations & Support"
 2023-07-13,US,96.33,total postings,"IT Infrastructure, Operations & Support"
 2023-07-13,US,108.3,new postings,"IT Infrastructure, Operations & Support"
 2023-07-14,US,96.37,total postings,"IT Infrastructure, Operations & Support"
 2023-07-14,US,108.86,new postings,"IT Infrastructure, Operations & Support"
-2023-07-15,US,96.35,total postings,"IT Infrastructure, Operations & Support"
+2023-07-15,US,96.34,total postings,"IT Infrastructure, Operations & Support"
 2023-07-15,US,109.66,new postings,"IT Infrastructure, Operations & Support"
-2023-07-16,US,96.42,total postings,"IT Infrastructure, Operations & Support"
+2023-07-16,US,96.41,total postings,"IT Infrastructure, Operations & Support"
 2023-07-16,US,110.24,new postings,"IT Infrastructure, Operations & Support"
 2023-07-17,US,96.52,total postings,"IT Infrastructure, Operations & Support"
 2023-07-17,US,110.95,new postings,"IT Infrastructure, Operations & Support"
@@ -12413,15 +12441,15 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-07-18,US,110.91,new postings,"IT Infrastructure, Operations & Support"
 2023-07-19,US,96.59,total postings,"IT Infrastructure, Operations & Support"
 2023-07-19,US,109.58,new postings,"IT Infrastructure, Operations & Support"
-2023-07-20,US,96.49,total postings,"IT Infrastructure, Operations & Support"
+2023-07-20,US,96.48,total postings,"IT Infrastructure, Operations & Support"
 2023-07-20,US,109.32,new postings,"IT Infrastructure, Operations & Support"
-2023-07-21,US,96.41,total postings,"IT Infrastructure, Operations & Support"
+2023-07-21,US,96.4,total postings,"IT Infrastructure, Operations & Support"
 2023-07-21,US,109.07,new postings,"IT Infrastructure, Operations & Support"
-2023-07-22,US,96.02,total postings,"IT Infrastructure, Operations & Support"
+2023-07-22,US,96.01,total postings,"IT Infrastructure, Operations & Support"
 2023-07-22,US,108.15,new postings,"IT Infrastructure, Operations & Support"
 2023-07-23,US,95.88,total postings,"IT Infrastructure, Operations & Support"
 2023-07-23,US,107.7,new postings,"IT Infrastructure, Operations & Support"
-2023-07-24,US,95.75,total postings,"IT Infrastructure, Operations & Support"
+2023-07-24,US,95.74,total postings,"IT Infrastructure, Operations & Support"
 2023-07-24,US,107.19,new postings,"IT Infrastructure, Operations & Support"
 2023-07-25,US,95.62,total postings,"IT Infrastructure, Operations & Support"
 2023-07-25,US,106.13,new postings,"IT Infrastructure, Operations & Support"
@@ -12431,7 +12459,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-07-27,US,104.85,new postings,"IT Infrastructure, Operations & Support"
 2023-07-28,US,95.25,total postings,"IT Infrastructure, Operations & Support"
 2023-07-28,US,104.33,new postings,"IT Infrastructure, Operations & Support"
-2023-07-29,US,95.47,total postings,"IT Infrastructure, Operations & Support"
+2023-07-29,US,95.46,total postings,"IT Infrastructure, Operations & Support"
 2023-07-29,US,104.6,new postings,"IT Infrastructure, Operations & Support"
 2023-07-30,US,95.38,total postings,"IT Infrastructure, Operations & Support"
 2023-07-30,US,104.71,new postings,"IT Infrastructure, Operations & Support"
@@ -13842,32 +13870,32 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-07-02,US,67.61,total postings,"IT Infrastructure, Operations & Support"
 2025-07-02,US,74.93,new postings,"IT Infrastructure, Operations & Support"
 2025-07-03,US,67.33,total postings,"IT Infrastructure, Operations & Support"
-2025-07-03,US,74.88,new postings,"IT Infrastructure, Operations & Support"
+2025-07-03,US,74.87,new postings,"IT Infrastructure, Operations & Support"
 2025-07-04,US,67.05,total postings,"IT Infrastructure, Operations & Support"
-2025-07-04,US,75.39,new postings,"IT Infrastructure, Operations & Support"
+2025-07-04,US,75.37,new postings,"IT Infrastructure, Operations & Support"
 2025-07-05,US,66.79,total postings,"IT Infrastructure, Operations & Support"
-2025-07-05,US,76.63,new postings,"IT Infrastructure, Operations & Support"
+2025-07-05,US,76.62,new postings,"IT Infrastructure, Operations & Support"
 2025-07-06,US,66.53,total postings,"IT Infrastructure, Operations & Support"
-2025-07-06,US,78.29,new postings,"IT Infrastructure, Operations & Support"
+2025-07-06,US,78.27,new postings,"IT Infrastructure, Operations & Support"
 2025-07-07,US,66.48,total postings,"IT Infrastructure, Operations & Support"
-2025-07-07,US,79.78,new postings,"IT Infrastructure, Operations & Support"
+2025-07-07,US,79.76,new postings,"IT Infrastructure, Operations & Support"
 2025-07-08,US,66.48,total postings,"IT Infrastructure, Operations & Support"
-2025-07-08,US,82.15,new postings,"IT Infrastructure, Operations & Support"
+2025-07-08,US,82.13,new postings,"IT Infrastructure, Operations & Support"
 2025-07-09,US,66.46,total postings,"IT Infrastructure, Operations & Support"
-2025-07-09,US,84.39,new postings,"IT Infrastructure, Operations & Support"
-2025-07-10,US,66.46,total postings,"IT Infrastructure, Operations & Support"
-2025-07-10,US,86.24,new postings,"IT Infrastructure, Operations & Support"
+2025-07-09,US,84.37,new postings,"IT Infrastructure, Operations & Support"
+2025-07-10,US,66.45,total postings,"IT Infrastructure, Operations & Support"
+2025-07-10,US,86.23,new postings,"IT Infrastructure, Operations & Support"
 2025-07-11,US,66.41,total postings,"IT Infrastructure, Operations & Support"
-2025-07-11,US,86.99,new postings,"IT Infrastructure, Operations & Support"
+2025-07-11,US,86.97,new postings,"IT Infrastructure, Operations & Support"
 2025-07-12,US,66.37,total postings,"IT Infrastructure, Operations & Support"
-2025-07-12,US,86.91,new postings,"IT Infrastructure, Operations & Support"
-2025-07-13,US,66.32,total postings,"IT Infrastructure, Operations & Support"
+2025-07-12,US,86.9,new postings,"IT Infrastructure, Operations & Support"
+2025-07-13,US,66.31,total postings,"IT Infrastructure, Operations & Support"
 2025-07-13,US,85.52,new postings,"IT Infrastructure, Operations & Support"
 2025-07-14,US,66.22,total postings,"IT Infrastructure, Operations & Support"
 2025-07-14,US,84.17,new postings,"IT Infrastructure, Operations & Support"
 2025-07-15,US,66.27,total postings,"IT Infrastructure, Operations & Support"
 2025-07-15,US,82.18,new postings,"IT Infrastructure, Operations & Support"
-2025-07-16,US,66.4,total postings,"IT Infrastructure, Operations & Support"
+2025-07-16,US,66.39,total postings,"IT Infrastructure, Operations & Support"
 2025-07-16,US,80.08,new postings,"IT Infrastructure, Operations & Support"
 2025-07-17,US,66.54,total postings,"IT Infrastructure, Operations & Support"
 2025-07-17,US,78.48,new postings,"IT Infrastructure, Operations & Support"
@@ -13881,7 +13909,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-07-21,US,77.67,new postings,"IT Infrastructure, Operations & Support"
 2025-07-22,US,67.1,total postings,"IT Infrastructure, Operations & Support"
 2025-07-22,US,78.96,new postings,"IT Infrastructure, Operations & Support"
-2025-07-23,US,67.16,total postings,"IT Infrastructure, Operations & Support"
+2025-07-23,US,67.15,total postings,"IT Infrastructure, Operations & Support"
 2025-07-23,US,79.65,new postings,"IT Infrastructure, Operations & Support"
 2025-07-24,US,67.17,total postings,"IT Infrastructure, Operations & Support"
 2025-07-24,US,80.04,new postings,"IT Infrastructure, Operations & Support"
@@ -14336,40 +14364,40 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-03-06,US,68.34,total postings,"IT Infrastructure, Operations & Support"
 2026-03-06,US,71.71,new postings,"IT Infrastructure, Operations & Support"
 2026-03-07,US,68.55,total postings,"IT Infrastructure, Operations & Support"
-2026-03-07,US,72.41,new postings,"IT Infrastructure, Operations & Support"
+2026-03-07,US,72.4,new postings,"IT Infrastructure, Operations & Support"
 2026-03-08,US,68.81,total postings,"IT Infrastructure, Operations & Support"
-2026-03-08,US,73.35,new postings,"IT Infrastructure, Operations & Support"
+2026-03-08,US,73.34,new postings,"IT Infrastructure, Operations & Support"
 2026-03-09,US,69.25,total postings,"IT Infrastructure, Operations & Support"
-2026-03-09,US,74.75,new postings,"IT Infrastructure, Operations & Support"
-2026-03-10,US,69.83,total postings,"IT Infrastructure, Operations & Support"
-2026-03-10,US,76.19,new postings,"IT Infrastructure, Operations & Support"
+2026-03-09,US,74.74,new postings,"IT Infrastructure, Operations & Support"
+2026-03-10,US,69.82,total postings,"IT Infrastructure, Operations & Support"
+2026-03-10,US,76.18,new postings,"IT Infrastructure, Operations & Support"
 2026-03-11,US,70.07,total postings,"IT Infrastructure, Operations & Support"
-2026-03-11,US,77.0,new postings,"IT Infrastructure, Operations & Support"
-2026-03-12,US,70.28,total postings,"IT Infrastructure, Operations & Support"
-2026-03-12,US,77.47,new postings,"IT Infrastructure, Operations & Support"
+2026-03-11,US,76.98,new postings,"IT Infrastructure, Operations & Support"
+2026-03-12,US,70.27,total postings,"IT Infrastructure, Operations & Support"
+2026-03-12,US,77.45,new postings,"IT Infrastructure, Operations & Support"
 2026-03-13,US,70.56,total postings,"IT Infrastructure, Operations & Support"
-2026-03-13,US,78.3,new postings,"IT Infrastructure, Operations & Support"
+2026-03-13,US,78.28,new postings,"IT Infrastructure, Operations & Support"
 2026-03-14,US,70.85,total postings,"IT Infrastructure, Operations & Support"
-2026-03-14,US,78.53,new postings,"IT Infrastructure, Operations & Support"
+2026-03-14,US,78.52,new postings,"IT Infrastructure, Operations & Support"
 2026-03-15,US,71.04,total postings,"IT Infrastructure, Operations & Support"
-2026-03-15,US,78.3,new postings,"IT Infrastructure, Operations & Support"
+2026-03-15,US,78.29,new postings,"IT Infrastructure, Operations & Support"
 2026-03-16,US,71.18,total postings,"IT Infrastructure, Operations & Support"
-2026-03-16,US,77.96,new postings,"IT Infrastructure, Operations & Support"
+2026-03-16,US,77.95,new postings,"IT Infrastructure, Operations & Support"
 2026-03-17,US,70.8,total postings,"IT Infrastructure, Operations & Support"
 2026-03-17,US,76.42,new postings,"IT Infrastructure, Operations & Support"
-2026-03-18,US,70.92,total postings,"IT Infrastructure, Operations & Support"
-2026-03-18,US,75.73,new postings,"IT Infrastructure, Operations & Support"
-2026-03-19,US,71.02,total postings,"IT Infrastructure, Operations & Support"
+2026-03-18,US,70.91,total postings,"IT Infrastructure, Operations & Support"
+2026-03-18,US,75.72,new postings,"IT Infrastructure, Operations & Support"
+2026-03-19,US,71.01,total postings,"IT Infrastructure, Operations & Support"
 2026-03-19,US,75.47,new postings,"IT Infrastructure, Operations & Support"
 2026-03-20,US,71.07,total postings,"IT Infrastructure, Operations & Support"
 2026-03-20,US,74.71,new postings,"IT Infrastructure, Operations & Support"
 2026-03-21,US,71.08,total postings,"IT Infrastructure, Operations & Support"
 2026-03-21,US,73.79,new postings,"IT Infrastructure, Operations & Support"
-2026-03-22,US,71.18,total postings,"IT Infrastructure, Operations & Support"
+2026-03-22,US,71.17,total postings,"IT Infrastructure, Operations & Support"
 2026-03-22,US,73.09,new postings,"IT Infrastructure, Operations & Support"
 2026-03-23,US,71.22,total postings,"IT Infrastructure, Operations & Support"
 2026-03-23,US,72.5,new postings,"IT Infrastructure, Operations & Support"
-2026-03-24,US,71.44,total postings,"IT Infrastructure, Operations & Support"
+2026-03-24,US,71.43,total postings,"IT Infrastructure, Operations & Support"
 2026-03-24,US,72.77,new postings,"IT Infrastructure, Operations & Support"
 2026-03-25,US,71.4,total postings,"IT Infrastructure, Operations & Support"
 2026-03-25,US,72.79,new postings,"IT Infrastructure, Operations & Support"
@@ -14379,7 +14407,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-03-27,US,72.05,new postings,"IT Infrastructure, Operations & Support"
 2026-03-28,US,71.15,total postings,"IT Infrastructure, Operations & Support"
 2026-03-28,US,71.7,new postings,"IT Infrastructure, Operations & Support"
-2026-03-29,US,71.03,total postings,"IT Infrastructure, Operations & Support"
+2026-03-29,US,71.02,total postings,"IT Infrastructure, Operations & Support"
 2026-03-29,US,71.11,new postings,"IT Infrastructure, Operations & Support"
 2026-03-30,US,70.91,total postings,"IT Infrastructure, Operations & Support"
 2026-03-30,US,70.63,new postings,"IT Infrastructure, Operations & Support"
@@ -14394,25 +14422,25 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-04-04,US,70.72,total postings,"IT Infrastructure, Operations & Support"
 2026-04-04,US,71.25,new postings,"IT Infrastructure, Operations & Support"
 2026-04-05,US,70.61,total postings,"IT Infrastructure, Operations & Support"
-2026-04-05,US,71.38,new postings,"IT Infrastructure, Operations & Support"
+2026-04-05,US,71.37,new postings,"IT Infrastructure, Operations & Support"
 2026-04-06,US,70.41,total postings,"IT Infrastructure, Operations & Support"
-2026-04-06,US,70.99,new postings,"IT Infrastructure, Operations & Support"
+2026-04-06,US,70.98,new postings,"IT Infrastructure, Operations & Support"
 2026-04-07,US,70.18,total postings,"IT Infrastructure, Operations & Support"
-2026-04-07,US,70.45,new postings,"IT Infrastructure, Operations & Support"
+2026-04-07,US,70.44,new postings,"IT Infrastructure, Operations & Support"
 2026-04-08,US,69.9,total postings,"IT Infrastructure, Operations & Support"
-2026-04-08,US,70.47,new postings,"IT Infrastructure, Operations & Support"
-2026-04-09,US,69.8,total postings,"IT Infrastructure, Operations & Support"
-2026-04-09,US,69.67,new postings,"IT Infrastructure, Operations & Support"
+2026-04-08,US,70.46,new postings,"IT Infrastructure, Operations & Support"
+2026-04-09,US,69.79,total postings,"IT Infrastructure, Operations & Support"
+2026-04-09,US,69.65,new postings,"IT Infrastructure, Operations & Support"
 2026-04-10,US,69.55,total postings,"IT Infrastructure, Operations & Support"
-2026-04-10,US,68.34,new postings,"IT Infrastructure, Operations & Support"
+2026-04-10,US,68.32,new postings,"IT Infrastructure, Operations & Support"
 2026-04-11,US,69.46,total postings,"IT Infrastructure, Operations & Support"
-2026-04-11,US,68.55,new postings,"IT Infrastructure, Operations & Support"
+2026-04-11,US,68.53,new postings,"IT Infrastructure, Operations & Support"
 2026-04-12,US,69.41,total postings,"IT Infrastructure, Operations & Support"
-2026-04-12,US,69.05,new postings,"IT Infrastructure, Operations & Support"
+2026-04-12,US,69.04,new postings,"IT Infrastructure, Operations & Support"
 2026-04-13,US,69.29,total postings,"IT Infrastructure, Operations & Support"
-2026-04-13,US,69.45,new postings,"IT Infrastructure, Operations & Support"
+2026-04-13,US,69.44,new postings,"IT Infrastructure, Operations & Support"
 2026-04-14,US,69.23,total postings,"IT Infrastructure, Operations & Support"
-2026-04-14,US,70.22,new postings,"IT Infrastructure, Operations & Support"
+2026-04-14,US,70.21,new postings,"IT Infrastructure, Operations & Support"
 2026-04-15,US,69.39,total postings,"IT Infrastructure, Operations & Support"
 2026-04-15,US,70.77,new postings,"IT Infrastructure, Operations & Support"
 2026-04-16,US,69.29,total postings,"IT Infrastructure, Operations & Support"
@@ -14423,7 +14451,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-04-18,US,71.08,new postings,"IT Infrastructure, Operations & Support"
 2026-04-19,US,69.31,total postings,"IT Infrastructure, Operations & Support"
 2026-04-19,US,70.75,new postings,"IT Infrastructure, Operations & Support"
-2026-04-20,US,69.37,total postings,"IT Infrastructure, Operations & Support"
+2026-04-20,US,69.36,total postings,"IT Infrastructure, Operations & Support"
 2026-04-20,US,70.74,new postings,"IT Infrastructure, Operations & Support"
 2026-04-21,US,69.55,total postings,"IT Infrastructure, Operations & Support"
 2026-04-21,US,70.19,new postings,"IT Infrastructure, Operations & Support"
@@ -14793,38 +14821,52 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-10-20,US,71.05,new postings,"IT Infrastructure, Operations & Support"
 2026-10-21,US,69.32,total postings,"IT Infrastructure, Operations & Support"
 2026-10-21,US,71.75,new postings,"IT Infrastructure, Operations & Support"
-2026-10-22,US,69.59,total postings,"IT Infrastructure, Operations & Support"
+2026-10-22,US,69.58,total postings,"IT Infrastructure, Operations & Support"
 2026-10-22,US,72.88,new postings,"IT Infrastructure, Operations & Support"
 2026-10-23,US,69.74,total postings,"IT Infrastructure, Operations & Support"
-2026-10-23,US,73.5,new postings,"IT Infrastructure, Operations & Support"
+2026-10-23,US,73.49,new postings,"IT Infrastructure, Operations & Support"
 2026-10-24,US,69.81,total postings,"IT Infrastructure, Operations & Support"
-2026-10-24,US,73.74,new postings,"IT Infrastructure, Operations & Support"
+2026-10-24,US,73.73,new postings,"IT Infrastructure, Operations & Support"
 2026-10-25,US,69.89,total postings,"IT Infrastructure, Operations & Support"
-2026-10-25,US,74.34,new postings,"IT Infrastructure, Operations & Support"
+2026-10-25,US,74.33,new postings,"IT Infrastructure, Operations & Support"
 2026-10-26,US,69.84,total postings,"IT Infrastructure, Operations & Support"
-2026-10-26,US,74.86,new postings,"IT Infrastructure, Operations & Support"
+2026-10-26,US,74.85,new postings,"IT Infrastructure, Operations & Support"
 2026-10-27,US,69.91,total postings,"IT Infrastructure, Operations & Support"
-2026-10-27,US,74.98,new postings,"IT Infrastructure, Operations & Support"
-2026-10-28,US,69.84,total postings,"IT Infrastructure, Operations & Support"
-2026-10-28,US,74.91,new postings,"IT Infrastructure, Operations & Support"
+2026-10-27,US,74.97,new postings,"IT Infrastructure, Operations & Support"
+2026-10-28,US,69.83,total postings,"IT Infrastructure, Operations & Support"
+2026-10-28,US,74.89,new postings,"IT Infrastructure, Operations & Support"
 2026-10-29,US,69.47,total postings,"IT Infrastructure, Operations & Support"
-2026-10-29,US,73.95,new postings,"IT Infrastructure, Operations & Support"
+2026-10-29,US,73.93,new postings,"IT Infrastructure, Operations & Support"
 2026-10-30,US,69.33,total postings,"IT Infrastructure, Operations & Support"
-2026-10-30,US,73.33,new postings,"IT Infrastructure, Operations & Support"
-2026-10-31,US,69.21,total postings,"IT Infrastructure, Operations & Support"
-2026-10-31,US,73.22,new postings,"IT Infrastructure, Operations & Support"
+2026-10-30,US,73.31,new postings,"IT Infrastructure, Operations & Support"
+2026-10-31,US,69.2,total postings,"IT Infrastructure, Operations & Support"
+2026-10-31,US,73.21,new postings,"IT Infrastructure, Operations & Support"
 2026-11-01,US,69.05,total postings,"IT Infrastructure, Operations & Support"
-2026-11-01,US,72.8,new postings,"IT Infrastructure, Operations & Support"
-2026-11-02,US,68.98,total postings,"IT Infrastructure, Operations & Support"
-2026-11-02,US,72.4,new postings,"IT Infrastructure, Operations & Support"
-2026-11-03,US,68.96,total postings,"IT Infrastructure, Operations & Support"
+2026-11-01,US,72.79,new postings,"IT Infrastructure, Operations & Support"
+2026-11-02,US,68.97,total postings,"IT Infrastructure, Operations & Support"
+2026-11-02,US,72.39,new postings,"IT Infrastructure, Operations & Support"
+2026-11-03,US,68.95,total postings,"IT Infrastructure, Operations & Support"
 2026-11-03,US,72.16,new postings,"IT Infrastructure, Operations & Support"
 2026-11-04,US,69.04,total postings,"IT Infrastructure, Operations & Support"
 2026-11-04,US,71.95,new postings,"IT Infrastructure, Operations & Support"
-2026-11-05,US,69.14,total postings,"IT Infrastructure, Operations & Support"
+2026-11-05,US,69.13,total postings,"IT Infrastructure, Operations & Support"
 2026-11-05,US,71.99,new postings,"IT Infrastructure, Operations & Support"
 2026-11-06,US,69.4,total postings,"IT Infrastructure, Operations & Support"
 2026-11-06,US,72.39,new postings,"IT Infrastructure, Operations & Support"
+2026-11-07,US,69.61,total postings,"IT Infrastructure, Operations & Support"
+2026-11-07,US,72.2,new postings,"IT Infrastructure, Operations & Support"
+2026-11-08,US,69.82,total postings,"IT Infrastructure, Operations & Support"
+2026-11-08,US,72.26,new postings,"IT Infrastructure, Operations & Support"
+2026-11-09,US,70.0,total postings,"IT Infrastructure, Operations & Support"
+2026-11-09,US,72.09,new postings,"IT Infrastructure, Operations & Support"
+2026-11-10,US,70.15,total postings,"IT Infrastructure, Operations & Support"
+2026-11-10,US,71.85,new postings,"IT Infrastructure, Operations & Support"
+2026-11-11,US,70.26,total postings,"IT Infrastructure, Operations & Support"
+2026-11-11,US,71.76,new postings,"IT Infrastructure, Operations & Support"
+2026-11-12,US,70.39,total postings,"IT Infrastructure, Operations & Support"
+2026-11-12,US,71.52,new postings,"IT Infrastructure, Operations & Support"
+2026-11-13,US,70.4,total postings,"IT Infrastructure, Operations & Support"
+2026-11-13,US,71.37,new postings,"IT Infrastructure, Operations & Support"
 2020-02-01,US,100.0,total postings,IT Systems & Solutions
 2020-02-01,US,100.0,new postings,IT Systems & Solutions
 2020-02-02,US,99.61,total postings,IT Systems & Solutions
@@ -15413,17 +15455,17 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2020-11-19,US,94.54,new postings,IT Systems & Solutions
 2020-11-20,US,76.94,total postings,IT Systems & Solutions
 2020-11-20,US,95.49,new postings,IT Systems & Solutions
-2020-11-21,US,77.54,total postings,IT Systems & Solutions
+2020-11-21,US,77.53,total postings,IT Systems & Solutions
 2020-11-21,US,96.23,new postings,IT Systems & Solutions
 2020-11-22,US,77.71,total postings,IT Systems & Solutions
 2020-11-22,US,95.82,new postings,IT Systems & Solutions
 2020-11-23,US,77.95,total postings,IT Systems & Solutions
 2020-11-23,US,96.45,new postings,IT Systems & Solutions
-2020-11-24,US,78.23,total postings,IT Systems & Solutions
+2020-11-24,US,78.22,total postings,IT Systems & Solutions
 2020-11-24,US,96.27,new postings,IT Systems & Solutions
 2020-11-25,US,78.39,total postings,IT Systems & Solutions
 2020-11-25,US,94.89,new postings,IT Systems & Solutions
-2020-11-26,US,78.53,total postings,IT Systems & Solutions
+2020-11-26,US,78.52,total postings,IT Systems & Solutions
 2020-11-26,US,94.64,new postings,IT Systems & Solutions
 2020-11-27,US,78.76,total postings,IT Systems & Solutions
 2020-11-27,US,94.46,new postings,IT Systems & Solutions
@@ -15431,7 +15473,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2020-11-28,US,95.39,new postings,IT Systems & Solutions
 2020-11-29,US,78.99,total postings,IT Systems & Solutions
 2020-11-29,US,97.26,new postings,IT Systems & Solutions
-2020-11-30,US,78.98,total postings,IT Systems & Solutions
+2020-11-30,US,78.97,total postings,IT Systems & Solutions
 2020-11-30,US,96.63,new postings,IT Systems & Solutions
 2020-12-01,US,78.99,total postings,IT Systems & Solutions
 2020-12-01,US,96.4,new postings,IT Systems & Solutions
@@ -15445,13 +15487,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2020-12-05,US,92.2,new postings,IT Systems & Solutions
 2020-12-06,US,78.95,total postings,IT Systems & Solutions
 2020-12-06,US,90.37,new postings,IT Systems & Solutions
-2020-12-07,US,79.04,total postings,IT Systems & Solutions
+2020-12-07,US,79.03,total postings,IT Systems & Solutions
 2020-12-07,US,89.62,new postings,IT Systems & Solutions
-2020-12-08,US,79.1,total postings,IT Systems & Solutions
+2020-12-08,US,79.09,total postings,IT Systems & Solutions
 2020-12-08,US,89.33,new postings,IT Systems & Solutions
 2020-12-09,US,79.24,total postings,IT Systems & Solutions
 2020-12-09,US,89.48,new postings,IT Systems & Solutions
-2020-12-10,US,79.16,total postings,IT Systems & Solutions
+2020-12-10,US,79.15,total postings,IT Systems & Solutions
 2020-12-10,US,89.98,new postings,IT Systems & Solutions
 2020-12-11,US,79.15,total postings,IT Systems & Solutions
 2020-12-11,US,90.09,new postings,IT Systems & Solutions
@@ -15636,27 +15678,27 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-03-11,US,97.58,total postings,IT Systems & Solutions
 2021-03-11,US,110.02,new postings,IT Systems & Solutions
 2021-03-12,US,97.96,total postings,IT Systems & Solutions
-2021-03-12,US,111.03,new postings,IT Systems & Solutions
+2021-03-12,US,111.02,new postings,IT Systems & Solutions
 2021-03-13,US,98.57,total postings,IT Systems & Solutions
-2021-03-13,US,112.33,new postings,IT Systems & Solutions
+2021-03-13,US,112.32,new postings,IT Systems & Solutions
 2021-03-14,US,98.88,total postings,IT Systems & Solutions
-2021-03-14,US,113.05,new postings,IT Systems & Solutions
+2021-03-14,US,113.04,new postings,IT Systems & Solutions
 2021-03-15,US,99.22,total postings,IT Systems & Solutions
-2021-03-15,US,114.3,new postings,IT Systems & Solutions
+2021-03-15,US,114.29,new postings,IT Systems & Solutions
 2021-03-16,US,99.56,total postings,IT Systems & Solutions
-2021-03-16,US,115.85,new postings,IT Systems & Solutions
-2021-03-17,US,99.86,total postings,IT Systems & Solutions
-2021-03-17,US,116.45,new postings,IT Systems & Solutions
+2021-03-16,US,115.84,new postings,IT Systems & Solutions
+2021-03-17,US,99.85,total postings,IT Systems & Solutions
+2021-03-17,US,116.44,new postings,IT Systems & Solutions
 2021-03-18,US,100.21,total postings,IT Systems & Solutions
-2021-03-18,US,117.2,new postings,IT Systems & Solutions
+2021-03-18,US,117.19,new postings,IT Systems & Solutions
 2021-03-19,US,100.68,total postings,IT Systems & Solutions
-2021-03-19,US,117.7,new postings,IT Systems & Solutions
+2021-03-19,US,117.68,new postings,IT Systems & Solutions
 2021-03-20,US,101.12,total postings,IT Systems & Solutions
 2021-03-20,US,118.05,new postings,IT Systems & Solutions
 2021-03-21,US,101.62,total postings,IT Systems & Solutions
-2021-03-21,US,118.61,new postings,IT Systems & Solutions
-2021-03-22,US,102.07,total postings,IT Systems & Solutions
-2021-03-22,US,118.61,new postings,IT Systems & Solutions
+2021-03-21,US,118.6,new postings,IT Systems & Solutions
+2021-03-22,US,102.06,total postings,IT Systems & Solutions
+2021-03-22,US,118.6,new postings,IT Systems & Solutions
 2021-03-23,US,102.49,total postings,IT Systems & Solutions
 2021-03-23,US,118.91,new postings,IT Systems & Solutions
 2021-03-24,US,102.88,total postings,IT Systems & Solutions
@@ -15665,7 +15707,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-03-25,US,120.73,new postings,IT Systems & Solutions
 2021-03-26,US,103.22,total postings,IT Systems & Solutions
 2021-03-26,US,121.3,new postings,IT Systems & Solutions
-2021-03-27,US,103.45,total postings,IT Systems & Solutions
+2021-03-27,US,103.44,total postings,IT Systems & Solutions
 2021-03-27,US,122.27,new postings,IT Systems & Solutions
 2021-03-28,US,103.61,total postings,IT Systems & Solutions
 2021-03-28,US,122.84,new postings,IT Systems & Solutions
@@ -15673,7 +15715,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-03-29,US,123.78,new postings,IT Systems & Solutions
 2021-03-30,US,103.99,total postings,IT Systems & Solutions
 2021-03-30,US,123.87,new postings,IT Systems & Solutions
-2021-03-31,US,104.11,total postings,IT Systems & Solutions
+2021-03-31,US,104.1,total postings,IT Systems & Solutions
 2021-03-31,US,123.29,new postings,IT Systems & Solutions
 2021-04-01,US,104.43,total postings,IT Systems & Solutions
 2021-04-01,US,122.64,new postings,IT Systems & Solutions
@@ -15689,7 +15731,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-04-06,US,119.16,new postings,IT Systems & Solutions
 2021-04-07,US,105.65,total postings,IT Systems & Solutions
 2021-04-07,US,118.78,new postings,IT Systems & Solutions
-2021-04-08,US,105.69,total postings,IT Systems & Solutions
+2021-04-08,US,105.68,total postings,IT Systems & Solutions
 2021-04-08,US,118.52,new postings,IT Systems & Solutions
 2021-04-09,US,105.81,total postings,IT Systems & Solutions
 2021-04-09,US,118.14,new postings,IT Systems & Solutions
@@ -15711,7 +15753,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-04-17,US,123.38,new postings,IT Systems & Solutions
 2021-04-18,US,105.14,total postings,IT Systems & Solutions
 2021-04-18,US,123.62,new postings,IT Systems & Solutions
-2021-04-19,US,105.46,total postings,IT Systems & Solutions
+2021-04-19,US,105.45,total postings,IT Systems & Solutions
 2021-04-19,US,123.57,new postings,IT Systems & Solutions
 2021-04-20,US,105.77,total postings,IT Systems & Solutions
 2021-04-20,US,123.39,new postings,IT Systems & Solutions
@@ -15725,15 +15767,15 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-04-24,US,122.32,new postings,IT Systems & Solutions
 2021-04-25,US,107.01,total postings,IT Systems & Solutions
 2021-04-25,US,122.66,new postings,IT Systems & Solutions
-2021-04-26,US,107.28,total postings,IT Systems & Solutions
+2021-04-26,US,107.27,total postings,IT Systems & Solutions
 2021-04-26,US,122.87,new postings,IT Systems & Solutions
-2021-04-27,US,107.54,total postings,IT Systems & Solutions
+2021-04-27,US,107.53,total postings,IT Systems & Solutions
 2021-04-27,US,123.07,new postings,IT Systems & Solutions
-2021-04-28,US,107.88,total postings,IT Systems & Solutions
+2021-04-28,US,107.87,total postings,IT Systems & Solutions
 2021-04-28,US,123.88,new postings,IT Systems & Solutions
 2021-04-29,US,108.17,total postings,IT Systems & Solutions
 2021-04-29,US,125.16,new postings,IT Systems & Solutions
-2021-04-30,US,108.42,total postings,IT Systems & Solutions
+2021-04-30,US,108.41,total postings,IT Systems & Solutions
 2021-04-30,US,126.56,new postings,IT Systems & Solutions
 2021-05-01,US,108.54,total postings,IT Systems & Solutions
 2021-05-01,US,128.0,new postings,IT Systems & Solutions
@@ -15919,13 +15961,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-07-30,US,145.37,new postings,IT Systems & Solutions
 2021-07-31,US,130.88,total postings,IT Systems & Solutions
 2021-07-31,US,144.76,new postings,IT Systems & Solutions
-2021-08-01,US,130.96,total postings,IT Systems & Solutions
+2021-08-01,US,130.95,total postings,IT Systems & Solutions
 2021-08-01,US,143.59,new postings,IT Systems & Solutions
 2021-08-02,US,130.95,total postings,IT Systems & Solutions
 2021-08-02,US,141.79,new postings,IT Systems & Solutions
 2021-08-03,US,130.94,total postings,IT Systems & Solutions
 2021-08-03,US,141.8,new postings,IT Systems & Solutions
-2021-08-04,US,130.98,total postings,IT Systems & Solutions
+2021-08-04,US,130.97,total postings,IT Systems & Solutions
 2021-08-04,US,143.08,new postings,IT Systems & Solutions
 2021-08-05,US,130.98,total postings,IT Systems & Solutions
 2021-08-05,US,144.6,new postings,IT Systems & Solutions
@@ -15947,7 +15989,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-08-13,US,152.24,new postings,IT Systems & Solutions
 2021-08-14,US,133.78,total postings,IT Systems & Solutions
 2021-08-14,US,151.47,new postings,IT Systems & Solutions
-2021-08-15,US,134.19,total postings,IT Systems & Solutions
+2021-08-15,US,134.18,total postings,IT Systems & Solutions
 2021-08-15,US,149.31,new postings,IT Systems & Solutions
 2021-08-16,US,134.56,total postings,IT Systems & Solutions
 2021-08-16,US,147.55,new postings,IT Systems & Solutions
@@ -15965,11 +16007,11 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-08-22,US,179.34,new postings,IT Systems & Solutions
 2021-08-23,US,141.67,total postings,IT Systems & Solutions
 2021-08-23,US,197.19,new postings,IT Systems & Solutions
-2021-08-24,US,143.39,total postings,IT Systems & Solutions
+2021-08-24,US,143.38,total postings,IT Systems & Solutions
 2021-08-24,US,214.25,new postings,IT Systems & Solutions
 2021-08-25,US,145.43,total postings,IT Systems & Solutions
 2021-08-25,US,232.02,new postings,IT Systems & Solutions
-2021-08-26,US,147.27,total postings,IT Systems & Solutions
+2021-08-26,US,147.26,total postings,IT Systems & Solutions
 2021-08-26,US,249.77,new postings,IT Systems & Solutions
 2021-08-27,US,149.08,total postings,IT Systems & Solutions
 2021-08-27,US,251.48,new postings,IT Systems & Solutions
@@ -16079,7 +16121,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-10-18,US,169.87,new postings,IT Systems & Solutions
 2021-10-19,US,158.85,total postings,IT Systems & Solutions
 2021-10-19,US,170.6,new postings,IT Systems & Solutions
-2021-10-20,US,159.28,total postings,IT Systems & Solutions
+2021-10-20,US,159.27,total postings,IT Systems & Solutions
 2021-10-20,US,170.25,new postings,IT Systems & Solutions
 2021-10-21,US,159.64,total postings,IT Systems & Solutions
 2021-10-21,US,167.93,new postings,IT Systems & Solutions
@@ -16089,7 +16131,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-10-23,US,165.56,new postings,IT Systems & Solutions
 2021-10-24,US,160.96,total postings,IT Systems & Solutions
 2021-10-24,US,165.0,new postings,IT Systems & Solutions
-2021-10-25,US,161.25,total postings,IT Systems & Solutions
+2021-10-25,US,161.24,total postings,IT Systems & Solutions
 2021-10-25,US,164.78,new postings,IT Systems & Solutions
 2021-10-26,US,161.35,total postings,IT Systems & Solutions
 2021-10-26,US,163.59,new postings,IT Systems & Solutions
@@ -16250,25 +16292,25 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-01-12,US,175.59,total postings,IT Systems & Solutions
 2022-01-12,US,164.24,new postings,IT Systems & Solutions
 2022-01-13,US,175.62,total postings,IT Systems & Solutions
-2022-01-13,US,167.3,new postings,IT Systems & Solutions
-2022-01-14,US,175.34,total postings,IT Systems & Solutions
-2022-01-14,US,169.59,new postings,IT Systems & Solutions
+2022-01-13,US,167.29,new postings,IT Systems & Solutions
+2022-01-14,US,175.33,total postings,IT Systems & Solutions
+2022-01-14,US,169.58,new postings,IT Systems & Solutions
 2022-01-15,US,175.84,total postings,IT Systems & Solutions
-2022-01-15,US,170.93,new postings,IT Systems & Solutions
+2022-01-15,US,170.92,new postings,IT Systems & Solutions
 2022-01-16,US,176.09,total postings,IT Systems & Solutions
-2022-01-16,US,173.8,new postings,IT Systems & Solutions
+2022-01-16,US,173.79,new postings,IT Systems & Solutions
 2022-01-17,US,176.3,total postings,IT Systems & Solutions
-2022-01-17,US,176.37,new postings,IT Systems & Solutions
+2022-01-17,US,176.35,new postings,IT Systems & Solutions
 2022-01-18,US,176.66,total postings,IT Systems & Solutions
-2022-01-18,US,177.81,new postings,IT Systems & Solutions
+2022-01-18,US,177.8,new postings,IT Systems & Solutions
 2022-01-19,US,176.85,total postings,IT Systems & Solutions
-2022-01-19,US,178.23,new postings,IT Systems & Solutions
+2022-01-19,US,178.22,new postings,IT Systems & Solutions
 2022-01-20,US,177.24,total postings,IT Systems & Solutions
-2022-01-20,US,177.82,new postings,IT Systems & Solutions
+2022-01-20,US,177.81,new postings,IT Systems & Solutions
 2022-01-21,US,177.97,total postings,IT Systems & Solutions
-2022-01-21,US,177.04,new postings,IT Systems & Solutions
+2022-01-21,US,177.03,new postings,IT Systems & Solutions
 2022-01-22,US,177.96,total postings,IT Systems & Solutions
-2022-01-22,US,175.65,new postings,IT Systems & Solutions
+2022-01-22,US,175.64,new postings,IT Systems & Solutions
 2022-01-23,US,178.19,total postings,IT Systems & Solutions
 2022-01-23,US,174.19,new postings,IT Systems & Solutions
 2022-01-24,US,178.61,total postings,IT Systems & Solutions
@@ -16371,7 +16413,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-03-13,US,191.94,new postings,IT Systems & Solutions
 2022-03-14,US,192.88,total postings,IT Systems & Solutions
 2022-03-14,US,193.71,new postings,IT Systems & Solutions
-2022-03-15,US,192.09,total postings,IT Systems & Solutions
+2022-03-15,US,192.08,total postings,IT Systems & Solutions
 2022-03-15,US,194.71,new postings,IT Systems & Solutions
 2022-03-16,US,191.99,total postings,IT Systems & Solutions
 2022-03-16,US,194.55,new postings,IT Systems & Solutions
@@ -16387,11 +16429,11 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-03-21,US,190.79,new postings,IT Systems & Solutions
 2022-03-22,US,193.48,total postings,IT Systems & Solutions
 2022-03-22,US,189.47,new postings,IT Systems & Solutions
-2022-03-23,US,193.88,total postings,IT Systems & Solutions
+2022-03-23,US,193.87,total postings,IT Systems & Solutions
 2022-03-23,US,188.42,new postings,IT Systems & Solutions
 2022-03-24,US,194.2,total postings,IT Systems & Solutions
 2022-03-24,US,187.91,new postings,IT Systems & Solutions
-2022-03-25,US,194.49,total postings,IT Systems & Solutions
+2022-03-25,US,194.48,total postings,IT Systems & Solutions
 2022-03-25,US,188.48,new postings,IT Systems & Solutions
 2022-03-26,US,194.77,total postings,IT Systems & Solutions
 2022-03-26,US,190.43,new postings,IT Systems & Solutions
@@ -16409,13 +16451,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-04-01,US,198.85,new postings,IT Systems & Solutions
 2022-04-02,US,194.91,total postings,IT Systems & Solutions
 2022-04-02,US,197.19,new postings,IT Systems & Solutions
-2022-04-03,US,194.89,total postings,IT Systems & Solutions
+2022-04-03,US,194.88,total postings,IT Systems & Solutions
 2022-04-03,US,196.2,new postings,IT Systems & Solutions
 2022-04-04,US,195.13,total postings,IT Systems & Solutions
 2022-04-04,US,195.33,new postings,IT Systems & Solutions
 2022-04-05,US,196.24,total postings,IT Systems & Solutions
 2022-04-05,US,197.28,new postings,IT Systems & Solutions
-2022-04-06,US,196.32,total postings,IT Systems & Solutions
+2022-04-06,US,196.31,total postings,IT Systems & Solutions
 2022-04-06,US,197.42,new postings,IT Systems & Solutions
 2022-04-07,US,196.43,total postings,IT Systems & Solutions
 2022-04-07,US,197.81,new postings,IT Systems & Solutions
@@ -16427,7 +16469,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-04-10,US,194.42,new postings,IT Systems & Solutions
 2022-04-11,US,195.18,total postings,IT Systems & Solutions
 2022-04-11,US,192.74,new postings,IT Systems & Solutions
-2022-04-12,US,194.99,total postings,IT Systems & Solutions
+2022-04-12,US,194.98,total postings,IT Systems & Solutions
 2022-04-12,US,190.77,new postings,IT Systems & Solutions
 2022-04-13,US,194.77,total postings,IT Systems & Solutions
 2022-04-13,US,189.07,new postings,IT Systems & Solutions
@@ -16435,7 +16477,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-04-14,US,187.09,new postings,IT Systems & Solutions
 2022-04-15,US,194.23,total postings,IT Systems & Solutions
 2022-04-15,US,184.91,new postings,IT Systems & Solutions
-2022-04-16,US,194.74,total postings,IT Systems & Solutions
+2022-04-16,US,194.73,total postings,IT Systems & Solutions
 2022-04-16,US,184.66,new postings,IT Systems & Solutions
 2022-04-17,US,194.97,total postings,IT Systems & Solutions
 2022-04-17,US,183.92,new postings,IT Systems & Solutions
@@ -16445,7 +16487,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-04-19,US,181.69,new postings,IT Systems & Solutions
 2022-04-20,US,195.69,total postings,IT Systems & Solutions
 2022-04-20,US,179.66,new postings,IT Systems & Solutions
-2022-04-21,US,195.83,total postings,IT Systems & Solutions
+2022-04-21,US,195.82,total postings,IT Systems & Solutions
 2022-04-21,US,177.92,new postings,IT Systems & Solutions
 2022-04-22,US,196.28,total postings,IT Systems & Solutions
 2022-04-22,US,176.59,new postings,IT Systems & Solutions
@@ -16467,7 +16509,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-04-30,US,184.06,new postings,IT Systems & Solutions
 2022-05-01,US,195.36,total postings,IT Systems & Solutions
 2022-05-01,US,188.09,new postings,IT Systems & Solutions
-2022-05-02,US,194.93,total postings,IT Systems & Solutions
+2022-05-02,US,194.92,total postings,IT Systems & Solutions
 2022-05-02,US,190.29,new postings,IT Systems & Solutions
 2022-05-03,US,194.96,total postings,IT Systems & Solutions
 2022-05-03,US,193.18,new postings,IT Systems & Solutions
@@ -16499,9 +16541,9 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-05-16,US,188.18,new postings,IT Systems & Solutions
 2022-05-17,US,194.89,total postings,IT Systems & Solutions
 2022-05-17,US,185.19,new postings,IT Systems & Solutions
-2022-05-18,US,194.84,total postings,IT Systems & Solutions
+2022-05-18,US,194.83,total postings,IT Systems & Solutions
 2022-05-18,US,184.93,new postings,IT Systems & Solutions
-2022-05-19,US,194.77,total postings,IT Systems & Solutions
+2022-05-19,US,194.76,total postings,IT Systems & Solutions
 2022-05-19,US,183.03,new postings,IT Systems & Solutions
 2022-05-20,US,194.66,total postings,IT Systems & Solutions
 2022-05-20,US,182.77,new postings,IT Systems & Solutions
@@ -16553,11 +16595,11 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-06-12,US,183.24,new postings,IT Systems & Solutions
 2022-06-13,US,188.45,total postings,IT Systems & Solutions
 2022-06-13,US,186.96,new postings,IT Systems & Solutions
-2022-06-14,US,188.24,total postings,IT Systems & Solutions
+2022-06-14,US,188.23,total postings,IT Systems & Solutions
 2022-06-14,US,187.88,new postings,IT Systems & Solutions
 2022-06-15,US,187.93,total postings,IT Systems & Solutions
 2022-06-15,US,184.79,new postings,IT Systems & Solutions
-2022-06-16,US,187.51,total postings,IT Systems & Solutions
+2022-06-16,US,187.5,total postings,IT Systems & Solutions
 2022-06-16,US,180.7,new postings,IT Systems & Solutions
 2022-06-17,US,187.11,total postings,IT Systems & Solutions
 2022-06-17,US,178.85,new postings,IT Systems & Solutions
@@ -16589,11 +16631,11 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-06-30,US,162.81,new postings,IT Systems & Solutions
 2022-07-01,US,179.01,total postings,IT Systems & Solutions
 2022-07-01,US,166.07,new postings,IT Systems & Solutions
-2022-07-02,US,178.76,total postings,IT Systems & Solutions
+2022-07-02,US,178.75,total postings,IT Systems & Solutions
 2022-07-02,US,167.91,new postings,IT Systems & Solutions
 2022-07-03,US,178.85,total postings,IT Systems & Solutions
 2022-07-03,US,169.0,new postings,IT Systems & Solutions
-2022-07-04,US,178.85,total postings,IT Systems & Solutions
+2022-07-04,US,178.84,total postings,IT Systems & Solutions
 2022-07-04,US,171.16,new postings,IT Systems & Solutions
 2022-07-05,US,179.45,total postings,IT Systems & Solutions
 2022-07-05,US,171.87,new postings,IT Systems & Solutions
@@ -16635,7 +16677,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-07-23,US,172.0,new postings,IT Systems & Solutions
 2022-07-24,US,171.06,total postings,IT Systems & Solutions
 2022-07-24,US,175.22,new postings,IT Systems & Solutions
-2022-07-25,US,171.03,total postings,IT Systems & Solutions
+2022-07-25,US,171.02,total postings,IT Systems & Solutions
 2022-07-25,US,176.23,new postings,IT Systems & Solutions
 2022-07-26,US,171.3,total postings,IT Systems & Solutions
 2022-07-26,US,179.76,new postings,IT Systems & Solutions
@@ -16645,39 +16687,39 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-07-28,US,176.76,new postings,IT Systems & Solutions
 2022-07-29,US,170.32,total postings,IT Systems & Solutions
 2022-07-29,US,171.55,new postings,IT Systems & Solutions
-2022-07-30,US,170.3,total postings,IT Systems & Solutions
+2022-07-30,US,170.29,total postings,IT Systems & Solutions
 2022-07-30,US,168.49,new postings,IT Systems & Solutions
 2022-07-31,US,169.69,total postings,IT Systems & Solutions
 2022-07-31,US,164.28,new postings,IT Systems & Solutions
-2022-08-01,US,169.45,total postings,IT Systems & Solutions
+2022-08-01,US,169.44,total postings,IT Systems & Solutions
 2022-08-01,US,162.92,new postings,IT Systems & Solutions
 2022-08-02,US,168.74,total postings,IT Systems & Solutions
 2022-08-02,US,159.55,new postings,IT Systems & Solutions
 2022-08-03,US,168.18,total postings,IT Systems & Solutions
 2022-08-03,US,158.83,new postings,IT Systems & Solutions
 2022-08-04,US,167.36,total postings,IT Systems & Solutions
-2022-08-04,US,157.65,new postings,IT Systems & Solutions
+2022-08-04,US,157.64,new postings,IT Systems & Solutions
 2022-08-05,US,166.6,total postings,IT Systems & Solutions
-2022-08-05,US,157.77,new postings,IT Systems & Solutions
-2022-08-06,US,166.0,total postings,IT Systems & Solutions
-2022-08-06,US,157.05,new postings,IT Systems & Solutions
+2022-08-05,US,157.76,new postings,IT Systems & Solutions
+2022-08-06,US,165.99,total postings,IT Systems & Solutions
+2022-08-06,US,157.04,new postings,IT Systems & Solutions
 2022-08-07,US,165.6,total postings,IT Systems & Solutions
-2022-08-07,US,157.19,new postings,IT Systems & Solutions
+2022-08-07,US,157.18,new postings,IT Systems & Solutions
 2022-08-08,US,165.29,total postings,IT Systems & Solutions
-2022-08-08,US,157.4,new postings,IT Systems & Solutions
+2022-08-08,US,157.38,new postings,IT Systems & Solutions
 2022-08-09,US,165.28,total postings,IT Systems & Solutions
-2022-08-09,US,158.19,new postings,IT Systems & Solutions
+2022-08-09,US,158.17,new postings,IT Systems & Solutions
 2022-08-10,US,164.69,total postings,IT Systems & Solutions
-2022-08-10,US,158.34,new postings,IT Systems & Solutions
-2022-08-11,US,164.33,total postings,IT Systems & Solutions
-2022-08-11,US,158.82,new postings,IT Systems & Solutions
+2022-08-10,US,158.33,new postings,IT Systems & Solutions
+2022-08-11,US,164.32,total postings,IT Systems & Solutions
+2022-08-11,US,158.81,new postings,IT Systems & Solutions
 2022-08-12,US,163.93,total postings,IT Systems & Solutions
-2022-08-12,US,158.8,new postings,IT Systems & Solutions
+2022-08-12,US,158.79,new postings,IT Systems & Solutions
 2022-08-13,US,163.24,total postings,IT Systems & Solutions
-2022-08-13,US,158.25,new postings,IT Systems & Solutions
-2022-08-14,US,162.67,total postings,IT Systems & Solutions
-2022-08-14,US,157.36,new postings,IT Systems & Solutions
-2022-08-15,US,162.17,total postings,IT Systems & Solutions
+2022-08-13,US,158.24,new postings,IT Systems & Solutions
+2022-08-14,US,162.66,total postings,IT Systems & Solutions
+2022-08-14,US,157.35,new postings,IT Systems & Solutions
+2022-08-15,US,162.16,total postings,IT Systems & Solutions
 2022-08-15,US,156.45,new postings,IT Systems & Solutions
 2022-08-16,US,161.5,total postings,IT Systems & Solutions
 2022-08-16,US,153.91,new postings,IT Systems & Solutions
@@ -16699,21 +16741,21 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-08-24,US,155.54,new postings,IT Systems & Solutions
 2022-08-25,US,159.17,total postings,IT Systems & Solutions
 2022-08-25,US,157.08,new postings,IT Systems & Solutions
-2022-08-26,US,159.08,total postings,IT Systems & Solutions
+2022-08-26,US,159.07,total postings,IT Systems & Solutions
 2022-08-26,US,156.3,new postings,IT Systems & Solutions
 2022-08-27,US,159.04,total postings,IT Systems & Solutions
 2022-08-27,US,155.56,new postings,IT Systems & Solutions
-2022-08-28,US,158.91,total postings,IT Systems & Solutions
+2022-08-28,US,158.9,total postings,IT Systems & Solutions
 2022-08-28,US,154.6,new postings,IT Systems & Solutions
 2022-08-29,US,158.66,total postings,IT Systems & Solutions
 2022-08-29,US,153.8,new postings,IT Systems & Solutions
-2022-08-30,US,158.55,total postings,IT Systems & Solutions
+2022-08-30,US,158.54,total postings,IT Systems & Solutions
 2022-08-30,US,152.65,new postings,IT Systems & Solutions
-2022-08-31,US,158.3,total postings,IT Systems & Solutions
+2022-08-31,US,158.29,total postings,IT Systems & Solutions
 2022-08-31,US,151.95,new postings,IT Systems & Solutions
 2022-09-01,US,158.06,total postings,IT Systems & Solutions
 2022-09-01,US,151.83,new postings,IT Systems & Solutions
-2022-09-02,US,157.89,total postings,IT Systems & Solutions
+2022-09-02,US,157.88,total postings,IT Systems & Solutions
 2022-09-02,US,153.16,new postings,IT Systems & Solutions
 2022-09-03,US,157.86,total postings,IT Systems & Solutions
 2022-09-03,US,156.49,new postings,IT Systems & Solutions
@@ -16725,7 +16767,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-09-06,US,162.6,new postings,IT Systems & Solutions
 2022-09-07,US,157.55,total postings,IT Systems & Solutions
 2022-09-07,US,161.67,new postings,IT Systems & Solutions
-2022-09-08,US,157.19,total postings,IT Systems & Solutions
+2022-09-08,US,157.18,total postings,IT Systems & Solutions
 2022-09-08,US,160.27,new postings,IT Systems & Solutions
 2022-09-09,US,156.83,total postings,IT Systems & Solutions
 2022-09-09,US,158.22,new postings,IT Systems & Solutions
@@ -16733,21 +16775,21 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-09-10,US,154.9,new postings,IT Systems & Solutions
 2022-09-11,US,155.9,total postings,IT Systems & Solutions
 2022-09-11,US,150.76,new postings,IT Systems & Solutions
-2022-09-12,US,155.6,total postings,IT Systems & Solutions
+2022-09-12,US,155.59,total postings,IT Systems & Solutions
 2022-09-12,US,146.69,new postings,IT Systems & Solutions
 2022-09-13,US,155.35,total postings,IT Systems & Solutions
 2022-09-13,US,147.94,new postings,IT Systems & Solutions
-2022-09-14,US,155.02,total postings,IT Systems & Solutions
+2022-09-14,US,155.01,total postings,IT Systems & Solutions
 2022-09-14,US,149.58,new postings,IT Systems & Solutions
 2022-09-15,US,154.78,total postings,IT Systems & Solutions
 2022-09-15,US,151.83,new postings,IT Systems & Solutions
-2022-09-16,US,154.63,total postings,IT Systems & Solutions
+2022-09-16,US,154.62,total postings,IT Systems & Solutions
 2022-09-16,US,155.09,new postings,IT Systems & Solutions
 2022-09-17,US,154.27,total postings,IT Systems & Solutions
 2022-09-17,US,156.71,new postings,IT Systems & Solutions
 2022-09-18,US,154.09,total postings,IT Systems & Solutions
 2022-09-18,US,159.61,new postings,IT Systems & Solutions
-2022-09-19,US,153.83,total postings,IT Systems & Solutions
+2022-09-19,US,153.82,total postings,IT Systems & Solutions
 2022-09-19,US,163.42,new postings,IT Systems & Solutions
 2022-09-20,US,153.52,total postings,IT Systems & Solutions
 2022-09-20,US,164.16,new postings,IT Systems & Solutions
@@ -16763,13 +16805,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-09-25,US,158.59,new postings,IT Systems & Solutions
 2022-09-26,US,152.44,total postings,IT Systems & Solutions
 2022-09-26,US,157.01,new postings,IT Systems & Solutions
-2022-09-27,US,152.42,total postings,IT Systems & Solutions
+2022-09-27,US,152.41,total postings,IT Systems & Solutions
 2022-09-27,US,156.76,new postings,IT Systems & Solutions
 2022-09-28,US,152.23,total postings,IT Systems & Solutions
 2022-09-28,US,156.77,new postings,IT Systems & Solutions
 2022-09-29,US,152.03,total postings,IT Systems & Solutions
 2022-09-29,US,156.83,new postings,IT Systems & Solutions
-2022-09-30,US,151.78,total postings,IT Systems & Solutions
+2022-09-30,US,151.77,total postings,IT Systems & Solutions
 2022-09-30,US,156.15,new postings,IT Systems & Solutions
 2022-10-01,US,151.52,total postings,IT Systems & Solutions
 2022-10-01,US,156.32,new postings,IT Systems & Solutions
@@ -18398,27 +18440,27 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-12-21,US,81.67,total postings,IT Systems & Solutions
 2024-12-21,US,89.01,new postings,IT Systems & Solutions
 2024-12-22,US,81.61,total postings,IT Systems & Solutions
-2024-12-22,US,88.51,new postings,IT Systems & Solutions
+2024-12-22,US,88.5,new postings,IT Systems & Solutions
 2024-12-23,US,81.62,total postings,IT Systems & Solutions
-2024-12-23,US,88.54,new postings,IT Systems & Solutions
+2024-12-23,US,88.53,new postings,IT Systems & Solutions
 2024-12-24,US,81.74,total postings,IT Systems & Solutions
-2024-12-24,US,88.82,new postings,IT Systems & Solutions
+2024-12-24,US,88.81,new postings,IT Systems & Solutions
 2024-12-25,US,81.9,total postings,IT Systems & Solutions
-2024-12-25,US,88.79,new postings,IT Systems & Solutions
+2024-12-25,US,88.78,new postings,IT Systems & Solutions
 2024-12-26,US,82.11,total postings,IT Systems & Solutions
-2024-12-26,US,88.28,new postings,IT Systems & Solutions
+2024-12-26,US,88.26,new postings,IT Systems & Solutions
 2024-12-27,US,82.15,total postings,IT Systems & Solutions
-2024-12-27,US,87.41,new postings,IT Systems & Solutions
+2024-12-27,US,87.39,new postings,IT Systems & Solutions
 2024-12-28,US,82.17,total postings,IT Systems & Solutions
-2024-12-28,US,85.94,new postings,IT Systems & Solutions
+2024-12-28,US,85.92,new postings,IT Systems & Solutions
 2024-12-29,US,82.26,total postings,IT Systems & Solutions
-2024-12-29,US,85.17,new postings,IT Systems & Solutions
+2024-12-29,US,85.16,new postings,IT Systems & Solutions
 2024-12-30,US,82.29,total postings,IT Systems & Solutions
-2024-12-30,US,84.39,new postings,IT Systems & Solutions
+2024-12-30,US,84.37,new postings,IT Systems & Solutions
 2024-12-31,US,82.27,total postings,IT Systems & Solutions
-2024-12-31,US,84.08,new postings,IT Systems & Solutions
+2024-12-31,US,84.07,new postings,IT Systems & Solutions
 2025-01-01,US,82.36,total postings,IT Systems & Solutions
-2025-01-01,US,84.11,new postings,IT Systems & Solutions
+2025-01-01,US,84.1,new postings,IT Systems & Solutions
 2025-01-02,US,82.38,total postings,IT Systems & Solutions
 2025-01-02,US,84.76,new postings,IT Systems & Solutions
 2025-01-03,US,82.48,total postings,IT Systems & Solutions
@@ -18435,7 +18477,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-01-08,US,83.03,new postings,IT Systems & Solutions
 2025-01-09,US,81.3,total postings,IT Systems & Solutions
 2025-01-09,US,81.7,new postings,IT Systems & Solutions
-2025-01-10,US,80.99,total postings,IT Systems & Solutions
+2025-01-10,US,80.98,total postings,IT Systems & Solutions
 2025-01-10,US,80.34,new postings,IT Systems & Solutions
 2025-01-11,US,80.86,total postings,IT Systems & Solutions
 2025-01-11,US,79.06,new postings,IT Systems & Solutions
@@ -18443,7 +18485,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-01-12,US,78.58,new postings,IT Systems & Solutions
 2025-01-13,US,80.9,total postings,IT Systems & Solutions
 2025-01-13,US,78.7,new postings,IT Systems & Solutions
-2025-01-14,US,81.07,total postings,IT Systems & Solutions
+2025-01-14,US,81.06,total postings,IT Systems & Solutions
 2025-01-14,US,79.5,new postings,IT Systems & Solutions
 2025-01-15,US,80.69,total postings,IT Systems & Solutions
 2025-01-15,US,78.97,new postings,IT Systems & Solutions
@@ -18451,13 +18493,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-01-16,US,79.65,new postings,IT Systems & Solutions
 2025-01-17,US,80.21,total postings,IT Systems & Solutions
 2025-01-17,US,80.84,new postings,IT Systems & Solutions
-2025-01-18,US,79.97,total postings,IT Systems & Solutions
+2025-01-18,US,79.96,total postings,IT Systems & Solutions
 2025-01-18,US,81.24,new postings,IT Systems & Solutions
 2025-01-19,US,79.78,total postings,IT Systems & Solutions
 2025-01-19,US,81.68,new postings,IT Systems & Solutions
 2025-01-20,US,79.55,total postings,IT Systems & Solutions
 2025-01-20,US,82.41,new postings,IT Systems & Solutions
-2025-01-21,US,79.36,total postings,IT Systems & Solutions
+2025-01-21,US,79.35,total postings,IT Systems & Solutions
 2025-01-21,US,82.11,new postings,IT Systems & Solutions
 2025-01-22,US,79.18,total postings,IT Systems & Solutions
 2025-01-22,US,82.29,new postings,IT Systems & Solutions
@@ -18479,11 +18521,11 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-01-30,US,75.45,new postings,IT Systems & Solutions
 2025-01-31,US,78.21,total postings,IT Systems & Solutions
 2025-01-31,US,76.24,new postings,IT Systems & Solutions
-2025-02-01,US,78.07,total postings,IT Systems & Solutions
+2025-02-01,US,78.06,total postings,IT Systems & Solutions
 2025-02-01,US,76.07,new postings,IT Systems & Solutions
 2025-02-02,US,77.85,total postings,IT Systems & Solutions
 2025-02-02,US,76.47,new postings,IT Systems & Solutions
-2025-02-03,US,77.64,total postings,IT Systems & Solutions
+2025-02-03,US,77.63,total postings,IT Systems & Solutions
 2025-02-03,US,77.25,new postings,IT Systems & Solutions
 2025-02-04,US,77.46,total postings,IT Systems & Solutions
 2025-02-04,US,77.78,new postings,IT Systems & Solutions
@@ -18501,7 +18543,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-02-10,US,77.11,new postings,IT Systems & Solutions
 2025-02-11,US,75.62,total postings,IT Systems & Solutions
 2025-02-11,US,75.53,new postings,IT Systems & Solutions
-2025-02-12,US,75.41,total postings,IT Systems & Solutions
+2025-02-12,US,75.4,total postings,IT Systems & Solutions
 2025-02-12,US,73.58,new postings,IT Systems & Solutions
 2025-02-13,US,75.11,total postings,IT Systems & Solutions
 2025-02-13,US,72.2,new postings,IT Systems & Solutions
@@ -18523,13 +18565,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-02-21,US,77.6,new postings,IT Systems & Solutions
 2025-02-22,US,73.03,total postings,IT Systems & Solutions
 2025-02-22,US,77.77,new postings,IT Systems & Solutions
-2025-02-23,US,72.77,total postings,IT Systems & Solutions
+2025-02-23,US,72.76,total postings,IT Systems & Solutions
 2025-02-23,US,77.87,new postings,IT Systems & Solutions
 2025-02-24,US,72.4,total postings,IT Systems & Solutions
 2025-02-24,US,77.41,new postings,IT Systems & Solutions
 2025-02-25,US,72.19,total postings,IT Systems & Solutions
 2025-02-25,US,77.67,new postings,IT Systems & Solutions
-2025-02-26,US,72.01,total postings,IT Systems & Solutions
+2025-02-26,US,72.0,total postings,IT Systems & Solutions
 2025-02-26,US,77.87,new postings,IT Systems & Solutions
 2025-02-27,US,71.79,total postings,IT Systems & Solutions
 2025-02-27,US,78.03,new postings,IT Systems & Solutions
@@ -18838,13 +18880,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-07-29,US,70.25,total postings,IT Systems & Solutions
 2025-07-29,US,81.68,new postings,IT Systems & Solutions
 2025-07-30,US,70.12,total postings,IT Systems & Solutions
-2025-07-30,US,80.56,new postings,IT Systems & Solutions
+2025-07-30,US,80.55,new postings,IT Systems & Solutions
 2025-07-31,US,69.93,total postings,IT Systems & Solutions
 2025-07-31,US,79.46,new postings,IT Systems & Solutions
 2025-08-01,US,69.98,total postings,IT Systems & Solutions
 2025-08-01,US,78.93,new postings,IT Systems & Solutions
 2025-08-02,US,69.87,total postings,IT Systems & Solutions
-2025-08-02,US,78.76,new postings,IT Systems & Solutions
+2025-08-02,US,78.75,new postings,IT Systems & Solutions
 2025-08-03,US,69.87,total postings,IT Systems & Solutions
 2025-08-03,US,79.05,new postings,IT Systems & Solutions
 2025-08-04,US,69.81,total postings,IT Systems & Solutions
@@ -19219,13 +19261,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-02-04,US,79.83,new postings,IT Systems & Solutions
 2026-02-05,US,70.26,total postings,IT Systems & Solutions
 2026-02-05,US,79.39,new postings,IT Systems & Solutions
-2026-02-06,US,70.45,total postings,IT Systems & Solutions
+2026-02-06,US,70.44,total postings,IT Systems & Solutions
 2026-02-06,US,78.97,new postings,IT Systems & Solutions
 2026-02-07,US,70.45,total postings,IT Systems & Solutions
 2026-02-07,US,79.29,new postings,IT Systems & Solutions
 2026-02-08,US,70.49,total postings,IT Systems & Solutions
 2026-02-08,US,79.08,new postings,IT Systems & Solutions
-2026-02-09,US,70.57,total postings,IT Systems & Solutions
+2026-02-09,US,70.56,total postings,IT Systems & Solutions
 2026-02-09,US,79.38,new postings,IT Systems & Solutions
 2026-02-10,US,70.67,total postings,IT Systems & Solutions
 2026-02-10,US,78.78,new postings,IT Systems & Solutions
@@ -19239,9 +19281,9 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-02-14,US,78.15,new postings,IT Systems & Solutions
 2026-02-15,US,71.62,total postings,IT Systems & Solutions
 2026-02-15,US,77.78,new postings,IT Systems & Solutions
-2026-02-16,US,71.82,total postings,IT Systems & Solutions
+2026-02-16,US,71.81,total postings,IT Systems & Solutions
 2026-02-16,US,77.28,new postings,IT Systems & Solutions
-2026-02-17,US,71.9,total postings,IT Systems & Solutions
+2026-02-17,US,71.89,total postings,IT Systems & Solutions
 2026-02-17,US,76.52,new postings,IT Systems & Solutions
 2026-02-18,US,72.04,total postings,IT Systems & Solutions
 2026-02-18,US,76.41,new postings,IT Systems & Solutions
@@ -19666,38 +19708,38 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-09-16,US,74.84,total postings,IT Systems & Solutions
 2026-09-16,US,78.23,new postings,IT Systems & Solutions
 2026-09-17,US,74.87,total postings,IT Systems & Solutions
-2026-09-17,US,80.17,new postings,IT Systems & Solutions
+2026-09-17,US,80.16,new postings,IT Systems & Solutions
 2026-09-18,US,74.91,total postings,IT Systems & Solutions
-2026-09-18,US,83.08,new postings,IT Systems & Solutions
+2026-09-18,US,83.07,new postings,IT Systems & Solutions
 2026-09-19,US,75.18,total postings,IT Systems & Solutions
-2026-09-19,US,85.35,new postings,IT Systems & Solutions
+2026-09-19,US,85.34,new postings,IT Systems & Solutions
 2026-09-20,US,75.48,total postings,IT Systems & Solutions
-2026-09-20,US,87.71,new postings,IT Systems & Solutions
+2026-09-20,US,87.7,new postings,IT Systems & Solutions
 2026-09-21,US,75.78,total postings,IT Systems & Solutions
-2026-09-21,US,90.12,new postings,IT Systems & Solutions
-2026-09-22,US,76.01,total postings,IT Systems & Solutions
-2026-09-22,US,89.99,new postings,IT Systems & Solutions
-2026-09-23,US,76.12,total postings,IT Systems & Solutions
-2026-09-23,US,88.26,new postings,IT Systems & Solutions
+2026-09-21,US,90.1,new postings,IT Systems & Solutions
+2026-09-22,US,76.0,total postings,IT Systems & Solutions
+2026-09-22,US,89.97,new postings,IT Systems & Solutions
+2026-09-23,US,76.11,total postings,IT Systems & Solutions
+2026-09-23,US,88.24,new postings,IT Systems & Solutions
 2026-09-24,US,76.12,total postings,IT Systems & Solutions
-2026-09-24,US,86.83,new postings,IT Systems & Solutions
+2026-09-24,US,86.81,new postings,IT Systems & Solutions
 2026-09-25,US,76.01,total postings,IT Systems & Solutions
-2026-09-25,US,84.97,new postings,IT Systems & Solutions
+2026-09-25,US,84.95,new postings,IT Systems & Solutions
 2026-09-26,US,75.97,total postings,IT Systems & Solutions
-2026-09-26,US,83.96,new postings,IT Systems & Solutions
+2026-09-26,US,83.95,new postings,IT Systems & Solutions
 2026-09-27,US,75.93,total postings,IT Systems & Solutions
-2026-09-27,US,83.2,new postings,IT Systems & Solutions
+2026-09-27,US,83.19,new postings,IT Systems & Solutions
 2026-09-28,US,75.96,total postings,IT Systems & Solutions
-2026-09-28,US,82.37,new postings,IT Systems & Solutions
+2026-09-28,US,82.36,new postings,IT Systems & Solutions
 2026-09-29,US,75.92,total postings,IT Systems & Solutions
 2026-09-29,US,81.72,new postings,IT Systems & Solutions
-2026-09-30,US,76.07,total postings,IT Systems & Solutions
+2026-09-30,US,76.06,total postings,IT Systems & Solutions
 2026-09-30,US,82.98,new postings,IT Systems & Solutions
 2026-10-01,US,76.17,total postings,IT Systems & Solutions
 2026-10-01,US,83.84,new postings,IT Systems & Solutions
 2026-10-02,US,76.39,total postings,IT Systems & Solutions
 2026-10-02,US,85.08,new postings,IT Systems & Solutions
-2026-10-03,US,76.52,total postings,IT Systems & Solutions
+2026-10-03,US,76.51,total postings,IT Systems & Solutions
 2026-10-03,US,85.19,new postings,IT Systems & Solutions
 2026-10-04,US,76.7,total postings,IT Systems & Solutions
 2026-10-04,US,85.16,new postings,IT Systems & Solutions
@@ -19709,15 +19751,15 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-10-07,US,83.58,new postings,IT Systems & Solutions
 2026-10-08,US,76.95,total postings,IT Systems & Solutions
 2026-10-08,US,82.32,new postings,IT Systems & Solutions
-2026-10-09,US,76.97,total postings,IT Systems & Solutions
+2026-10-09,US,76.96,total postings,IT Systems & Solutions
 2026-10-09,US,80.97,new postings,IT Systems & Solutions
 2026-10-10,US,77.07,total postings,IT Systems & Solutions
 2026-10-10,US,79.98,new postings,IT Systems & Solutions
-2026-10-11,US,77.07,total postings,IT Systems & Solutions
+2026-10-11,US,77.06,total postings,IT Systems & Solutions
 2026-10-11,US,79.02,new postings,IT Systems & Solutions
 2026-10-12,US,77.22,total postings,IT Systems & Solutions
 2026-10-12,US,79.17,new postings,IT Systems & Solutions
-2026-10-13,US,77.29,total postings,IT Systems & Solutions
+2026-10-13,US,77.28,total postings,IT Systems & Solutions
 2026-10-13,US,79.18,new postings,IT Systems & Solutions
 2026-10-14,US,77.36,total postings,IT Systems & Solutions
 2026-10-14,US,79.4,new postings,IT Systems & Solutions
@@ -19731,17 +19773,17 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-10-18,US,80.81,new postings,IT Systems & Solutions
 2026-10-19,US,77.45,total postings,IT Systems & Solutions
 2026-10-19,US,79.99,new postings,IT Systems & Solutions
-2026-10-20,US,77.39,total postings,IT Systems & Solutions
+2026-10-20,US,77.38,total postings,IT Systems & Solutions
 2026-10-20,US,79.96,new postings,IT Systems & Solutions
 2026-10-21,US,77.47,total postings,IT Systems & Solutions
 2026-10-21,US,80.74,new postings,IT Systems & Solutions
-2026-10-22,US,77.44,total postings,IT Systems & Solutions
+2026-10-22,US,77.43,total postings,IT Systems & Solutions
 2026-10-22,US,80.48,new postings,IT Systems & Solutions
 2026-10-23,US,77.57,total postings,IT Systems & Solutions
 2026-10-23,US,80.8,new postings,IT Systems & Solutions
 2026-10-24,US,77.52,total postings,IT Systems & Solutions
 2026-10-24,US,80.26,new postings,IT Systems & Solutions
-2026-10-25,US,77.48,total postings,IT Systems & Solutions
+2026-10-25,US,77.47,total postings,IT Systems & Solutions
 2026-10-25,US,80.06,new postings,IT Systems & Solutions
 2026-10-26,US,77.4,total postings,IT Systems & Solutions
 2026-10-26,US,80.58,new postings,IT Systems & Solutions
@@ -19749,24 +19791,38 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-10-27,US,81.0,new postings,IT Systems & Solutions
 2026-10-28,US,77.32,total postings,IT Systems & Solutions
 2026-10-28,US,80.4,new postings,IT Systems & Solutions
-2026-10-29,US,77.26,total postings,IT Systems & Solutions
+2026-10-29,US,77.25,total postings,IT Systems & Solutions
 2026-10-29,US,80.39,new postings,IT Systems & Solutions
 2026-10-30,US,77.12,total postings,IT Systems & Solutions
 2026-10-30,US,80.27,new postings,IT Systems & Solutions
 2026-10-31,US,77.12,total postings,IT Systems & Solutions
 2026-10-31,US,80.79,new postings,IT Systems & Solutions
-2026-11-01,US,77.22,total postings,IT Systems & Solutions
+2026-11-01,US,77.21,total postings,IT Systems & Solutions
 2026-11-01,US,81.75,new postings,IT Systems & Solutions
 2026-11-02,US,77.26,total postings,IT Systems & Solutions
 2026-11-02,US,82.14,new postings,IT Systems & Solutions
 2026-11-03,US,77.25,total postings,IT Systems & Solutions
 2026-11-03,US,82.08,new postings,IT Systems & Solutions
-2026-11-04,US,77.27,total postings,IT Systems & Solutions
+2026-11-04,US,77.26,total postings,IT Systems & Solutions
 2026-11-04,US,82.49,new postings,IT Systems & Solutions
 2026-11-05,US,77.27,total postings,IT Systems & Solutions
 2026-11-05,US,83.57,new postings,IT Systems & Solutions
 2026-11-06,US,77.37,total postings,IT Systems & Solutions
 2026-11-06,US,85.32,new postings,IT Systems & Solutions
+2026-11-07,US,77.47,total postings,IT Systems & Solutions
+2026-11-07,US,86.56,new postings,IT Systems & Solutions
+2026-11-08,US,77.43,total postings,IT Systems & Solutions
+2026-11-08,US,86.79,new postings,IT Systems & Solutions
+2026-11-09,US,77.43,total postings,IT Systems & Solutions
+2026-11-09,US,86.9,new postings,IT Systems & Solutions
+2026-11-10,US,77.57,total postings,IT Systems & Solutions
+2026-11-10,US,86.93,new postings,IT Systems & Solutions
+2026-11-11,US,77.74,total postings,IT Systems & Solutions
+2026-11-11,US,86.63,new postings,IT Systems & Solutions
+2026-11-12,US,77.87,total postings,IT Systems & Solutions
+2026-11-12,US,85.41,new postings,IT Systems & Solutions
+2026-11-13,US,78.12,total postings,IT Systems & Solutions
+2026-11-13,US,84.88,new postings,IT Systems & Solutions
 2020-02-01,US,100.0,total postings,Software Development
 2020-02-01,US,100.0,new postings,Software Development
 2020-02-02,US,99.84,total postings,Software Development
@@ -20352,27 +20408,27 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2020-11-18,US,83.83,total postings,Software Development
 2020-11-18,US,108.04,new postings,Software Development
 2020-11-19,US,84.25,total postings,Software Development
-2020-11-19,US,109.66,new postings,Software Development
+2020-11-19,US,109.65,new postings,Software Development
 2020-11-20,US,84.67,total postings,Software Development
 2020-11-20,US,110.93,new postings,Software Development
-2020-11-21,US,85.18,total postings,Software Development
-2020-11-21,US,112.03,new postings,Software Development
+2020-11-21,US,85.17,total postings,Software Development
+2020-11-21,US,112.02,new postings,Software Development
 2020-11-22,US,85.41,total postings,Software Development
 2020-11-22,US,111.72,new postings,Software Development
 2020-11-23,US,85.73,total postings,Software Development
-2020-11-23,US,111.44,new postings,Software Development
+2020-11-23,US,111.43,new postings,Software Development
 2020-11-24,US,86.03,total postings,Software Development
 2020-11-24,US,112.06,new postings,Software Development
 2020-11-25,US,86.33,total postings,Software Development
-2020-11-25,US,110.43,new postings,Software Development
+2020-11-25,US,110.42,new postings,Software Development
 2020-11-26,US,86.65,total postings,Software Development
 2020-11-26,US,109.6,new postings,Software Development
 2020-11-27,US,86.88,total postings,Software Development
-2020-11-27,US,108.99,new postings,Software Development
+2020-11-27,US,108.98,new postings,Software Development
 2020-11-28,US,87.16,total postings,Software Development
 2020-11-28,US,107.85,new postings,Software Development
 2020-11-29,US,87.53,total postings,Software Development
-2020-11-29,US,106.43,new postings,Software Development
+2020-11-29,US,106.42,new postings,Software Development
 2020-11-30,US,87.81,total postings,Software Development
 2020-11-30,US,105.85,new postings,Software Development
 2020-12-01,US,87.86,total postings,Software Development
@@ -20391,7 +20447,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2020-12-07,US,105.9,new postings,Software Development
 2020-12-08,US,89.35,total postings,Software Development
 2020-12-08,US,107.03,new postings,Software Development
-2020-12-09,US,89.54,total postings,Software Development
+2020-12-09,US,89.53,total postings,Software Development
 2020-12-09,US,108.38,new postings,Software Development
 2020-12-10,US,89.51,total postings,Software Development
 2020-12-10,US,111.68,new postings,Software Development
@@ -20407,7 +20463,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2020-12-15,US,109.99,new postings,Software Development
 2020-12-16,US,90.29,total postings,Software Development
 2020-12-16,US,109.52,new postings,Software Development
-2020-12-17,US,90.42,total postings,Software Development
+2020-12-17,US,90.41,total postings,Software Development
 2020-12-17,US,109.43,new postings,Software Development
 2020-12-18,US,90.39,total postings,Software Development
 2020-12-18,US,108.86,new postings,Software Development
@@ -20419,7 +20475,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2020-12-21,US,108.2,new postings,Software Development
 2020-12-22,US,90.56,total postings,Software Development
 2020-12-22,US,107.43,new postings,Software Development
-2020-12-23,US,90.59,total postings,Software Development
+2020-12-23,US,90.58,total postings,Software Development
 2020-12-23,US,107.08,new postings,Software Development
 2020-12-24,US,90.71,total postings,Software Development
 2020-12-24,US,106.7,new postings,Software Development
@@ -20438,27 +20494,27 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2020-12-31,US,91.29,total postings,Software Development
 2020-12-31,US,101.77,new postings,Software Development
 2021-01-01,US,91.27,total postings,Software Development
-2021-01-01,US,100.75,new postings,Software Development
+2021-01-01,US,100.74,new postings,Software Development
 2021-01-02,US,91.19,total postings,Software Development
 2021-01-02,US,101.09,new postings,Software Development
 2021-01-03,US,91.1,total postings,Software Development
-2021-01-03,US,98.66,new postings,Software Development
+2021-01-03,US,98.65,new postings,Software Development
 2021-01-04,US,90.9,total postings,Software Development
-2021-01-04,US,93.92,new postings,Software Development
+2021-01-04,US,93.91,new postings,Software Development
 2021-01-05,US,90.6,total postings,Software Development
-2021-01-05,US,89.87,new postings,Software Development
+2021-01-05,US,89.86,new postings,Software Development
 2021-01-06,US,90.54,total postings,Software Development
-2021-01-06,US,91.41,new postings,Software Development
+2021-01-06,US,91.4,new postings,Software Development
 2021-01-07,US,90.61,total postings,Software Development
-2021-01-07,US,91.7,new postings,Software Development
+2021-01-07,US,91.69,new postings,Software Development
 2021-01-08,US,90.8,total postings,Software Development
-2021-01-08,US,94.24,new postings,Software Development
+2021-01-08,US,94.23,new postings,Software Development
 2021-01-09,US,90.84,total postings,Software Development
-2021-01-09,US,96.72,new postings,Software Development
+2021-01-09,US,96.71,new postings,Software Development
 2021-01-10,US,91.1,total postings,Software Development
 2021-01-10,US,100.82,new postings,Software Development
 2021-01-11,US,91.49,total postings,Software Development
-2021-01-11,US,106.13,new postings,Software Development
+2021-01-11,US,106.12,new postings,Software Development
 2021-01-12,US,92.02,total postings,Software Development
 2021-01-12,US,110.88,new postings,Software Development
 2021-01-13,US,92.43,total postings,Software Development
@@ -20475,22 +20531,22 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-01-18,US,117.46,new postings,Software Development
 2021-01-19,US,94.8,total postings,Software Development
 2021-01-19,US,117.78,new postings,Software Development
-2021-01-20,US,94.93,total postings,Software Development
+2021-01-20,US,94.92,total postings,Software Development
 2021-01-20,US,116.08,new postings,Software Development
 2021-01-21,US,95.03,total postings,Software Development
 2021-01-21,US,114.99,new postings,Software Development
 2021-01-22,US,95.09,total postings,Software Development
 2021-01-22,US,114.33,new postings,Software Development
-2021-01-23,US,94.72,total postings,Software Development
+2021-01-23,US,94.71,total postings,Software Development
 2021-01-23,US,112.41,new postings,Software Development
 2021-01-24,US,94.81,total postings,Software Development
 2021-01-24,US,110.26,new postings,Software Development
 2021-01-25,US,95.02,total postings,Software Development
 2021-01-25,US,108.68,new postings,Software Development
 2021-01-26,US,95.29,total postings,Software Development
-2021-01-26,US,110.99,new postings,Software Development
+2021-01-26,US,110.98,new postings,Software Development
 2021-01-27,US,95.65,total postings,Software Development
-2021-01-27,US,115.14,new postings,Software Development
+2021-01-27,US,115.13,new postings,Software Development
 2021-01-28,US,96.08,total postings,Software Development
 2021-01-28,US,118.44,new postings,Software Development
 2021-01-29,US,96.52,total postings,Software Development
@@ -20498,11 +20554,11 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-01-30,US,97.22,total postings,Software Development
 2021-01-30,US,124.34,new postings,Software Development
 2021-01-31,US,97.61,total postings,Software Development
-2021-01-31,US,128.2,new postings,Software Development
+2021-01-31,US,128.19,new postings,Software Development
 2021-02-01,US,98.01,total postings,Software Development
 2021-02-01,US,131.56,new postings,Software Development
 2021-02-02,US,98.38,total postings,Software Development
-2021-02-02,US,131.32,new postings,Software Development
+2021-02-02,US,131.31,new postings,Software Development
 2021-02-03,US,98.68,total postings,Software Development
 2021-02-03,US,130.55,new postings,Software Development
 2021-02-04,US,98.89,total postings,Software Development
@@ -20528,22 +20584,22 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-02-14,US,102.6,total postings,Software Development
 2021-02-14,US,134.56,new postings,Software Development
 2021-02-15,US,102.98,total postings,Software Development
-2021-02-15,US,134.74,new postings,Software Development
+2021-02-15,US,134.73,new postings,Software Development
 2021-02-16,US,103.39,total postings,Software Development
-2021-02-16,US,134.13,new postings,Software Development
+2021-02-16,US,134.12,new postings,Software Development
 2021-02-17,US,103.78,total postings,Software Development
-2021-02-17,US,132.7,new postings,Software Development
+2021-02-17,US,132.69,new postings,Software Development
 2021-02-18,US,104.11,total postings,Software Development
-2021-02-18,US,131.54,new postings,Software Development
+2021-02-18,US,131.53,new postings,Software Development
 2021-02-19,US,104.38,total postings,Software Development
 2021-02-19,US,130.38,new postings,Software Development
 2021-02-20,US,104.41,total postings,Software Development
-2021-02-20,US,129.25,new postings,Software Development
+2021-02-20,US,129.24,new postings,Software Development
 2021-02-21,US,104.7,total postings,Software Development
-2021-02-21,US,128.43,new postings,Software Development
+2021-02-21,US,128.42,new postings,Software Development
 2021-02-22,US,105.04,total postings,Software Development
 2021-02-22,US,127.24,new postings,Software Development
-2021-02-23,US,105.39,total postings,Software Development
+2021-02-23,US,105.38,total postings,Software Development
 2021-02-23,US,128.21,new postings,Software Development
 2021-02-24,US,105.78,total postings,Software Development
 2021-02-24,US,130.78,new postings,Software Development
@@ -20636,26 +20692,26 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-04-09,US,118.77,total postings,Software Development
 2021-04-09,US,136.64,new postings,Software Development
 2021-04-10,US,118.73,total postings,Software Development
-2021-04-10,US,137.54,new postings,Software Development
+2021-04-10,US,137.53,new postings,Software Development
 2021-04-11,US,118.76,total postings,Software Development
 2021-04-11,US,138.32,new postings,Software Development
 2021-04-12,US,118.8,total postings,Software Development
 2021-04-12,US,139.51,new postings,Software Development
 2021-04-13,US,118.95,total postings,Software Development
-2021-04-13,US,141.65,new postings,Software Development
+2021-04-13,US,141.64,new postings,Software Development
 2021-04-14,US,119.18,total postings,Software Development
-2021-04-14,US,143.27,new postings,Software Development
+2021-04-14,US,143.26,new postings,Software Development
 2021-04-15,US,119.37,total postings,Software Development
 2021-04-15,US,144.34,new postings,Software Development
-2021-04-16,US,119.55,total postings,Software Development
+2021-04-16,US,119.54,total postings,Software Development
 2021-04-16,US,144.84,new postings,Software Development
 2021-04-17,US,120.13,total postings,Software Development
 2021-04-17,US,145.2,new postings,Software Development
 2021-04-18,US,120.64,total postings,Software Development
 2021-04-18,US,145.8,new postings,Software Development
 2021-04-19,US,121.07,total postings,Software Development
-2021-04-19,US,146.27,new postings,Software Development
-2021-04-20,US,121.51,total postings,Software Development
+2021-04-19,US,146.26,new postings,Software Development
+2021-04-20,US,121.5,total postings,Software Development
 2021-04-20,US,146.0,new postings,Software Development
 2021-04-21,US,121.92,total postings,Software Development
 2021-04-21,US,146.15,new postings,Software Development
@@ -20708,17 +20764,17 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-05-15,US,131.88,total postings,Software Development
 2021-05-15,US,150.15,new postings,Software Development
 2021-05-16,US,132.37,total postings,Software Development
-2021-05-16,US,150.14,new postings,Software Development
+2021-05-16,US,150.13,new postings,Software Development
 2021-05-17,US,132.8,total postings,Software Development
 2021-05-17,US,150.42,new postings,Software Development
 2021-05-18,US,133.23,total postings,Software Development
 2021-05-18,US,152.0,new postings,Software Development
 2021-05-19,US,133.44,total postings,Software Development
-2021-05-19,US,152.27,new postings,Software Development
+2021-05-19,US,152.26,new postings,Software Development
 2021-05-20,US,133.68,total postings,Software Development
 2021-05-20,US,152.63,new postings,Software Development
 2021-05-21,US,133.92,total postings,Software Development
-2021-05-21,US,152.71,new postings,Software Development
+2021-05-21,US,152.7,new postings,Software Development
 2021-05-22,US,133.77,total postings,Software Development
 2021-05-22,US,152.29,new postings,Software Development
 2021-05-23,US,133.9,total postings,Software Development
@@ -20728,7 +20784,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-05-25,US,133.78,total postings,Software Development
 2021-05-25,US,150.62,new postings,Software Development
 2021-05-26,US,133.64,total postings,Software Development
-2021-05-26,US,150.56,new postings,Software Development
+2021-05-26,US,150.55,new postings,Software Development
 2021-05-27,US,133.49,total postings,Software Development
 2021-05-27,US,150.63,new postings,Software Development
 2021-05-28,US,133.35,total postings,Software Development
@@ -20782,33 +20838,33 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-06-21,US,138.64,total postings,Software Development
 2021-06-21,US,158.34,new postings,Software Development
 2021-06-22,US,138.53,total postings,Software Development
-2021-06-22,US,158.02,new postings,Software Development
+2021-06-22,US,158.01,new postings,Software Development
 2021-06-23,US,138.62,total postings,Software Development
-2021-06-23,US,157.76,new postings,Software Development
+2021-06-23,US,157.75,new postings,Software Development
 2021-06-24,US,138.71,total postings,Software Development
 2021-06-24,US,157.72,new postings,Software Development
 2021-06-25,US,139.06,total postings,Software Development
-2021-06-25,US,157.57,new postings,Software Development
+2021-06-25,US,157.56,new postings,Software Development
 2021-06-26,US,139.33,total postings,Software Development
-2021-06-26,US,157.31,new postings,Software Development
+2021-06-26,US,157.3,new postings,Software Development
 2021-06-27,US,139.7,total postings,Software Development
 2021-06-27,US,156.77,new postings,Software Development
 2021-06-28,US,140.0,total postings,Software Development
-2021-06-28,US,156.54,new postings,Software Development
+2021-06-28,US,156.53,new postings,Software Development
 2021-06-29,US,140.45,total postings,Software Development
 2021-06-29,US,156.15,new postings,Software Development
 2021-06-30,US,140.82,total postings,Software Development
 2021-06-30,US,155.61,new postings,Software Development
 2021-07-01,US,141.2,total postings,Software Development
-2021-07-01,US,155.07,new postings,Software Development
+2021-07-01,US,155.06,new postings,Software Development
 2021-07-02,US,141.5,total postings,Software Development
 2021-07-02,US,154.52,new postings,Software Development
 2021-07-03,US,141.81,total postings,Software Development
-2021-07-03,US,153.99,new postings,Software Development
+2021-07-03,US,153.98,new postings,Software Development
 2021-07-04,US,142.14,total postings,Software Development
 2021-07-04,US,154.22,new postings,Software Development
 2021-07-05,US,142.49,total postings,Software Development
-2021-07-05,US,155.43,new postings,Software Development
+2021-07-05,US,155.42,new postings,Software Development
 2021-07-06,US,142.88,total postings,Software Development
 2021-07-06,US,154.95,new postings,Software Development
 2021-07-07,US,143.21,total postings,Software Development
@@ -20825,7 +20881,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-07-12,US,151.13,new postings,Software Development
 2021-07-13,US,144.53,total postings,Software Development
 2021-07-13,US,151.64,new postings,Software Development
-2021-07-14,US,144.78,total postings,Software Development
+2021-07-14,US,144.77,total postings,Software Development
 2021-07-14,US,152.03,new postings,Software Development
 2021-07-15,US,145.05,total postings,Software Development
 2021-07-15,US,152.35,new postings,Software Development
@@ -20837,15 +20893,15 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2021-07-18,US,153.16,new postings,Software Development
 2021-07-19,US,146.3,total postings,Software Development
 2021-07-19,US,155.39,new postings,Software Development
-2021-07-20,US,146.68,total postings,Software Development
+2021-07-20,US,146.67,total postings,Software Development
 2021-07-20,US,155.68,new postings,Software Development
 2021-07-21,US,146.94,total postings,Software Development
 2021-07-21,US,155.98,new postings,Software Development
-2021-07-22,US,147.25,total postings,Software Development
+2021-07-22,US,147.24,total postings,Software Development
 2021-07-22,US,156.75,new postings,Software Development
 2021-07-23,US,147.74,total postings,Software Development
 2021-07-23,US,157.91,new postings,Software Development
-2021-07-24,US,148.31,total postings,Software Development
+2021-07-24,US,148.3,total postings,Software Development
 2021-07-24,US,158.76,new postings,Software Development
 2021-07-25,US,148.7,total postings,Software Development
 2021-07-25,US,159.12,new postings,Software Development
@@ -21355,7 +21411,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-04-03,US,227.62,new postings,Software Development
 2022-04-04,US,224.9,total postings,Software Development
 2022-04-04,US,225.58,new postings,Software Development
-2022-04-05,US,225.52,total postings,Software Development
+2022-04-05,US,225.51,total postings,Software Development
 2022-04-05,US,228.88,new postings,Software Development
 2022-04-06,US,225.39,total postings,Software Development
 2022-04-06,US,229.88,new postings,Software Development
@@ -21377,14 +21433,14 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-04-14,US,224.77,new postings,Software Development
 2022-04-15,US,223.19,total postings,Software Development
 2022-04-15,US,222.4,new postings,Software Development
-2022-04-16,US,223.39,total postings,Software Development
+2022-04-16,US,223.38,total postings,Software Development
 2022-04-16,US,221.24,new postings,Software Development
 2022-04-17,US,223.83,total postings,Software Development
 2022-04-17,US,219.85,new postings,Software Development
 2022-04-18,US,224.52,total postings,Software Development
 2022-04-18,US,219.11,new postings,Software Development
-2022-04-19,US,224.87,total postings,Software Development
-2022-04-19,US,218.49,new postings,Software Development
+2022-04-19,US,224.86,total postings,Software Development
+2022-04-19,US,218.48,new postings,Software Development
 2022-04-20,US,225.23,total postings,Software Development
 2022-04-20,US,217.3,new postings,Software Development
 2022-04-21,US,225.49,total postings,Software Development
@@ -21392,8 +21448,8 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-04-22,US,225.87,total postings,Software Development
 2022-04-22,US,216.28,new postings,Software Development
 2022-04-23,US,226.25,total postings,Software Development
-2022-04-23,US,216.36,new postings,Software Development
-2022-04-24,US,226.24,total postings,Software Development
+2022-04-23,US,216.35,new postings,Software Development
+2022-04-24,US,226.23,total postings,Software Development
 2022-04-24,US,216.13,new postings,Software Development
 2022-04-25,US,226.46,total postings,Software Development
 2022-04-25,US,216.54,new postings,Software Development
@@ -21413,7 +21469,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-05-02,US,219.91,new postings,Software Development
 2022-05-03,US,223.16,total postings,Software Development
 2022-05-03,US,220.56,new postings,Software Development
-2022-05-04,US,225.32,total postings,Software Development
+2022-05-04,US,225.31,total postings,Software Development
 2022-05-04,US,224.28,new postings,Software Development
 2022-05-05,US,225.4,total postings,Software Development
 2022-05-05,US,226.89,new postings,Software Development
@@ -21427,9 +21483,9 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-05-09,US,242.81,new postings,Software Development
 2022-05-10,US,227.87,total postings,Software Development
 2022-05-10,US,248.15,new postings,Software Development
-2022-05-11,US,228.17,total postings,Software Development
+2022-05-11,US,228.16,total postings,Software Development
 2022-05-11,US,249.09,new postings,Software Development
-2022-05-12,US,228.35,total postings,Software Development
+2022-05-12,US,228.34,total postings,Software Development
 2022-05-12,US,250.4,new postings,Software Development
 2022-05-13,US,228.24,total postings,Software Development
 2022-05-13,US,248.2,new postings,Software Development
@@ -21453,7 +21509,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-05-22,US,220.26,new postings,Software Development
 2022-05-23,US,226.71,total postings,Software Development
 2022-05-23,US,220.17,new postings,Software Development
-2022-05-24,US,227.15,total postings,Software Development
+2022-05-24,US,227.14,total postings,Software Development
 2022-05-24,US,220.5,new postings,Software Development
 2022-05-25,US,227.03,total postings,Software Development
 2022-05-25,US,219.67,new postings,Software Development
@@ -21475,13 +21531,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-06-02,US,199.92,new postings,Software Development
 2022-06-03,US,223.23,total postings,Software Development
 2022-06-03,US,196.77,new postings,Software Development
-2022-06-04,US,222.49,total postings,Software Development
+2022-06-04,US,222.48,total postings,Software Development
 2022-06-04,US,196.51,new postings,Software Development
 2022-06-05,US,221.64,total postings,Software Development
 2022-06-05,US,195.82,new postings,Software Development
-2022-06-06,US,220.77,total postings,Software Development
+2022-06-06,US,220.76,total postings,Software Development
 2022-06-06,US,194.03,new postings,Software Development
-2022-06-07,US,219.97,total postings,Software Development
+2022-06-07,US,219.96,total postings,Software Development
 2022-06-07,US,201.21,new postings,Software Development
 2022-06-08,US,219.29,total postings,Software Development
 2022-06-08,US,208.48,new postings,Software Development
@@ -21501,7 +21557,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-06-15,US,219.88,new postings,Software Development
 2022-06-16,US,216.95,total postings,Software Development
 2022-06-16,US,217.03,new postings,Software Development
-2022-06-17,US,216.86,total postings,Software Development
+2022-06-17,US,216.85,total postings,Software Development
 2022-06-17,US,216.02,new postings,Software Development
 2022-06-18,US,216.64,total postings,Software Development
 2022-06-18,US,215.26,new postings,Software Development
@@ -21519,7 +21575,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-06-24,US,202.83,new postings,Software Development
 2022-06-25,US,215.97,total postings,Software Development
 2022-06-25,US,198.91,new postings,Software Development
-2022-06-26,US,215.59,total postings,Software Development
+2022-06-26,US,215.58,total postings,Software Development
 2022-06-26,US,194.64,new postings,Software Development
 2022-06-27,US,214.85,total postings,Software Development
 2022-06-27,US,189.22,new postings,Software Development
@@ -21533,9 +21589,9 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-07-01,US,189.74,new postings,Software Development
 2022-07-02,US,210.81,total postings,Software Development
 2022-07-02,US,191.5,new postings,Software Development
-2022-07-03,US,210.07,total postings,Software Development
+2022-07-03,US,210.06,total postings,Software Development
 2022-07-03,US,192.42,new postings,Software Development
-2022-07-04,US,209.26,total postings,Software Development
+2022-07-04,US,209.25,total postings,Software Development
 2022-07-04,US,194.64,new postings,Software Development
 2022-07-05,US,209.04,total postings,Software Development
 2022-07-05,US,194.54,new postings,Software Development
@@ -21544,25 +21600,25 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-07-07,US,207.67,total postings,Software Development
 2022-07-07,US,191.68,new postings,Software Development
 2022-07-08,US,206.95,total postings,Software Development
-2022-07-08,US,188.9,new postings,Software Development
+2022-07-08,US,188.89,new postings,Software Development
 2022-07-09,US,206.02,total postings,Software Development
-2022-07-09,US,187.31,new postings,Software Development
+2022-07-09,US,187.3,new postings,Software Development
 2022-07-10,US,205.23,total postings,Software Development
 2022-07-10,US,186.16,new postings,Software Development
-2022-07-11,US,204.84,total postings,Software Development
-2022-07-11,US,184.54,new postings,Software Development
+2022-07-11,US,204.83,total postings,Software Development
+2022-07-11,US,184.53,new postings,Software Development
 2022-07-12,US,204.01,total postings,Software Development
 2022-07-12,US,186.35,new postings,Software Development
 2022-07-13,US,203.52,total postings,Software Development
 2022-07-13,US,187.91,new postings,Software Development
 2022-07-14,US,202.96,total postings,Software Development
-2022-07-14,US,189.88,new postings,Software Development
+2022-07-14,US,189.87,new postings,Software Development
 2022-07-15,US,202.37,total postings,Software Development
-2022-07-15,US,191.42,new postings,Software Development
+2022-07-15,US,191.41,new postings,Software Development
 2022-07-16,US,201.95,total postings,Software Development
-2022-07-16,US,192.99,new postings,Software Development
+2022-07-16,US,192.98,new postings,Software Development
 2022-07-17,US,201.57,total postings,Software Development
-2022-07-17,US,194.46,new postings,Software Development
+2022-07-17,US,194.45,new postings,Software Development
 2022-07-18,US,200.83,total postings,Software Development
 2022-07-18,US,195.17,new postings,Software Development
 2022-07-19,US,199.98,total postings,Software Development
@@ -21581,9 +21637,9 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-07-25,US,192.62,new postings,Software Development
 2022-07-26,US,195.85,total postings,Software Development
 2022-07-26,US,194.95,new postings,Software Development
-2022-07-27,US,195.06,total postings,Software Development
+2022-07-27,US,195.05,total postings,Software Development
 2022-07-27,US,196.42,new postings,Software Development
-2022-07-28,US,194.77,total postings,Software Development
+2022-07-28,US,194.76,total postings,Software Development
 2022-07-28,US,198.97,new postings,Software Development
 2022-07-29,US,194.33,total postings,Software Development
 2022-07-29,US,198.79,new postings,Software Development
@@ -21595,9 +21651,9 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-08-01,US,206.33,new postings,Software Development
 2022-08-02,US,193.85,total postings,Software Development
 2022-08-02,US,208.15,new postings,Software Development
-2022-08-03,US,193.64,total postings,Software Development
+2022-08-03,US,193.63,total postings,Software Development
 2022-08-03,US,209.76,new postings,Software Development
-2022-08-04,US,193.27,total postings,Software Development
+2022-08-04,US,193.26,total postings,Software Development
 2022-08-04,US,210.63,new postings,Software Development
 2022-08-05,US,192.89,total postings,Software Development
 2022-08-05,US,211.22,new postings,Software Development
@@ -21611,9 +21667,9 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-08-09,US,200.43,new postings,Software Development
 2022-08-10,US,190.78,total postings,Software Development
 2022-08-10,US,197.19,new postings,Software Development
-2022-08-11,US,190.35,total postings,Software Development
+2022-08-11,US,190.34,total postings,Software Development
 2022-08-11,US,195.52,new postings,Software Development
-2022-08-12,US,189.76,total postings,Software Development
+2022-08-12,US,189.75,total postings,Software Development
 2022-08-12,US,193.11,new postings,Software Development
 2022-08-13,US,188.99,total postings,Software Development
 2022-08-13,US,190.93,new postings,Software Development
@@ -21641,7 +21697,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-08-24,US,183.61,new postings,Software Development
 2022-08-25,US,182.79,total postings,Software Development
 2022-08-25,US,187.1,new postings,Software Development
-2022-08-26,US,182.5,total postings,Software Development
+2022-08-26,US,182.49,total postings,Software Development
 2022-08-26,US,187.21,new postings,Software Development
 2022-08-27,US,182.27,total postings,Software Development
 2022-08-27,US,186.46,new postings,Software Development
@@ -21716,24 +21772,24 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-10-01,US,168.06,total postings,Software Development
 2022-10-01,US,174.65,new postings,Software Development
 2022-10-02,US,167.72,total postings,Software Development
-2022-10-02,US,174.09,new postings,Software Development
+2022-10-02,US,174.08,new postings,Software Development
 2022-10-03,US,167.36,total postings,Software Development
-2022-10-03,US,173.28,new postings,Software Development
+2022-10-03,US,173.27,new postings,Software Development
 2022-10-04,US,166.67,total postings,Software Development
-2022-10-04,US,171.62,new postings,Software Development
+2022-10-04,US,171.61,new postings,Software Development
 2022-10-05,US,166.13,total postings,Software Development
 2022-10-05,US,169.52,new postings,Software Development
 2022-10-06,US,165.49,total postings,Software Development
-2022-10-06,US,168.24,new postings,Software Development
+2022-10-06,US,168.23,new postings,Software Development
 2022-10-07,US,164.69,total postings,Software Development
-2022-10-07,US,167.77,new postings,Software Development
+2022-10-07,US,167.76,new postings,Software Development
 2022-10-08,US,163.92,total postings,Software Development
-2022-10-08,US,167.24,new postings,Software Development
+2022-10-08,US,167.23,new postings,Software Development
 2022-10-09,US,163.13,total postings,Software Development
 2022-10-09,US,166.73,new postings,Software Development
-2022-10-10,US,162.5,total postings,Software Development
+2022-10-10,US,162.49,total postings,Software Development
 2022-10-10,US,166.45,new postings,Software Development
-2022-10-11,US,162.07,total postings,Software Development
+2022-10-11,US,162.06,total postings,Software Development
 2022-10-11,US,165.8,new postings,Software Development
 2022-10-12,US,161.55,total postings,Software Development
 2022-10-12,US,164.14,new postings,Software Development
@@ -21741,21 +21797,21 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-10-13,US,162.77,new postings,Software Development
 2022-10-14,US,161.0,total postings,Software Development
 2022-10-14,US,161.69,new postings,Software Development
-2022-10-15,US,160.65,total postings,Software Development
+2022-10-15,US,160.64,total postings,Software Development
 2022-10-15,US,160.96,new postings,Software Development
-2022-10-16,US,160.48,total postings,Software Development
+2022-10-16,US,160.47,total postings,Software Development
 2022-10-16,US,159.63,new postings,Software Development
 2022-10-17,US,160.12,total postings,Software Development
 2022-10-17,US,158.3,new postings,Software Development
 2022-10-18,US,159.8,total postings,Software Development
 2022-10-18,US,158.2,new postings,Software Development
-2022-10-19,US,159.53,total postings,Software Development
+2022-10-19,US,159.52,total postings,Software Development
 2022-10-19,US,159.39,new postings,Software Development
 2022-10-20,US,159.14,total postings,Software Development
 2022-10-20,US,159.96,new postings,Software Development
-2022-10-21,US,158.73,total postings,Software Development
+2022-10-21,US,158.72,total postings,Software Development
 2022-10-21,US,159.7,new postings,Software Development
-2022-10-22,US,157.78,total postings,Software Development
+2022-10-22,US,157.77,total postings,Software Development
 2022-10-22,US,159.05,new postings,Software Development
 2022-10-23,US,157.25,total postings,Software Development
 2022-10-23,US,159.08,new postings,Software Development
@@ -21771,28 +21827,28 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-10-28,US,156.04,new postings,Software Development
 2022-10-29,US,155.7,total postings,Software Development
 2022-10-29,US,156.48,new postings,Software Development
-2022-10-30,US,155.49,total postings,Software Development
+2022-10-30,US,155.48,total postings,Software Development
 2022-10-30,US,156.67,new postings,Software Development
 2022-10-31,US,155.36,total postings,Software Development
 2022-10-31,US,157.28,new postings,Software Development
 2022-11-01,US,155.06,total postings,Software Development
 2022-11-01,US,158.66,new postings,Software Development
-2022-11-02,US,154.45,total postings,Software Development
-2022-11-02,US,159.85,new postings,Software Development
+2022-11-02,US,154.44,total postings,Software Development
+2022-11-02,US,159.84,new postings,Software Development
 2022-11-03,US,153.57,total postings,Software Development
-2022-11-03,US,159.75,new postings,Software Development
+2022-11-03,US,159.74,new postings,Software Development
 2022-11-04,US,152.88,total postings,Software Development
 2022-11-04,US,160.13,new postings,Software Development
 2022-11-05,US,152.01,total postings,Software Development
 2022-11-05,US,159.97,new postings,Software Development
 2022-11-06,US,151.27,total postings,Software Development
-2022-11-06,US,160.1,new postings,Software Development
+2022-11-06,US,160.09,new postings,Software Development
 2022-11-07,US,150.43,total postings,Software Development
-2022-11-07,US,159.96,new postings,Software Development
+2022-11-07,US,159.95,new postings,Software Development
 2022-11-08,US,149.68,total postings,Software Development
-2022-11-08,US,158.46,new postings,Software Development
+2022-11-08,US,158.45,new postings,Software Development
 2022-11-09,US,149.2,total postings,Software Development
-2022-11-09,US,157.21,new postings,Software Development
+2022-11-09,US,157.2,new postings,Software Development
 2022-11-10,US,148.75,total postings,Software Development
 2022-11-10,US,156.67,new postings,Software Development
 2022-11-11,US,148.17,total postings,Software Development
@@ -21801,7 +21857,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-11-12,US,155.01,new postings,Software Development
 2022-11-13,US,147.29,total postings,Software Development
 2022-11-13,US,153.87,new postings,Software Development
-2022-11-14,US,146.74,total postings,Software Development
+2022-11-14,US,146.73,total postings,Software Development
 2022-11-14,US,152.33,new postings,Software Development
 2022-11-15,US,146.26,total postings,Software Development
 2022-11-15,US,151.72,new postings,Software Development
@@ -21881,7 +21937,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2022-12-22,US,141.78,new postings,Software Development
 2022-12-23,US,132.21,total postings,Software Development
 2022-12-23,US,139.92,new postings,Software Development
-2022-12-24,US,131.97,total postings,Software Development
+2022-12-24,US,131.96,total postings,Software Development
 2022-12-24,US,136.58,new postings,Software Development
 2022-12-25,US,131.68,total postings,Software Development
 2022-12-25,US,134.71,new postings,Software Development
@@ -21907,7 +21963,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-01-04,US,108.27,new postings,Software Development
 2023-01-05,US,128.53,total postings,Software Development
 2023-01-05,US,108.23,new postings,Software Development
-2023-01-06,US,128.23,total postings,Software Development
+2023-01-06,US,128.22,total postings,Software Development
 2023-01-06,US,112.41,new postings,Software Development
 2023-01-07,US,127.87,total postings,Software Development
 2023-01-07,US,115.27,new postings,Software Development
@@ -21923,7 +21979,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-01-12,US,133.28,new postings,Software Development
 2023-01-13,US,127.49,total postings,Software Development
 2023-01-13,US,131.73,new postings,Software Development
-2023-01-14,US,127.21,total postings,Software Development
+2023-01-14,US,127.2,total postings,Software Development
 2023-01-14,US,131.19,new postings,Software Development
 2023-01-15,US,127.12,total postings,Software Development
 2023-01-15,US,130.94,new postings,Software Development
@@ -21933,7 +21989,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2023-01-17,US,130.32,new postings,Software Development
 2023-01-18,US,126.62,total postings,Software Development
 2023-01-18,US,128.63,new postings,Software Development
-2023-01-19,US,126.52,total postings,Software Development
+2023-01-19,US,126.51,total postings,Software Development
 2023-01-19,US,127.28,new postings,Software Development
 2023-01-20,US,126.12,total postings,Software Development
 2023-01-20,US,126.42,new postings,Software Development
@@ -23159,7 +23215,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-09-21,US,74.56,new postings,Software Development
 2024-09-22,US,70.02,total postings,Software Development
 2024-09-22,US,74.8,new postings,Software Development
-2024-09-23,US,70.07,total postings,Software Development
+2024-09-23,US,70.06,total postings,Software Development
 2024-09-23,US,75.46,new postings,Software Development
 2024-09-24,US,70.04,total postings,Software Development
 2024-09-24,US,76.22,new postings,Software Development
@@ -23175,7 +23231,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-09-29,US,75.75,new postings,Software Development
 2024-09-30,US,69.32,total postings,Software Development
 2024-09-30,US,75.92,new postings,Software Development
-2024-10-01,US,69.19,total postings,Software Development
+2024-10-01,US,69.18,total postings,Software Development
 2024-10-01,US,76.03,new postings,Software Development
 2024-10-02,US,69.02,total postings,Software Development
 2024-10-02,US,75.77,new postings,Software Development
@@ -23742,27 +23798,27 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-07-10,US,64.73,total postings,Software Development
 2025-07-10,US,86.83,new postings,Software Development
 2025-07-11,US,64.88,total postings,Software Development
-2025-07-11,US,87.04,new postings,Software Development
+2025-07-11,US,87.03,new postings,Software Development
 2025-07-12,US,64.96,total postings,Software Development
-2025-07-12,US,87.34,new postings,Software Development
+2025-07-12,US,87.33,new postings,Software Development
 2025-07-13,US,65.1,total postings,Software Development
-2025-07-13,US,86.2,new postings,Software Development
+2025-07-13,US,86.19,new postings,Software Development
 2025-07-14,US,65.16,total postings,Software Development
-2025-07-14,US,84.64,new postings,Software Development
+2025-07-14,US,84.63,new postings,Software Development
 2025-07-15,US,65.29,total postings,Software Development
 2025-07-15,US,83.29,new postings,Software Development
 2025-07-16,US,65.45,total postings,Software Development
 2025-07-16,US,82.46,new postings,Software Development
 2025-07-17,US,65.58,total postings,Software Development
-2025-07-17,US,81.66,new postings,Software Development
+2025-07-17,US,81.65,new postings,Software Development
 2025-07-18,US,65.67,total postings,Software Development
-2025-07-18,US,81.11,new postings,Software Development
+2025-07-18,US,81.1,new postings,Software Development
 2025-07-19,US,65.67,total postings,Software Development
 2025-07-19,US,80.33,new postings,Software Development
 2025-07-20,US,65.84,total postings,Software Development
 2025-07-20,US,80.78,new postings,Software Development
 2025-07-21,US,65.99,total postings,Software Development
-2025-07-21,US,81.63,new postings,Software Development
+2025-07-21,US,81.62,new postings,Software Development
 2025-07-22,US,66.13,total postings,Software Development
 2025-07-22,US,82.8,new postings,Software Development
 2025-07-23,US,66.16,total postings,Software Development
@@ -23783,7 +23839,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-07-30,US,81.72,new postings,Software Development
 2025-07-31,US,66.01,total postings,Software Development
 2025-07-31,US,80.84,new postings,Software Development
-2025-08-01,US,66.2,total postings,Software Development
+2025-08-01,US,66.19,total postings,Software Development
 2025-08-01,US,81.05,new postings,Software Development
 2025-08-02,US,66.25,total postings,Software Development
 2025-08-02,US,81.41,new postings,Software Development
@@ -23797,7 +23853,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-08-06,US,81.66,new postings,Software Development
 2025-08-07,US,66.17,total postings,Software Development
 2025-08-07,US,81.75,new postings,Software Development
-2025-08-08,US,66.02,total postings,Software Development
+2025-08-08,US,66.01,total postings,Software Development
 2025-08-08,US,81.91,new postings,Software Development
 2025-08-09,US,65.96,total postings,Software Development
 2025-08-09,US,81.86,new postings,Software Development
@@ -24473,7 +24529,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-07-10,US,86.84,new postings,Software Development
 2026-07-11,US,74.78,total postings,Software Development
 2026-07-11,US,92.32,new postings,Software Development
-2026-07-12,US,74.97,total postings,Software Development
+2026-07-12,US,74.96,total postings,Software Development
 2026-07-12,US,94.37,new postings,Software Development
 2026-07-13,US,75.21,total postings,Software Development
 2026-07-13,US,94.17,new postings,Software Development
@@ -24489,7 +24545,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-07-18,US,87.46,new postings,Software Development
 2026-07-19,US,75.4,total postings,Software Development
 2026-07-19,US,85.25,new postings,Software Development
-2026-07-20,US,75.4,total postings,Software Development
+2026-07-20,US,75.39,total postings,Software Development
 2026-07-20,US,84.55,new postings,Software Development
 2026-07-21,US,75.31,total postings,Software Development
 2026-07-21,US,83.6,new postings,Software Development
@@ -24516,21 +24572,21 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-08-01,US,75.15,total postings,Software Development
 2026-08-01,US,81.43,new postings,Software Development
 2026-08-02,US,74.85,total postings,Software Development
-2026-08-02,US,80.42,new postings,Software Development
+2026-08-02,US,80.41,new postings,Software Development
 2026-08-03,US,74.43,total postings,Software Development
 2026-08-03,US,78.8,new postings,Software Development
 2026-08-04,US,74.04,total postings,Software Development
-2026-08-04,US,77.44,new postings,Software Development
+2026-08-04,US,77.43,new postings,Software Development
 2026-08-05,US,73.72,total postings,Software Development
-2026-08-05,US,76.34,new postings,Software Development
+2026-08-05,US,76.33,new postings,Software Development
 2026-08-06,US,73.65,total postings,Software Development
 2026-08-06,US,75.32,new postings,Software Development
 2026-08-07,US,73.63,total postings,Software Development
-2026-08-07,US,75.31,new postings,Software Development
-2026-08-08,US,73.68,total postings,Software Development
+2026-08-07,US,75.3,new postings,Software Development
+2026-08-08,US,73.67,total postings,Software Development
 2026-08-08,US,75.22,new postings,Software Development
 2026-08-09,US,73.73,total postings,Software Development
-2026-08-09,US,75.3,new postings,Software Development
+2026-08-09,US,75.29,new postings,Software Development
 2026-08-10,US,73.82,total postings,Software Development
 2026-08-10,US,75.79,new postings,Software Development
 2026-08-11,US,73.91,total postings,Software Development
@@ -24549,7 +24605,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-08-17,US,80.42,new postings,Software Development
 2026-08-18,US,74.52,total postings,Software Development
 2026-08-18,US,81.14,new postings,Software Development
-2026-08-19,US,74.47,total postings,Software Development
+2026-08-19,US,74.46,total postings,Software Development
 2026-08-19,US,81.03,new postings,Software Development
 2026-08-20,US,74.47,total postings,Software Development
 2026-08-20,US,80.88,new postings,Software Development
@@ -24563,7 +24619,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-08-24,US,80.48,new postings,Software Development
 2026-08-25,US,74.81,total postings,Software Development
 2026-08-25,US,80.13,new postings,Software Development
-2026-08-26,US,74.78,total postings,Software Development
+2026-08-26,US,74.77,total postings,Software Development
 2026-08-26,US,79.97,new postings,Software Development
 2026-08-27,US,74.71,total postings,Software Development
 2026-08-27,US,80.14,new postings,Software Development
@@ -24591,7 +24647,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-09-07,US,96.95,new postings,Software Development
 2026-09-08,US,77.06,total postings,Software Development
 2026-09-08,US,97.78,new postings,Software Development
-2026-09-09,US,76.91,total postings,Software Development
+2026-09-09,US,76.9,total postings,Software Development
 2026-09-09,US,96.71,new postings,Software Development
 2026-09-10,US,76.8,total postings,Software Development
 2026-09-10,US,93.94,new postings,Software Development
@@ -24605,7 +24661,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-09-14,US,76.79,new postings,Software Development
 2026-09-15,US,76.48,total postings,Software Development
 2026-09-15,US,75.97,new postings,Software Development
-2026-09-16,US,76.74,total postings,Software Development
+2026-09-16,US,76.73,total postings,Software Development
 2026-09-16,US,76.17,new postings,Software Development
 2026-09-17,US,77.0,total postings,Software Development
 2026-09-17,US,76.86,new postings,Software Development
@@ -24655,7 +24711,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-10-09,US,81.55,new postings,Software Development
 2026-10-10,US,78.08,total postings,Software Development
 2026-10-10,US,80.3,new postings,Software Development
-2026-10-11,US,77.93,total postings,Software Development
+2026-10-11,US,77.92,total postings,Software Development
 2026-10-11,US,79.14,new postings,Software Development
 2026-10-12,US,78.03,total postings,Software Development
 2026-10-12,US,78.87,new postings,Software Development
@@ -24677,7 +24733,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-10-20,US,86.84,new postings,Software Development
 2026-10-21,US,80.39,total postings,Software Development
 2026-10-21,US,88.16,new postings,Software Development
-2026-10-22,US,80.47,total postings,Software Development
+2026-10-22,US,80.46,total postings,Software Development
 2026-10-22,US,89.14,new postings,Software Development
 2026-10-23,US,80.79,total postings,Software Development
 2026-10-23,US,89.91,new postings,Software Development
@@ -24709,3 +24765,17 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2026-11-05,US,89.28,new postings,Software Development
 2026-11-06,US,81.4,total postings,Software Development
 2026-11-06,US,89.7,new postings,Software Development
+2026-11-07,US,81.54,total postings,Software Development
+2026-11-07,US,90.44,new postings,Software Development
+2026-11-08,US,81.55,total postings,Software Development
+2026-11-08,US,90.49,new postings,Software Development
+2026-11-09,US,81.61,total postings,Software Development
+2026-11-09,US,90.18,new postings,Software Development
+2026-11-10,US,81.76,total postings,Software Development
+2026-11-10,US,89.88,new postings,Software Development
+2026-11-11,US,81.76,total postings,Software Development
+2026-11-11,US,89.56,new postings,Software Development
+2026-11-12,US,81.79,total postings,Software Development
+2026-11-12,US,89.45,new postings,Software Development
+2026-11-13,US,81.71,total postings,Software Development
+2026-11-13,US,88.15,new postings,Software Development
