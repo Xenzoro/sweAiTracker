@@ -36,3 +36,4 @@ run_date,indeed_ok,sources_ok,sources_failed,sources_truncated,total_jobs,engine
 2026-11-19,1,45,0,0,10515,5281,actions v2 (45 company boards); new_eng=108; closed_eng=87; ai_title_share=16.7; ai_coding_tools_share=20.2; hn=ok; bls=skipped; boards=ok; failed companies: none
 2026-11-20,1,45,0,0,10515,5272,actions v2 (45 company boards); new_eng=91; closed_eng=100; ai_title_share=16.6; ai_coding_tools_share=20.2; hn=ok; bls=skipped; boards=ok; failed companies: none
 2026-11-21,1,45,0,0,10549,5294,actions v2 (45 company boards); new_eng=110; closed_eng=88; ai_title_share=16.4; ai_coding_tools_share=19.9; hn=ok; bls=skipped; boards=ok; failed companies: none
+2026-11-22,1,45,0,0,10543,5293,actions v2 (45 company boards); new_eng=4; closed_eng=5; ai_title_share=16.4; ai_coding_tools_share=20.0; hn=ok; bls=skipped; boards=ok; failed companies: none
