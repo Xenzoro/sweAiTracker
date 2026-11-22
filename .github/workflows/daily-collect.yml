@@ -1,7 +1,8 @@
 name: Daily collection
 
 on:
-  # Daily schedule removed 2026-11-21: collection ended. Manual runs still work.
+  schedule:
+    - cron: '23 14 * * *'   # 14:23 UTC = 6:23am Pacific
   workflow_dispatch:
     inputs:
       only:

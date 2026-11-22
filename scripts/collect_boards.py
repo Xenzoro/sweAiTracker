@@ -148,6 +148,22 @@ reg = pd.concat([reg[~reg.job_key.isin(td.job_key)], td[REG_COLS]], ignore_index
 reg = reg.sort_values(['company', 'job_key'])
 reg.to_csv(rp, index=False)
 
+# ---------------------------------------------------------------- clean registry, filtered at collection
+# Same rules as the Analyze Me 2 cleaning, applied every day so analysis starts from clean rows:
+# engineering roles only, US locations only, reposts (same company, title and location under a new ID) folded into the
+# earliest one, and salaries kept only when they are US dollars and look like yearly pay. The full registry above stays
+# untouched so the daily summaries keep the same definition as before.
+cl = reg[(reg.is_engineering == 1) & (reg.is_us == 1)].copy()
+cl['_k'] = cl.company.astype(str) + '|' + cl.title.astype(str).str.strip().str.lower() + '|' + cl.location.astype(str).str.strip().str.lower()
+cl = cl.sort_values(['first_seen', 'job_key']).drop_duplicates('_k', keep='first').drop(columns='_k')
+lo, hi = pd.to_numeric(cl.salary_min, errors='coerce'), pd.to_numeric(cl.salary_max, errors='coerce')
+usd = cl.salary_currency.isin(['USD', 'USD?'])
+yearly = (lo >= 20000) & (hi <= 1_000_000) & (hi <= lo * 3)
+cl['salary_ok'] = (usd & yearly).astype(int)
+cl['salary_mid'] = ((lo + hi) / 2).where(cl.salary_ok == 1)
+cl.sort_values(['company', 'job_key']).to_csv(os.path.join(OUT, 'postings_clean.csv'), index=False)
+print(f"clean registry: {len(cl)} US engineering postings, {int(cl.salary_ok.sum())} with a usable yearly salary")
+
 # ---------------------------------------------------------------- summaries (rebuilt from all snapshots)
 ok = flog[flog.status == 'ok'].groupby('date').company.apply(set).to_dict()
 attrs = reg.set_index('job_key')

@@ -42,6 +42,7 @@ scripts/bls.py                    BLS JOLTS / CES / OEWS -> data/bls/
 scripts/indeed.py                 Indeed Hiring Lab -> data/indeed/
 scripts/common.py                 shared title categories and description keyword rules
 data/boards/postings.csv          one row per job ever seen: title, category, seniority, description flags, salary, first_seen, last_seen
+data/boards/postings_clean.csv    filtered at collection: US engineering roles only, reposts folded into the earliest, salary_ok = 1 when pay is US dollars and yearly ($20,000 to $1,000,000, top no more than 3x bottom), salary_mid set only then
 data/boards/snapshots/DATE.csv    job IDs open on DATE
 data/boards/daily_summary.csv     one row per day: open / new / closed engineering jobs, AI shares, median pay (open in Excel)
 data/boards/category_summary.csv  one row per day per job category
